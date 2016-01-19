@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Incense</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="userhint">User</string>
+    <string name="passwordhint">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signup">Not logged in? Sign Up!</string>
+    <string name="emailHint">Email</string>
+    <string name="signupButton">Sign Up!</string>
+    <string name="subtitle">Annoying people</string>
+</resources>
