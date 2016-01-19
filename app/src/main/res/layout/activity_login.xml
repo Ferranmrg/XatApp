@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".controllers.LoginActivity"
+    tools:context=".views.LoginActivity"
     android:background="@drawable/background_fill">
 
     <ImageView
@@ -17,58 +17,96 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
-
-    <ImageView
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignBottom="@+id/loginButton"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:src="#28ffffff"
-        android:layout_alignTop="@+id/signupText" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/app_name"
+        android:id="@+id/Title"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:textSize="60sp"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/subtitle"
+        android:id="@+id/SubTitle"
+        android:layout_below="@+id/Title"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/SubTitle"
+        android:layout_marginTop="20dp"
+        >
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="30dp"
         android:id="@+id/usernameField"
         android:hint="@string/userhint"
         android:layout_below="@+id/signupText"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:paddingLeft="@dimen/appbar_padding_horizontal"
+        android:paddingRight="@dimen/appbar_padding_horizontal"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:background="#fff" />
     <requestFocus/>
 
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="30dp"
         android:inputType="textPassword"
         android:ems="10"
         android:id="@+id/passwordField"
         android:hint="@string/passwordhint"
         android:layout_below="@+id/usernameField"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:paddingLeft="@dimen/appbar_padding_horizontal"
+        android:paddingRight="@dimen/appbar_padding_horizontal"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:background="#fff" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/loginButton"
         android:id="@+id/loginButton"
+        android:paddingTop="@dimen/appbar_padding_top"
+        android:paddingBottom="@dimen/appbar_padding_top"
+        android:paddingLeft="@dimen/appbar_padding_horizontal"
+        android:paddingRight="@dimen/appbar_padding_horizontal"
         android:layout_below="@+id/passwordField"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/signup"
+            android:id="@+id/signupText"
+            android:textColor="#FFF"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            android:textSize="16sp" />
+    </LinearLayout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/signup"
-        android:id="@+id/signupText"
-        android:layout_marginTop="103dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+
 
 </RelativeLayout>
