@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.ferran.yep.R;
+import com.parse.Parse;
 import com.parse.ParseObject;
 
 public class LoginActivity extends AppCompatActivity {
@@ -19,9 +20,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
+        Parse.initialize(this);
         mSignUpTextView = (TextView)findViewById(R.id.signupText);
         EditText usuTxtEdit = (EditText)findViewById(R.id.passwordField);
         usuTxtEdit.requestFocus();

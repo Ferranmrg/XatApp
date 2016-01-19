@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
-        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
-    },
-    {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
+        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
     },
     {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
