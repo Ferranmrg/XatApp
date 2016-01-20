@@ -12,6 +12,7 @@ import com.ferran.yep.R;
 
 //CONTROLLER
 import com.ferran.yep.controllers.SignUpController;
+import com.parse.Parse;
 import com.parse.ParseUser;
 import com.parse.SignUpCallback;
 
@@ -25,6 +26,7 @@ public class SignUpActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         getSupportActionBar().hide();
         setContentView(R.layout.activity_sign_up);
 
@@ -84,13 +86,19 @@ public class SignUpActivity extends AppCompatActivity {
         user.setUsername(usu);
         user.setPassword(pwd);
         user.setEmail(mail);
+
+
         user.signUpInBackground(new SignUpCallback() {
             @Override
             public void done(com.parse.ParseException e) {
                 if (e == null) {
-                    Log.i(TAG, "done: Loged In complete");
+                    // Hooray! Let them use the app now.
+                    Log.d("prueba", "createUser: biennn ");
                 } else {
-                    Log.i(TAG, "done: Something went wrong");
+
+                    // Sign up didn't succeed. Look at the ParseException
+                    // to figure out what went wrong
+                    Log.d("prueba", "createUser:  malll");
                 }
             }
         });

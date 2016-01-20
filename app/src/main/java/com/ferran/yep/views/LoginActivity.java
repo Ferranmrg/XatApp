@@ -28,10 +28,11 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        // Parse.initialize(this.getApplicationContext());
+
+
         mSignUpTextView = (TextView)findViewById(R.id.signupText);
         EditText usuTxtEdit = (EditText)findViewById(R.id.passwordField);
-        usuTxtEdit.requestFocus();
+
         getSupportActionBar().hide();
         mSignUpTextView.setOnClickListener(new View.OnClickListener() {
             @Override

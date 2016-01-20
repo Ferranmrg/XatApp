@@ -32,13 +32,6 @@
         <activity
             android:name="com.ferran.yep.views.SignUpActivity"
             android:parentActivityName="com.ferran.yep.views.MainActivity" />
-
-        <meta-data
-            android:name="com.parse.APPLICATION_ID"
-            android:value="BX4DNKHpKq80K5ORG6wpcZFBkelvRUeZqyDqYmma" />
-        <meta-data
-            android:name="com.parse.CLIENT_KEY"
-            android:value="uNpeM7tZVjU79dsyVPB0OcCAJ68ndp2xX9NUNQKe" />
     </application>
 
 </manifest>

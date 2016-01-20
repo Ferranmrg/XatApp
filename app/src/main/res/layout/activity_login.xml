@@ -43,70 +43,60 @@
         android:textStyle="bold" />
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_below="@id/SubTitle"
-        android:layout_marginTop="20dp"
-        >
+        android:layout_marginTop="40dp"
+        android:id="@+id/linearLayout"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:padding="10dp"
+        android:background="#58000000">
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="30dp"
+        android:layout_height="wrap_content"
         android:id="@+id/usernameField"
         android:hint="@string/userhint"
         android:layout_below="@+id/signupText"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:paddingLeft="@dimen/appbar_padding_horizontal"
-        android:paddingRight="@dimen/appbar_padding_horizontal"
-        android:layout_marginLeft="@dimen/activity_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin"
-        android:background="#fff" />
+        android:layout_alignParentStart="true" />
     <requestFocus/>
 
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="30dp"
-        android:inputType="textPassword"
-        android:ems="10"
-        android:id="@+id/passwordField"
-        android:hint="@string/passwordhint"
-        android:layout_below="@+id/usernameField"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:paddingLeft="@dimen/appbar_padding_horizontal"
-        android:paddingRight="@dimen/appbar_padding_horizontal"
-        android:layout_marginLeft="@dimen/activity_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin"
-        android:background="#fff" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/passwordField"
+            android:hint="@string/passwordhint"
+            android:layout_alignBottom="@+id/linearLayout" />
+
+    </LinearLayout>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/loginButton"
         android:id="@+id/loginButton"
-        android:paddingTop="@dimen/appbar_padding_top"
-        android:paddingBottom="@dimen/appbar_padding_top"
-        android:paddingLeft="@dimen/appbar_padding_horizontal"
-        android:paddingRight="@dimen/appbar_padding_horizontal"
-        android:layout_below="@+id/passwordField"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="@dimen/activity_horizontal_margin"
-        android:layout_marginRight="@dimen/activity_horizontal_margin" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="@string/signup"
-            android:id="@+id/signupText"
-            android:textColor="#FFF"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true"
-            android:layout_marginTop="20dp"
-            android:layout_gravity="center_horizontal"
-            android:textSize="16sp" />
-    </LinearLayout>
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/linearLayout"
+        android:layout_alignRight="@+id/linearLayout"
+        android:background="@drawable/button_custom"
+        android:layout_below="@+id/linearLayout" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/signup"
+        android:id="@+id/signupText"
+        android:textColor="#FFF"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16sp"
+        android:layout_marginBottom="71dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="20dp" />
 
 
 </RelativeLayout>
