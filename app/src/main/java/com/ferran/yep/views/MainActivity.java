@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         ParseUser currentUser = ParseUser.getCurrentUser();
         if (currentUser != null) {
             Log.d("prueba", "onCreate: estan en main wiii ");

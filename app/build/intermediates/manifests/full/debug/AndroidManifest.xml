@@ -21,6 +21,7 @@
         <activity
             android:name="com.ferran.yep.views.MainActivity"
             android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,10 +29,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ferran.yep.views.LoginActivity" />
+        <activity
+            android:name="com.ferran.yep.views.LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
         <activity
             android:name="com.ferran.yep.views.SignUpActivity"
-            android:parentActivityName="com.ferran.yep.views.MainActivity" />
+            android:parentActivityName="com.ferran.yep.views.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
     </application>
 
 </manifest>
