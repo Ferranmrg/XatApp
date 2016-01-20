@@ -279,6 +279,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="emailHint">Email</string>
+    <string name="empty_inbox_label">No new messages</string>
     <string name="loginButton">Login</string>
     <string name="passwordhint">Password</string>
     <string name="section_format">Hello World from section: %1$d</string>
@@ -286,6 +287,8 @@
     <string name="signupButton">Sign Up!</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="subtitle">Annoying people</string>
+    <string name="tab1">Inbox</string>
+    <string name="tab2">Friends</string>
     <string name="userhint">User</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

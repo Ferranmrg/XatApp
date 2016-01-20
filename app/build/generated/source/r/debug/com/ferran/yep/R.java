@@ -2309,6 +2309,7 @@ containing a value of this type.
         public static final int parentPanel=0x7f0c0046;
         public static final int passwordField=0x7f0c006f;
         public static final int pin=0x7f0c001b;
+        public static final int progressBar=0x7f0c0081;
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c0054;
@@ -2329,7 +2330,6 @@ containing a value of this type.
         public static final int search_plate=0x7f0c0062;
         public static final int search_src_text=0x7f0c0063;
         public static final int search_voice_btn=0x7f0c0067;
-        public static final int section_label=0x7f0c0081;
         public static final int select_dialog_listview=0x7f0c0068;
         public static final int shortcut=0x7f0c0053;
         public static final int showCustom=0x7f0c0011;
@@ -2414,19 +2414,20 @@ containing a value of this type.
         public static final int design_navigation_item_subheader=0x7f040024;
         public static final int design_navigation_menu=0x7f040025;
         public static final int design_navigation_menu_item=0x7f040026;
-        public static final int fragment_main=0x7f040027;
-        public static final int notification_media_action=0x7f040028;
-        public static final int notification_media_cancel_action=0x7f040029;
-        public static final int notification_template_big_media=0x7f04002a;
-        public static final int notification_template_big_media_narrow=0x7f04002b;
-        public static final int notification_template_lines=0x7f04002c;
-        public static final int notification_template_media=0x7f04002d;
-        public static final int notification_template_part_chronometer=0x7f04002e;
-        public static final int notification_template_part_time=0x7f04002f;
-        public static final int select_dialog_item_material=0x7f040030;
-        public static final int select_dialog_multichoice_material=0x7f040031;
-        public static final int select_dialog_singlechoice_material=0x7f040032;
-        public static final int support_simple_spinner_dropdown_item=0x7f040033;
+        public static final int fragment_inbox=0x7f040027;
+        public static final int fragment_main=0x7f040028;
+        public static final int notification_media_action=0x7f040029;
+        public static final int notification_media_cancel_action=0x7f04002a;
+        public static final int notification_template_big_media=0x7f04002b;
+        public static final int notification_template_big_media_narrow=0x7f04002c;
+        public static final int notification_template_lines=0x7f04002d;
+        public static final int notification_template_media=0x7f04002e;
+        public static final int notification_template_part_chronometer=0x7f04002f;
+        public static final int notification_template_part_time=0x7f040030;
+        public static final int select_dialog_item_material=0x7f040031;
+        public static final int select_dialog_multichoice_material=0x7f040032;
+        public static final int select_dialog_singlechoice_material=0x7f040033;
+        public static final int support_simple_spinner_dropdown_item=0x7f040034;
     }
     public static final class menu {
         public static final int menu_main=0x7f0d0000;
@@ -2459,14 +2460,17 @@ containing a value of this type.
         public static final int appbar_scrolling_view_behavior=0x7f060016;
         public static final int character_counter_pattern=0x7f060017;
         public static final int emailHint=0x7f060018;
-        public static final int loginButton=0x7f060019;
-        public static final int passwordhint=0x7f06001a;
-        public static final int section_format=0x7f06001b;
-        public static final int signup=0x7f06001c;
-        public static final int signupButton=0x7f06001d;
+        public static final int empty_inbox_label=0x7f060019;
+        public static final int loginButton=0x7f06001a;
+        public static final int passwordhint=0x7f06001b;
+        public static final int section_format=0x7f06001c;
+        public static final int signup=0x7f06001d;
+        public static final int signupButton=0x7f06001e;
         public static final int status_bar_notification_info_overflow=0x7f060013;
-        public static final int subtitle=0x7f06001e;
-        public static final int userhint=0x7f06001f;
+        public static final int subtitle=0x7f06001f;
+        public static final int tab1=0x7f060020;
+        public static final int tab2=0x7f060021;
+        public static final int userhint=0x7f060022;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f090080;

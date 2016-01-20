@@ -9,4 +9,7 @@
     <string name="emailHint">Email</string>
     <string name="signupButton">Sign Up!</string>
     <string name="subtitle">Annoying people</string>
+    <string name="tab1">Inbox</string>
+    <string name="tab2">Friends</string>
+    <string name="empty_inbox_label">No new messages</string>
 </resources>
