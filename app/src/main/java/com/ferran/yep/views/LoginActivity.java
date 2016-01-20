@@ -5,22 +5,30 @@ import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ferran.yep.R;
+import com.parse.LogInCallback;
 import com.parse.Parse;
+import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParseUser;
 
 public class LoginActivity extends AppCompatActivity {
 
     protected TextView mSignUpTextView;
+    private EditText userField, pwdField;
+    private Button sendBtn;
+    private final String TAG = SignUpActivity.class.getSimpleName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        Parse.initialize(this);
+        // Parse.initialize(this.getApplicationContext());
         mSignUpTextView = (TextView)findViewById(R.id.signupText);
         EditText usuTxtEdit = (EditText)findViewById(R.id.passwordField);
         usuTxtEdit.requestFocus();
@@ -32,5 +40,33 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        userField = (EditText) findViewById(R.id.usernameField);
+        pwdField = (EditText) findViewById(R.id.passwordField);
+        sendBtn = (Button) findViewById(R.id.loginButton);
+        sendBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if (clickPerformed()) {
+                    Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                    startActivity(intent);
+                }
+            }
+        });
+    }
+
+    public boolean clickPerformed() {
+        final boolean complete[] = {false};
+        ParseUser.logInInBackground(String.valueOf(userField), String.valueOf(pwdField), new LogInCallback() {
+            @Override
+            public void done(ParseUser user, ParseException e) {
+                if (user != null) {
+                    complete[0] = true;
+                } else {
+                    Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
+                    complete[0] = false;
+                }
+            }
+        });
+        return complete[0];
     }
 }

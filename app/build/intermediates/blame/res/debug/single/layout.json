@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
-        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
-    },
-    {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
