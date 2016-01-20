@@ -31,13 +31,11 @@
         </activity>
         <activity
             android:name="com.ferran.yep.views.LoginActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.ferran.yep.views.SignUpActivity"
             android:parentActivityName="com.ferran.yep.views.MainActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

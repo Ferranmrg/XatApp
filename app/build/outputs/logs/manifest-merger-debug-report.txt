@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:3:5-29
 		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/Android
 	android:name
 		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:8:5-36:19
+ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:8:5-35:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
@@ -63,13 +63,13 @@ ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/Android
 	android:name
 		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:23:27-74
 activity#com.ferran.yep.views.LoginActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:26:9-28:20
+ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:26:9-28:61
 	android:screenOrientation
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:27:13-49
+		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:28:13-49
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:26:19-54
+		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:27:13-48
 activity#com.ferran.yep.views.SignUpActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:29:9-33:20
+ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:29:9-32:61
 	android:screenOrientation
 		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:32:13-49
 	android:parentActivityName

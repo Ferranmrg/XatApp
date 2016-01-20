@@ -277,6 +277,7 @@
     <string name="action_logOut">Log Out</string>
     <string name="app_name">Incense</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="back_button">&lt; Back</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="emailHint">Email</string>
     <string name="loginButton">Login</string>

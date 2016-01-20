@@ -59,7 +59,9 @@
         android:hint="@string/userhint"
         android:layout_below="@+id/signupText"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:textColorHint="#fff"
+        android:textColor="#fff" />
     <requestFocus/>
 
         <EditText
@@ -69,7 +71,9 @@
             android:ems="10"
             android:id="@+id/passwordField"
             android:hint="@string/passwordhint"
-            android:layout_alignBottom="@+id/linearLayout" />
+            android:layout_alignBottom="@+id/linearLayout"
+            android:textColorHint="#fff"
+            android:textColor="#fff" />
 
     </LinearLayout>
 
