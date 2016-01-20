@@ -50,19 +50,19 @@ public class SignUpActivity extends AppCompatActivity {
         boolean complete = true;
         String usu = "", pwd = "", mail = "";
         if (!isEmptyField(userField))
-            usu = String.valueOf(userField.getText()).trim();
+            usu = String.valueOf(userField.getText());
         else {
             userField.setHint("Debe insertar un usuario");
             complete = false;
         }
         if (!isEmptyField(pwdField))
-            pwd = String.valueOf(pwdField.getText()).trim();
+            pwd = String.valueOf(pwdField.getText());
         else {
             pwdField.setHint("Debe insertar una contraseña");
             complete = false;
         }
         if (!isEmptyField(emailField))
-            mail = String.valueOf(emailField.getText()).trim();
+            mail = String.valueOf(emailField.getText());
         else {
             emailField.setHint("Debe insertar un email");
             complete = false;

@@ -2233,12 +2233,12 @@ containing a value of this type.
         public static final int action_bar_title=0x7f0c003a;
         public static final int action_context_bar=0x7f0c005b;
         public static final int action_divider=0x7f0c0086;
+        public static final int action_logOut=0x7f0c008f;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c0057;
         public static final int action_mode_bar_stub=0x7f0c0056;
         public static final int action_mode_close_button=0x7f0c003c;
-        public static final int action_settings=0x7f0c008f;
         public static final int activity_chooser_view_content=0x7f0c003d;
         public static final int alertTitle=0x7f0c0049;
         public static final int always=0x7f0c0032;
@@ -2454,7 +2454,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int action_settings=0x7f060014;
+        public static final int action_logOut=0x7f060014;
         public static final int app_name=0x7f060015;
         public static final int appbar_scrolling_view_behavior=0x7f060016;
         public static final int character_counter_pattern=0x7f060017;

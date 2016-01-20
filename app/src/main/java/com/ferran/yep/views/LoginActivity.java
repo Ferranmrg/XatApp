@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -47,27 +48,30 @@ public class LoginActivity extends AppCompatActivity {
         sendBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (clickPerformed()) {
-                    Intent intent = new Intent(LoginActivity.this, MainActivity.class);
-                    startActivity(intent);
-                }
+                clickPerformed();
+
+
             }
         });
     }
 
-    public boolean clickPerformed() {
-        final boolean complete[] = {false};
-        ParseUser.logInInBackground(String.valueOf(userField), String.valueOf(pwdField), new LogInCallback() {
+    public void clickPerformed() {
+
+        ParseUser.logInInBackground(String.valueOf(userField.getText()), String.valueOf(pwdField.getText()), new LogInCallback() {
             @Override
             public void done(ParseUser user, ParseException e) {
                 if (user != null) {
-                    complete[0] = true;
+                    Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                    startActivity(intent);
+                    Log.d("prueba", "llego hasta aqui :3 ");
                 } else {
                     Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
-                    complete[0] = false;
+
                 }
             }
+
         });
-        return complete[0];
+
+
     }
 }

@@ -587,12 +587,12 @@ int id action_bar_subtitle 0x7f0c003b
 int id action_bar_title 0x7f0c003a
 int id action_context_bar 0x7f0c005b
 int id action_divider 0x7f0c0086
+int id action_logOut 0x7f0c008f
 int id action_menu_divider 0x7f0c0002
 int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c0057
 int id action_mode_bar_stub 0x7f0c0056
 int id action_mode_close_button 0x7f0c003c
-int id action_settings 0x7f0c008f
 int id activity_chooser_view_content 0x7f0c003d
 int id alertTitle 0x7f0c0049
 int id always 0x7f0c0032
@@ -798,7 +798,7 @@ int string abc_searchview_description_voice 0x7f06000f
 int string abc_shareactionprovider_share_with 0x7f060010
 int string abc_shareactionprovider_share_with_application 0x7f060011
 int string abc_toolbar_collapse_description 0x7f060012
-int string action_settings 0x7f060014
+int string action_logOut 0x7f060014
 int string app_name 0x7f060015
 int string appbar_scrolling_view_behavior 0x7f060016
 int string character_counter_pattern 0x7f060017

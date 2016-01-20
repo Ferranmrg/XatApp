@@ -7,7 +7,7 @@ import com.parse.Parse;
 import com.parse.ParseObject;
 
 /**
- * Created by Ferra on 14/01/2016.
+ * Created by Ferra  on 14/01/2016.
  */
 public class App extends Application {
 
@@ -17,15 +17,15 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.d("hola", "onCreate: ");
+        Log.d("prueba", "onCreate: ");
 
         // Add your initialization code here
         Parse.initialize(this, YOUR_APPLICATION_ID, YOUR_CLIENT_KEY);
 
         // Test creation of object
-        // ParseObject testObject = new ParseObject("TestObject");
-        //testObject.put("foo", "bar");
-        //testObject.saveInBackground();
+        ParseObject testObject = new ParseObject("TestObject");
+        testObject.put("foo", "bar");
+        testObject.saveInBackground();
 
 
 
