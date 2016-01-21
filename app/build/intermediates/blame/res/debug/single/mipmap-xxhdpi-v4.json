@@ -4,11 +4,11 @@
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]
