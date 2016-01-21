@@ -10,10 +10,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imgBackground"
-        android:src="@drawable/background"
+        android:src="@drawable/background_spin"
         android:layout_alignParentBottom="false"
         android:layout_alignParentRight="false"
-        android:scaleType="fitStart"
+        android:scaleType="fitXY"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />

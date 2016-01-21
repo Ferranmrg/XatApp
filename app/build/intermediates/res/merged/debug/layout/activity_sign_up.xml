@@ -52,7 +52,8 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_marginBottom="10dp"
-            android:textColorHint="#fff" />
+            android:textColorHint="#fff"
+            android:textColor="#fff" />
 
         <EditText
             android:layout_width="match_parent"
@@ -66,7 +67,8 @@
             android:layout_alignParentEnd="true"
             android:layout_marginTop="10dp"
             android:textColorHint="#fff"
-            android:layout_marginBottom="10dp" />
+            android:layout_marginBottom="10dp"
+            android:textColor="#fff" />
 
         <EditText
             android:layout_width="match_parent"
@@ -79,7 +81,8 @@
             android:layout_alignBaseline="@+id/back_button"
             android:layout_alignBottom="@+id/back_button"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="10dp" />
+            android:layout_marginTop="10dp"
+            android:textColor="#fff" />
     </LinearLayout>
 
     <TextView
