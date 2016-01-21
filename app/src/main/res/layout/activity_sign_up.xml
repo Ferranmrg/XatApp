@@ -24,7 +24,7 @@
         android:text="@string/signupButton"
         android:id="@+id/signupButton"
         android:nestedScrollingEnabled="false"
-        android:background="@drawable/button_custom"
+        android:background="@drawable/button_custom_signup"
         android:layout_below="@+id/linearLayout2"
         android:layout_alignLeft="@+id/linearLayout2"
         android:layout_alignStart="@+id/linearLayout2"
@@ -53,7 +53,8 @@
             android:layout_alignParentStart="true"
             android:layout_marginBottom="10dp"
             android:textColorHint="#fff"
-            android:textColor="#fff" />
+            android:textColor="#fff"
+            android:background="@drawable/myyep_edit_text_holo_light" />
 
         <EditText
             android:layout_width="match_parent"
@@ -68,7 +69,8 @@
             android:layout_marginTop="10dp"
             android:textColorHint="#fff"
             android:layout_marginBottom="10dp"
-            android:textColor="#fff" />
+            android:textColor="#fff"
+            android:background="@drawable/myyep_edit_text_holo_light" />
 
         <EditText
             android:layout_width="match_parent"
@@ -82,7 +84,8 @@
             android:layout_alignBottom="@+id/back_button"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
-            android:textColor="#fff" />
+            android:textColor="#fff"
+            android:background="@drawable/myyep_edit_text_holo_light" />
     </LinearLayout>
 
     <TextView

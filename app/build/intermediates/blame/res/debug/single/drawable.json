@@ -80,6 +80,10 @@
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/edittext_custom.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/edittext_custom.xml"
+    },
+    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
@@ -118,6 +122,10 @@
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/myyep_edit_text_holo_light.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/myyep_edit_text_holo_light.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -208,6 +216,10 @@
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/ic_action_play_over_video.png"
     },
     {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/button_custom_signup.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/button_custom_signup.xml"
+    },
+    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -226,6 +238,10 @@
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable/edittext_login.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable/edittext_login.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_send_now.png",
