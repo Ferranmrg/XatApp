@@ -26,6 +26,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.ferran.yep.R;
+import com.ferran.yep.controllers.FriendsFragment;
 import com.ferran.yep.controllers.InboxFragment;
 import com.parse.ParseUser;
 
@@ -167,7 +168,13 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
-            return new InboxFragment();
+            Fragment fragment = null;
+            if(position==0) {
+               fragment = new InboxFragment();
+            }else if(position==1) {
+                fragment =  new FriendsFragment();
+            }
+         return fragment;
         }
 
         @Override

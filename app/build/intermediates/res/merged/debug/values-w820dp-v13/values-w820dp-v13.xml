@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="activity_horizontal_margin">64dp</dimen>
+    <string name="action_logOut">Log Out</string>
+    <string name="app_name">Incense</string>
+    <string name="back_button">&lt; Back</string>
+    <string name="emailHint">Email</string>
+    <string name="empty_friends_label">Add some friends to start</string>
+    <string name="empty_inbox_label">No new messages</string>
+    <string name="loginButton">Login</string>
+    <string name="passwordhint">Password</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="signup">Not logged in? Sign Up!</string>
+    <string name="signupButton">Sign Up!</string>
+    <string name="subtitle">Annoying people</string>
+    <string name="tab1">Inbox</string>
+    <string name="tab2">Friends</string>
+    <string name="userhint">User</string>
 </resources>
