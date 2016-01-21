@@ -5,6 +5,7 @@ import android.util.Log;
 
 import com.parse.Parse;
 import com.parse.ParseObject;
+import com.parse.ParseUser;
 
 /**
  * Created by Ferra  on 14/01/2016.
@@ -21,11 +22,6 @@ public class App extends Application {
 
         // Add your initialization code here
         Parse.initialize(this, YOUR_APPLICATION_ID, YOUR_CLIENT_KEY);
-
-        // Test creation of object
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
 
 
 

@@ -1,13 +1,16 @@
 package com.ferran.yep.views;
 
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
@@ -37,6 +40,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
 
 
         mSignUpTextView = (TextView)findViewById(R.id.signupText);
@@ -139,7 +143,11 @@ public class LoginActivity extends AppCompatActivity {
                     Log.d("prueba", "llego hasta aqui :3 ");
                 } else {
                     progress.hide();
-                    Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
+                    //Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
+                    Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content),"Login Failed :)",Snackbar.LENGTH_LONG);
+                    snackbar.show();
+                    InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+                    imm.hideSoftInputFromWindow(pwdField.getWindowToken(),InputMethodManager.HIDE_NOT_ALWAYS);
 
                 }
             }

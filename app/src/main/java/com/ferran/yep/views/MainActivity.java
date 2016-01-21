@@ -28,6 +28,7 @@ import android.widget.TextView;
 import com.ferran.yep.R;
 import com.ferran.yep.controllers.FriendsFragment;
 import com.ferran.yep.controllers.InboxFragment;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 import java.util.ArrayList;
@@ -86,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                       .setAction("Action", null).show();
             }
         });
 
