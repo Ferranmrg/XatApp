@@ -6,6 +6,7 @@ import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -27,6 +28,11 @@ public class LoginActivity extends AppCompatActivity {
     private Button sendBtn;
     private final String TAG = SignUpActivity.class.getSimpleName();
 
+    //TEMP de mierda
+    private float x1, x2;
+    static final int MIN_DISTANCE = 150;
+    //---------------
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,13 +44,7 @@ public class LoginActivity extends AppCompatActivity {
 
 
         getSupportActionBar().hide();
-        mSignUpTextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(LoginActivity.this, SignUpActivity.class);
-                startActivity(intent);
-            }
-        });
+
         userField = (EditText) findViewById(R.id.usernameField);
         pwdField = (EditText) findViewById(R.id.passwordField);
         sendBtn = (Button) findViewById(R.id.loginButton);
@@ -57,6 +57,67 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
+
+
+
+    //------------------------------------------PROBAR MIERDA-----------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        switch (event.getAction()) {
+            case MotionEvent.ACTION_DOWN:
+                x1 = event.getX();
+                break;
+            case MotionEvent.ACTION_UP:
+                x2 = event.getX();
+                float deltaX = x2 - x1;
+
+                if (Math.abs(deltaX) > MIN_DISTANCE) {
+                    // Left to Right swipe action
+                    if (x2 > x1) {
+                        // Toast.makeText(this, "Left to Right swipe [Next]", Toast.LENGTH_SHORT).show ();
+
+                    }
+
+                    // Right to left swipe action
+                    else {
+                        // Toast.makeText(this, "Right to Left swipe [Previous]", Toast.LENGTH_SHORT).show ();
+
+
+                        Intent intent = new Intent(LoginActivity.this, SignUpActivity.class);
+                        startActivity(intent);
+                        overridePendingTransition(R.anim.pull_in_right, R.anim.push_out_left);
+                    }
+
+                } else {
+                    // consider as something else - a screen tap for example
+                }
+                break;
+        }
+        return super.onTouchEvent(event);
+    }
+
+
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
     public void clickPerformed() {
         final ProgressDialog progress = new ProgressDialog(this);
@@ -72,6 +133,8 @@ public class LoginActivity extends AppCompatActivity {
 
                     progress.hide();
                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(intent);
                     Log.d("prueba", "llego hasta aqui :3 ");
                 } else {

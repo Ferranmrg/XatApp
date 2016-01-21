@@ -5,11 +5,11 @@
     <string name="userhint">User</string>
     <string name="passwordhint">Password</string>
     <string name="loginButton">Login</string>
-    <string name="signup">Not logged in? Sign Up!</string>
+    <string name="signup">No account? Slice to Sign up ></string>
     <string name="emailHint">Email</string>
     <string name="signupButton">Sign Up!</string>
     <string name="subtitle">Annoying people</string>
-    <string name="back_button"><![CDATA[< Back]]></string>
+    <string name="back_button">Slice right for Log in </string>
     <string name="tab1">Inbox</string>
     <string name="tab2">Friends</string>
     <string name="empty_inbox_label">No new messages</string>

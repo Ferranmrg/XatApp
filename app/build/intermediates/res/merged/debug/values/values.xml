@@ -277,7 +277,7 @@
     <string name="action_logOut">Log Out</string>
     <string name="app_name">Incense</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="back_button">&lt; Back</string>
+    <string name="back_button">Slice right for Log in </string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="emailHint">Email</string>
     <string name="empty_friends_label">Add some friends to start</string>
@@ -285,7 +285,7 @@
     <string name="loginButton">Login</string>
     <string name="passwordhint">Password</string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <string name="signup">Not logged in? Sign Up!</string>
+    <string name="signup">No account? Slice to Sign up ></string>
     <string name="signupButton">Sign Up!</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="subtitle">Annoying people</string>
