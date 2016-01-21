@@ -11269,14 +11269,7 @@
                     "endOffset": 2228
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 153,
-                        "endColumn": 45,
-                        "endOffset": 194
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -11288,14 +11281,7 @@
                     "endOffset": 2275
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 46,
-                        "endOffset": 97
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -11307,14 +11293,7 @@
                     "endOffset": 2326
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 102,
-                        "endColumn": 50,
-                        "endOffset": 148
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -11482,14 +11461,7 @@
                     "endOffset": 3283
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 300,
-                        "endColumn": 53,
-                        "endOffset": 349
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -11573,14 +11545,7 @@
                     "endOffset": 3818
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 199,
-                        "endColumn": 44,
-                        "endOffset": 239
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -11736,14 +11701,7 @@
                     "endOffset": 4546
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 244,
-                        "endColumn": 55,
-                        "endOffset": 295
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -13723,14 +13681,7 @@
                     "endOffset": 38001
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 61,
-                        "endColumn": 49,
-                        "endOffset": 106
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -13762,17 +13713,17 @@
                     "startLine": 279,
                     "startColumn": 4,
                     "startOffset": 38196,
-                    "endColumn": 49,
-                    "endOffset": 38241
+                    "endColumn": 63,
+                    "endOffset": 38255
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 529,
-                        "endColumn": 58,
-                        "endOffset": 583
+                        "startOffset": 536,
+                        "endColumn": 63,
+                        "endOffset": 595
                     }
                 }
             },
@@ -13780,9 +13731,9 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 38246,
+                    "startOffset": 38260,
                     "endColumn": 86,
-                    "endOffset": 38328
+                    "endOffset": 38342
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -13792,9 +13743,9 @@
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 38333,
+                    "startOffset": 38347,
                     "endColumn": 43,
-                    "endOffset": 38372
+                    "endOffset": 38386
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13804,28 +13755,21 @@
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 38377,
+                    "startOffset": 38391,
                     "endColumn": 61,
-                    "endOffset": 38434
+                    "endOffset": 38448
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 668,
-                        "endColumn": 61,
-                        "endOffset": 725
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 38439,
+                    "startOffset": 38453,
                     "endColumn": 45,
-                    "endOffset": 38480
+                    "endOffset": 38494
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13835,9 +13779,9 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 38485,
+                    "startOffset": 38499,
                     "endColumn": 49,
-                    "endOffset": 38530
+                    "endOffset": 38544
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13847,9 +13791,9 @@
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 38535,
+                    "startOffset": 38549,
                     "endColumn": 73,
-                    "endOffset": 38604
+                    "endOffset": 38618
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13859,21 +13803,28 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 38609,
-                    "endColumn": 58,
-                    "endOffset": 38663
+                    "startOffset": 38623,
+                    "endColumn": 65,
+                    "endOffset": 38684
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 65,
+                        "endOffset": 384
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 38668,
+                    "startOffset": 38689,
                     "endColumn": 49,
-                    "endOffset": 38713
+                    "endOffset": 38734
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13883,9 +13834,9 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 38718,
+                    "startOffset": 38739,
                     "endColumn": 70,
-                    "endOffset": 38784
+                    "endOffset": 38805
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -13895,9 +13846,9 @@
                 "to": {
                     "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 38789,
+                    "startOffset": 38810,
                     "endColumn": 52,
-                    "endOffset": 38837
+                    "endOffset": 38858
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13907,47 +13858,33 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 38842,
+                    "startOffset": 38863,
                     "endColumn": 38,
-                    "endOffset": 38876
+                    "endOffset": 38897
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 588,
-                        "endColumn": 38,
-                        "endOffset": 622
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 38881,
+                    "startOffset": 38902,
                     "endColumn": 40,
-                    "endOffset": 38917
+                    "endOffset": 38938
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 627,
-                        "endColumn": 40,
-                        "endOffset": 663
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 38922,
+                    "startOffset": 38943,
                     "endColumn": 41,
-                    "endOffset": 38959
+                    "endOffset": 38980
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/strings.xml"
@@ -13957,9 +13894,9 @@
                 "to": {
                     "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 38964,
+                    "startOffset": 38985,
                     "endColumn": 77,
-                    "endOffset": 39037
+                    "endOffset": 39058
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -13969,9 +13906,9 @@
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 39042,
+                    "startOffset": 39063,
                     "endColumn": 89,
-                    "endOffset": 39127
+                    "endOffset": 39148
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -13981,9 +13918,9 @@
                 "to": {
                     "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 39132,
+                    "startOffset": 39153,
                     "endColumn": 87,
-                    "endOffset": 39215
+                    "endOffset": 39236
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -13993,9 +13930,9 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 39220,
+                    "startOffset": 39241,
                     "endColumn": 95,
-                    "endOffset": 39311
+                    "endOffset": 39332
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14005,30 +13942,22 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 39316,
+                    "startOffset": 39337,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 39631
+                    "endOffset": 39652
                 },
                 "from": {
-                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 54,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 369
-                    }
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 39636,
+                    "startOffset": 39657,
                     "endColumn": 89,
-                    "endOffset": 39721
+                    "endOffset": 39742
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/styles.xml"
@@ -14038,10 +13967,10 @@
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 39726,
+                    "startOffset": 39747,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 39871
+                    "endOffset": 39892
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/styles.xml"
@@ -14051,9 +13980,9 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 39876,
+                    "startOffset": 39897,
                     "endColumn": 79,
-                    "endOffset": 39951
+                    "endOffset": 39972
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values/styles.xml"
@@ -14063,10 +13992,10 @@
                 "to": {
                     "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 39956,
+                    "startOffset": 39977,
                     "endLine": 316,
                     "endColumn": 12,
-                    "endOffset": 40452
+                    "endOffset": 40473
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14076,9 +14005,9 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 40457,
+                    "startOffset": 40478,
                     "endColumn": 88,
-                    "endOffset": 40541
+                    "endOffset": 40562
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14088,10 +14017,10 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 40546,
+                    "startOffset": 40567,
                     "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 40788
+                    "endOffset": 40809
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14101,10 +14030,10 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 40793,
+                    "startOffset": 40814,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 41069
+                    "endOffset": 41090
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14114,10 +14043,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 41074,
+                    "startOffset": 41095,
                     "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 41354
+                    "endOffset": 41375
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14127,10 +14056,10 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 41359,
+                    "startOffset": 41380,
                     "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 41747
+                    "endOffset": 41768
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14140,10 +14069,10 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 41752,
+                    "startOffset": 41773,
                     "endLine": 343,
                     "endColumn": 12,
-                    "endOffset": 42224
+                    "endOffset": 42245
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14153,10 +14082,10 @@
                 "to": {
                     "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 42229,
+                    "startOffset": 42250,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 42446
+                    "endOffset": 42467
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14166,10 +14095,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 42451,
+                    "startOffset": 42472,
                     "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 42668
+                    "endOffset": 42689
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14179,10 +14108,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 42673,
+                    "startOffset": 42694,
                     "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 42936
+                    "endOffset": 42957
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14192,10 +14121,10 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 42941,
+                    "startOffset": 42962,
                     "endLine": 360,
                     "endColumn": 12,
-                    "endOffset": 43163
+                    "endOffset": 43184
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14205,10 +14134,10 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 43168,
+                    "startOffset": 43189,
                     "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 43393
+                    "endOffset": 43414
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14218,10 +14147,10 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 43398,
+                    "startOffset": 43419,
                     "endLine": 368,
                     "endColumn": 12,
-                    "endOffset": 43623
+                    "endOffset": 43644
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14231,10 +14160,10 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 43628,
+                    "startOffset": 43649,
                     "endLine": 372,
                     "endColumn": 12,
-                    "endOffset": 43853
+                    "endOffset": 43874
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14244,10 +14173,10 @@
                 "to": {
                     "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 43858,
+                    "startOffset": 43879,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 44083
+                    "endOffset": 44104
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14257,10 +14186,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 44088,
+                    "startOffset": 44109,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 44310
+                    "endOffset": 44331
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14270,10 +14199,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 44315,
+                    "startOffset": 44336,
                     "endLine": 384,
                     "endColumn": 12,
-                    "endOffset": 44549
+                    "endOffset": 44570
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14283,10 +14212,10 @@
                 "to": {
                     "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 44554,
+                    "startOffset": 44575,
                     "endLine": 388,
                     "endColumn": 12,
-                    "endOffset": 44775
+                    "endOffset": 44796
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14296,10 +14225,10 @@
                 "to": {
                     "startLine": 389,
                     "startColumn": 4,
-                    "startOffset": 44780,
+                    "startOffset": 44801,
                     "endLine": 392,
                     "endColumn": 12,
-                    "endOffset": 45020
+                    "endOffset": 45041
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14309,10 +14238,10 @@
                 "to": {
                     "startLine": 393,
                     "startColumn": 4,
-                    "startOffset": 45025,
+                    "startOffset": 45046,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 45150
+                    "endOffset": 45171
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14322,10 +14251,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 45155,
+                    "startOffset": 45176,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 45280
+                    "endOffset": 45301
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14335,10 +14264,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 45285,
+                    "startOffset": 45306,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 45510
+                    "endOffset": 45531
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14348,10 +14277,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 45515,
+                    "startOffset": 45536,
                     "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 45758
+                    "endOffset": 45779
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14361,10 +14290,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 45763,
+                    "startOffset": 45784,
                     "endLine": 408,
                     "endColumn": 12,
-                    "endOffset": 45977
+                    "endOffset": 45998
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14374,10 +14303,10 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 45982,
+                    "startOffset": 46003,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 46260
+                    "endOffset": 46281
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14387,10 +14316,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 46265,
+                    "startOffset": 46286,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 46468
+                    "endOffset": 46489
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14400,10 +14329,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 46473,
+                    "startOffset": 46494,
                     "endLine": 420,
                     "endColumn": 12,
-                    "endOffset": 46599
+                    "endOffset": 46620
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14413,10 +14342,10 @@
                 "to": {
                     "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 46604,
+                    "startOffset": 46625,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 46826
+                    "endOffset": 46847
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14426,10 +14355,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 46831,
+                    "startOffset": 46852,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 47072
+                    "endOffset": 47093
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14439,10 +14368,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 47077,
+                    "startOffset": 47098,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 47297
+                    "endOffset": 47318
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14452,10 +14381,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 47302,
+                    "startOffset": 47323,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 47544
+                    "endOffset": 47565
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14465,10 +14394,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 47549,
+                    "startOffset": 47570,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 47765
+                    "endOffset": 47786
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14478,10 +14407,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 47770,
+                    "startOffset": 47791,
                     "endLine": 444,
                     "endColumn": 12,
-                    "endOffset": 48010
+                    "endOffset": 48031
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14491,10 +14420,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 48015,
+                    "startOffset": 48036,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 48284
+                    "endOffset": 48305
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14504,10 +14433,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 48289,
+                    "startOffset": 48310,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 48585
+                    "endOffset": 48606
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14517,10 +14446,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 48590,
+                    "startOffset": 48611,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 48909
+                    "endOffset": 48930
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14530,10 +14459,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 48914,
+                    "startOffset": 48935,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 49200
+                    "endOffset": 49221
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14543,10 +14472,10 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 49205,
+                    "startOffset": 49226,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 49514
+                    "endOffset": 49535
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14556,9 +14485,9 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 49519,
+                    "startOffset": 49540,
                     "endColumn": 136,
-                    "endOffset": 49651
+                    "endOffset": 49672
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14568,9 +14497,9 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 49656,
+                    "startOffset": 49677,
                     "endColumn": 130,
-                    "endOffset": 49782
+                    "endOffset": 49803
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14580,9 +14509,9 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 49787,
+                    "startOffset": 49808,
                     "endColumn": 104,
-                    "endOffset": 49887
+                    "endOffset": 49908
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14592,10 +14521,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 49892,
+                    "startOffset": 49913,
                     "endLine": 470,
                     "endColumn": 12,
-                    "endOffset": 50091
+                    "endOffset": 50112
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14605,10 +14534,10 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 50096,
+                    "startOffset": 50117,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 50299
+                    "endOffset": 50320
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14618,10 +14547,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 50304,
+                    "startOffset": 50325,
                     "endLine": 475,
                     "endColumn": 12,
-                    "endOffset": 50423
+                    "endOffset": 50444
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14631,10 +14560,10 @@
                 "to": {
                     "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 50428,
+                    "startOffset": 50449,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 50547
+                    "endOffset": 50568
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14644,9 +14573,9 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 50552,
+                    "startOffset": 50573,
                     "endColumn": 104,
-                    "endOffset": 50652
+                    "endOffset": 50673
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14656,9 +14585,9 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 50657,
+                    "startOffset": 50678,
                     "endColumn": 116,
-                    "endOffset": 50769
+                    "endOffset": 50790
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14668,10 +14597,10 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 50774,
+                    "startOffset": 50795,
                     "endLine": 482,
                     "endColumn": 12,
-                    "endOffset": 50983
+                    "endOffset": 51004
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14681,10 +14610,10 @@
                 "to": {
                     "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 50988,
+                    "startOffset": 51009,
                     "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 51129
+                    "endOffset": 51150
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14694,10 +14623,10 @@
                 "to": {
                     "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 51134,
+                    "startOffset": 51155,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 51269
+                    "endOffset": 51290
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14707,10 +14636,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 51274,
+                    "startOffset": 51295,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 51355
+                    "endOffset": 51376
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14720,10 +14649,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 51360,
+                    "startOffset": 51381,
                     "endLine": 493,
                     "endColumn": 12,
-                    "endOffset": 51703
+                    "endOffset": 51724
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14733,9 +14662,9 @@
                 "to": {
                     "startLine": 494,
                     "startColumn": 4,
-                    "startOffset": 51708,
+                    "startOffset": 51729,
                     "endColumn": 87,
-                    "endOffset": 51791
+                    "endOffset": 51812
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14745,10 +14674,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 51796,
+                    "startOffset": 51817,
                     "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 52021
+                    "endOffset": 52042
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14758,10 +14687,10 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 52026,
+                    "startOffset": 52047,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 52439
+                    "endOffset": 52460
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14771,10 +14700,10 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 52444,
+                    "startOffset": 52465,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 52672
+                    "endOffset": 52693
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14784,9 +14713,9 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 52677,
+                    "startOffset": 52698,
                     "endColumn": 81,
-                    "endOffset": 52754
+                    "endOffset": 52775
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14796,10 +14725,10 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 52759,
+                    "startOffset": 52780,
                     "endLine": 511,
                     "endColumn": 12,
-                    "endOffset": 52852
+                    "endOffset": 52873
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14809,10 +14738,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 52857,
+                    "startOffset": 52878,
                     "endLine": 522,
                     "endColumn": 12,
-                    "endOffset": 53469
+                    "endOffset": 53490
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14822,9 +14751,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 53474,
+                    "startOffset": 53495,
                     "endColumn": 99,
-                    "endOffset": 53569
+                    "endOffset": 53590
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14834,10 +14763,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 53574,
+                    "startOffset": 53595,
                     "endLine": 527,
                     "endColumn": 12,
-                    "endOffset": 53805
+                    "endOffset": 53826
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14847,10 +14776,10 @@
                 "to": {
                     "startLine": 528,
                     "startColumn": 4,
-                    "startOffset": 53810,
+                    "startOffset": 53831,
                     "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 54229
+                    "endOffset": 54250
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14860,10 +14789,10 @@
                 "to": {
                     "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 54234,
+                    "startOffset": 54255,
                     "endLine": 537,
                     "endColumn": 12,
-                    "endOffset": 54468
+                    "endOffset": 54489
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14873,9 +14802,9 @@
                 "to": {
                     "startLine": 538,
                     "startColumn": 4,
-                    "startOffset": 54473,
+                    "startOffset": 54494,
                     "endColumn": 93,
-                    "endOffset": 54562
+                    "endOffset": 54583
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14885,9 +14814,9 @@
                 "to": {
                     "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 54567,
+                    "startOffset": 54588,
                     "endColumn": 88,
-                    "endOffset": 54651
+                    "endOffset": 54672
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14897,10 +14826,10 @@
                 "to": {
                     "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 54656,
+                    "startOffset": 54677,
                     "endLine": 543,
                     "endColumn": 12,
-                    "endOffset": 54888
+                    "endOffset": 54909
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14910,10 +14839,10 @@
                 "to": {
                     "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 54893,
+                    "startOffset": 54914,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 56839
+                    "endOffset": 56860
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14923,10 +14852,10 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 56844,
+                    "startOffset": 56865,
                     "endLine": 573,
                     "endColumn": 12,
-                    "endOffset": 57081
+                    "endOffset": 57102
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14936,10 +14865,10 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 57086,
+                    "startOffset": 57107,
                     "endLine": 600,
                     "endColumn": 12,
-                    "endOffset": 59163
+                    "endOffset": 59184
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14949,10 +14878,10 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 59168,
+                    "startOffset": 59189,
                     "endLine": 753,
                     "endColumn": 12,
-                    "endOffset": 68845
+                    "endOffset": 68866
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14962,10 +14891,10 @@
                 "to": {
                     "startLine": 754,
                     "startColumn": 4,
-                    "startOffset": 68850,
+                    "startOffset": 68871,
                     "endLine": 775,
                     "endColumn": 12,
-                    "endOffset": 70112
+                    "endOffset": 70133
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14975,10 +14904,10 @@
                 "to": {
                     "startLine": 776,
                     "startColumn": 4,
-                    "startOffset": 70117,
+                    "startOffset": 70138,
                     "endLine": 928,
                     "endColumn": 12,
-                    "endOffset": 79904
+                    "endOffset": 79925
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -14988,10 +14917,10 @@
                 "to": {
                     "startLine": 929,
                     "startColumn": 4,
-                    "startOffset": 79909,
+                    "startOffset": 79930,
                     "endLine": 950,
                     "endColumn": 12,
-                    "endOffset": 81185
+                    "endOffset": 81206
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15001,10 +14930,10 @@
                 "to": {
                     "startLine": 951,
                     "startColumn": 4,
-                    "startOffset": 81190,
+                    "startOffset": 81211,
                     "endLine": 957,
                     "endColumn": 12,
-                    "endOffset": 81721
+                    "endOffset": 81742
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15014,10 +14943,10 @@
                 "to": {
                     "startLine": 958,
                     "startColumn": 4,
-                    "startOffset": 81726,
+                    "startOffset": 81747,
                     "endLine": 962,
                     "endColumn": 12,
-                    "endOffset": 82051
+                    "endOffset": 82072
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15027,10 +14956,10 @@
                 "to": {
                     "startLine": 963,
                     "startColumn": 4,
-                    "startOffset": 82056,
+                    "startOffset": 82077,
                     "endLine": 983,
                     "endColumn": 12,
-                    "endOffset": 83174
+                    "endOffset": 83195
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15040,10 +14969,10 @@
                 "to": {
                     "startLine": 984,
                     "startColumn": 4,
-                    "startOffset": 83179,
+                    "startOffset": 83200,
                     "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 83430
+                    "endOffset": 83451
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15053,10 +14982,10 @@
                 "to": {
                     "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 83435,
+                    "startOffset": 83456,
                     "endLine": 993,
                     "endColumn": 12,
-                    "endOffset": 83666
+                    "endOffset": 83687
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15066,10 +14995,10 @@
                 "to": {
                     "startLine": 994,
                     "startColumn": 4,
-                    "startOffset": 83671,
+                    "startOffset": 83692,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 84213
+                    "endOffset": 84234
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15079,10 +15008,10 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 84218,
+                    "startOffset": 84239,
                     "endLine": 1012,
                     "endColumn": 12,
-                    "endOffset": 84707
+                    "endOffset": 84728
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15092,10 +15021,10 @@
                 "to": {
                     "startLine": 1013,
                     "startColumn": 4,
-                    "startOffset": 84712,
+                    "startOffset": 84733,
                     "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 85312
+                    "endOffset": 85333
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15105,10 +15034,10 @@
                 "to": {
                     "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 85317,
+                    "startOffset": 85338,
                     "endLine": 1024,
                     "endColumn": 12,
-                    "endOffset": 85460
+                    "endOffset": 85481
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15118,10 +15047,10 @@
                 "to": {
                     "startLine": 1025,
                     "startColumn": 4,
-                    "startOffset": 85465,
+                    "startOffset": 85486,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 86048
+                    "endOffset": 86069
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15131,10 +15060,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 86053,
+                    "startOffset": 86074,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 86612
+                    "endOffset": 86633
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15144,10 +15073,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 86617,
+                    "startOffset": 86638,
                     "endLine": 1046,
                     "endColumn": 12,
-                    "endOffset": 86987
+                    "endOffset": 87008
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15157,9 +15086,9 @@
                 "to": {
                     "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 86992,
+                    "startOffset": 87013,
                     "endColumn": 117,
-                    "endOffset": 87105
+                    "endOffset": 87126
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15169,10 +15098,10 @@
                 "to": {
                     "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 87110,
+                    "startOffset": 87131,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 87643
+                    "endOffset": 87664
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15182,10 +15111,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 87648,
+                    "startOffset": 87669,
                     "endLine": 1059,
                     "endColumn": 12,
-                    "endOffset": 87800
+                    "endOffset": 87821
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15195,10 +15124,10 @@
                 "to": {
                     "startLine": 1060,
                     "startColumn": 4,
-                    "startOffset": 87805,
+                    "startOffset": 87826,
                     "endLine": 1062,
                     "endColumn": 12,
-                    "endOffset": 87944
+                    "endOffset": 87965
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15208,10 +15137,10 @@
                 "to": {
                     "startLine": 1063,
                     "startColumn": 4,
-                    "startOffset": 87949,
+                    "startOffset": 87970,
                     "endLine": 1067,
                     "endColumn": 12,
-                    "endOffset": 88264
+                    "endOffset": 88285
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15221,10 +15150,10 @@
                 "to": {
                     "startLine": 1068,
                     "startColumn": 4,
-                    "startOffset": 88269,
+                    "startOffset": 88290,
                     "endLine": 1071,
                     "endColumn": 12,
-                    "endOffset": 88520
+                    "endOffset": 88541
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15234,10 +15163,10 @@
                 "to": {
                     "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 88525,
+                    "startOffset": 88546,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 88690
+                    "endOffset": 88711
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15247,10 +15176,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 88695,
+                    "startOffset": 88716,
                     "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 88831
+                    "endOffset": 88852
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15260,9 +15189,9 @@
                 "to": {
                     "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 88836,
+                    "startOffset": 88857,
                     "endColumn": 63,
-                    "endOffset": 88895
+                    "endOffset": 88916
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15272,10 +15201,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 88900,
+                    "startOffset": 88921,
                     "endLine": 1083,
                     "endColumn": 12,
-                    "endOffset": 89177
+                    "endOffset": 89198
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15285,10 +15214,10 @@
                 "to": {
                     "startLine": 1084,
                     "startColumn": 4,
-                    "startOffset": 89182,
+                    "startOffset": 89203,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 89463
+                    "endOffset": 89484
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15298,10 +15227,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 89468,
+                    "startOffset": 89489,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 90139
+                    "endOffset": 90160
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15311,10 +15240,10 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 90144,
+                    "startOffset": 90165,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 90403
+                    "endOffset": 90424
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15324,10 +15253,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 90408,
+                    "startOffset": 90429,
                     "endLine": 1109,
                     "endColumn": 12,
-                    "endOffset": 90741
+                    "endOffset": 90762
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15337,10 +15266,10 @@
                 "to": {
                     "startLine": 1110,
                     "startColumn": 4,
-                    "startOffset": 90746,
+                    "startOffset": 90767,
                     "endLine": 1115,
                     "endColumn": 12,
-                    "endOffset": 91094
+                    "endOffset": 91115
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15350,9 +15279,9 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 91099,
+                    "startOffset": 91120,
                     "endColumn": 93,
-                    "endOffset": 91188
+                    "endOffset": 91209
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15362,10 +15291,10 @@
                 "to": {
                     "startLine": 1117,
                     "startColumn": 4,
-                    "startOffset": 91193,
+                    "startOffset": 91214,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 91374
+                    "endOffset": 91395
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15375,10 +15304,10 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 91379,
+                    "startOffset": 91400,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 91680
+                    "endOffset": 91701
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15388,10 +15317,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 91685,
+                    "startOffset": 91706,
                     "endLine": 1128,
                     "endColumn": 12,
-                    "endOffset": 91942
+                    "endOffset": 91963
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15401,10 +15330,10 @@
                 "to": {
                     "startLine": 1129,
                     "startColumn": 4,
-                    "startOffset": 91947,
+                    "startOffset": 91968,
                     "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 92067
+                    "endOffset": 92088
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15414,10 +15343,10 @@
                 "to": {
                     "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 92072,
+                    "startOffset": 92093,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 92194
+                    "endOffset": 92215
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15427,10 +15356,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 92199,
+                    "startOffset": 92220,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 92433
+                    "endOffset": 92454
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15440,10 +15369,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 92438,
+                    "startOffset": 92459,
                     "endLine": 1138,
                     "endColumn": 12,
-                    "endOffset": 92644
+                    "endOffset": 92665
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15453,10 +15382,10 @@
                 "to": {
                     "startLine": 1139,
                     "startColumn": 4,
-                    "startOffset": 92649,
+                    "startOffset": 92670,
                     "endLine": 1140,
                     "endColumn": 12,
-                    "endOffset": 92763
+                    "endOffset": 92784
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15466,10 +15395,10 @@
                 "to": {
                     "startLine": 1141,
                     "startColumn": 4,
-                    "startOffset": 92768,
+                    "startOffset": 92789,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 92956
+                    "endOffset": 92977
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15479,10 +15408,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 92961,
+                    "startOffset": 92982,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 93411
+                    "endOffset": 93432
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15492,10 +15421,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 93416,
+                    "startOffset": 93437,
                     "endLine": 1154,
                     "endColumn": 12,
-                    "endOffset": 93592
+                    "endOffset": 93613
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15505,10 +15434,10 @@
                 "to": {
                     "startLine": 1155,
                     "startColumn": 4,
-                    "startOffset": 93597,
+                    "startOffset": 93618,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 93714
+                    "endOffset": 93735
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15518,10 +15447,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 93719,
+                    "startOffset": 93740,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 93973
+                    "endOffset": 93994
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15531,10 +15460,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 93978,
+                    "startOffset": 93999,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 94086
+                    "endOffset": 94107
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15544,10 +15473,10 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 94091,
+                    "startOffset": 94112,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 94273
+                    "endOffset": 94294
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15557,10 +15486,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 94278,
+                    "startOffset": 94299,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 94375
+                    "endOffset": 94396
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15570,10 +15499,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 94380,
+                    "startOffset": 94401,
                     "endLine": 1175,
                     "endColumn": 12,
-                    "endOffset": 94819
+                    "endOffset": 94840
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15583,10 +15512,10 @@
                 "to": {
                     "startLine": 1176,
                     "startColumn": 4,
-                    "startOffset": 94824,
+                    "startOffset": 94845,
                     "endLine": 1177,
                     "endColumn": 12,
-                    "endOffset": 94943
+                    "endOffset": 94964
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15596,10 +15525,10 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 94948,
+                    "startOffset": 94969,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 95228
+                    "endOffset": 95249
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15609,10 +15538,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 95233,
+                    "startOffset": 95254,
                     "endLine": 1193,
                     "endColumn": 12,
-                    "endOffset": 96115
+                    "endOffset": 96136
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15622,10 +15551,10 @@
                 "to": {
                     "startLine": 1194,
                     "startColumn": 4,
-                    "startOffset": 96120,
+                    "startOffset": 96141,
                     "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 96409
+                    "endOffset": 96430
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15635,10 +15564,10 @@
                 "to": {
                     "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 96414,
+                    "startOffset": 96435,
                     "endLine": 1208,
                     "endColumn": 12,
-                    "endOffset": 96979
+                    "endOffset": 97000
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15648,10 +15577,10 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 96984,
+                    "startOffset": 97005,
                     "endLine": 1219,
                     "endColumn": 12,
-                    "endOffset": 97711
+                    "endOffset": 97732
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15661,10 +15590,10 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 97716,
+                    "startOffset": 97737,
                     "endLine": 1222,
                     "endColumn": 12,
-                    "endOffset": 97883
+                    "endOffset": 97904
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15674,10 +15603,10 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 97888,
+                    "startOffset": 97909,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 98219
+                    "endOffset": 98240
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15687,10 +15616,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 98224,
+                    "startOffset": 98245,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 99086
+                    "endOffset": 99107
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15700,10 +15629,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 99091,
+                    "startOffset": 99112,
                     "endLine": 1244,
                     "endColumn": 12,
-                    "endOffset": 99364
+                    "endOffset": 99385
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15713,10 +15642,10 @@
                 "to": {
                     "startLine": 1245,
                     "startColumn": 4,
-                    "startOffset": 99369,
+                    "startOffset": 99390,
                     "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 99955
+                    "endOffset": 99976
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -15726,10 +15655,10 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 99960,
+                    "startOffset": 99981,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 102817
+                    "endOffset": 102838
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15739,10 +15668,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 102822,
+                    "startOffset": 102843,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 105819
+                    "endOffset": 105840
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15752,9 +15681,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 105824,
+                    "startOffset": 105845,
                     "endColumn": 61,
-                    "endOffset": 105881
+                    "endOffset": 105902
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15764,10 +15693,10 @@
                 "to": {
                     "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 105886,
+                    "startOffset": 105907,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 106511
+                    "endOffset": 106532
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15777,10 +15706,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 106516,
+                    "startOffset": 106537,
                     "endLine": 1351,
                     "endColumn": 12,
-                    "endOffset": 107125
+                    "endOffset": 107146
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15790,9 +15719,9 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 107130,
+                    "startOffset": 107151,
                     "endColumn": 85,
-                    "endOffset": 107211
+                    "endOffset": 107232
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15802,10 +15731,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 107216,
+                    "startOffset": 107237,
                     "endLine": 1354,
                     "endColumn": 12,
-                    "endOffset": 107324
+                    "endOffset": 107345
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15815,10 +15744,10 @@
                 "to": {
                     "startLine": 1355,
                     "startColumn": 4,
-                    "startOffset": 107329,
+                    "startOffset": 107350,
                     "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 107553
+                    "endOffset": 107574
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15828,10 +15757,10 @@
                 "to": {
                     "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 107558,
+                    "startOffset": 107579,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 107713
+                    "endOffset": 107734
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15841,10 +15770,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 107718,
+                    "startOffset": 107739,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 107865
+                    "endOffset": 107886
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15854,10 +15783,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 107870,
+                    "startOffset": 107891,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 108036
+                    "endOffset": 108057
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15867,10 +15796,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 108041,
+                    "startOffset": 108062,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 108203
+                    "endOffset": 108224
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15880,10 +15809,10 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 108208,
+                    "startOffset": 108229,
                     "endLine": 1374,
                     "endColumn": 12,
-                    "endOffset": 108446
+                    "endOffset": 108467
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15893,10 +15822,10 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 108451,
+                    "startOffset": 108472,
                     "endLine": 1377,
                     "endColumn": 12,
-                    "endOffset": 108616
+                    "endOffset": 108637
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15906,10 +15835,10 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 108621,
+                    "startOffset": 108642,
                     "endLine": 1380,
                     "endColumn": 12,
-                    "endOffset": 108789
+                    "endOffset": 108810
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15919,10 +15848,10 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 108794,
+                    "startOffset": 108815,
                     "endLine": 1383,
                     "endColumn": 12,
-                    "endOffset": 108960
+                    "endOffset": 108981
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15932,10 +15861,10 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 108965,
+                    "startOffset": 108986,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 109234
+                    "endOffset": 109255
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15945,10 +15874,10 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 109239,
+                    "startOffset": 109260,
                     "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 109433
+                    "endOffset": 109454
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15958,10 +15887,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 109438,
+                    "startOffset": 109459,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 109638
+                    "endOffset": 109659
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15971,10 +15900,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 109643,
+                    "startOffset": 109664,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 109968
+                    "endOffset": 109989
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15984,9 +15913,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 109973,
+                    "startOffset": 109994,
                     "endColumn": 83,
-                    "endOffset": 110052
+                    "endOffset": 110073
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -15996,9 +15925,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 110057,
+                    "startOffset": 110078,
                     "endColumn": 95,
-                    "endOffset": 110148
+                    "endOffset": 110169
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16008,9 +15937,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 110153,
+                    "startOffset": 110174,
                     "endColumn": 95,
-                    "endOffset": 110244
+                    "endOffset": 110265
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16020,9 +15949,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 110249,
+                    "startOffset": 110270,
                     "endColumn": 97,
-                    "endOffset": 110342
+                    "endOffset": 110363
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16032,9 +15961,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 110347,
+                    "startOffset": 110368,
                     "endColumn": 99,
-                    "endOffset": 110442
+                    "endOffset": 110463
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16044,9 +15973,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 110447,
+                    "startOffset": 110468,
                     "endColumn": 101,
-                    "endOffset": 110544
+                    "endOffset": 110565
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16056,9 +15985,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 110549,
+                    "startOffset": 110570,
                     "endColumn": 101,
-                    "endOffset": 110646
+                    "endOffset": 110667
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16068,9 +15997,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 110651,
+                    "startOffset": 110672,
                     "endColumn": 101,
-                    "endOffset": 110748
+                    "endOffset": 110769
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16080,9 +16009,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 110753,
+                    "startOffset": 110774,
                     "endColumn": 101,
-                    "endOffset": 110850
+                    "endOffset": 110871
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16092,9 +16021,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 110855,
+                    "startOffset": 110876,
                     "endColumn": 101,
-                    "endOffset": 110952
+                    "endOffset": 110973
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16104,9 +16033,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 110957,
+                    "startOffset": 110978,
                     "endColumn": 99,
-                    "endOffset": 111052
+                    "endOffset": 111073
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16116,9 +16045,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 111057,
+                    "startOffset": 111078,
                     "endColumn": 95,
-                    "endOffset": 111148
+                    "endOffset": 111169
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16128,9 +16057,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 111153,
+                    "startOffset": 111174,
                     "endColumn": 111,
-                    "endOffset": 111260
+                    "endOffset": 111281
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16140,9 +16069,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 111265,
+                    "startOffset": 111286,
                     "endColumn": 128,
-                    "endOffset": 111389
+                    "endOffset": 111410
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16152,9 +16081,9 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 111394,
+                    "startOffset": 111415,
                     "endColumn": 122,
-                    "endOffset": 111512
+                    "endOffset": 111533
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16164,10 +16093,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 111517,
+                    "startOffset": 111538,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 111666
+                    "endOffset": 111687
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16177,10 +16106,10 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 111671,
+                    "startOffset": 111692,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 111820
+                    "endOffset": 111841
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16190,9 +16119,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 111825,
+                    "startOffset": 111846,
                     "endColumn": 97,
-                    "endOffset": 111918
+                    "endOffset": 111939
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16202,9 +16131,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 111923,
+                    "startOffset": 111944,
                     "endColumn": 113,
-                    "endOffset": 112032
+                    "endOffset": 112053
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16214,9 +16143,9 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 112037,
+                    "startOffset": 112058,
                     "endColumn": 93,
-                    "endOffset": 112126
+                    "endOffset": 112147
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16226,10 +16155,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 112131,
+                    "startOffset": 112152,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 112266
+                    "endOffset": 112287
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16239,10 +16168,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 112271,
+                    "startOffset": 112292,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 112400
+                    "endOffset": 112421
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16252,9 +16181,9 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 112405,
+                    "startOffset": 112426,
                     "endColumn": 95,
-                    "endOffset": 112496
+                    "endOffset": 112517
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16264,9 +16193,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 112501,
+                    "startOffset": 112522,
                     "endColumn": 111,
-                    "endOffset": 112608
+                    "endOffset": 112629
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16276,9 +16205,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 112613,
+                    "startOffset": 112634,
                     "endColumn": 99,
-                    "endOffset": 112708
+                    "endOffset": 112729
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16288,9 +16217,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 112713,
+                    "startOffset": 112734,
                     "endColumn": 115,
-                    "endOffset": 112824
+                    "endOffset": 112845
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16300,9 +16229,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 112829,
+                    "startOffset": 112850,
                     "endColumn": 95,
-                    "endOffset": 112920
+                    "endOffset": 112941
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16312,9 +16241,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 112925,
+                    "startOffset": 112946,
                     "endColumn": 111,
-                    "endOffset": 113032
+                    "endOffset": 113053
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16324,10 +16253,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 113037,
+                    "startOffset": 113058,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 113172
+                    "endOffset": 113193
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16337,9 +16266,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 113177,
+                    "startOffset": 113198,
                     "endColumn": 135,
-                    "endOffset": 113308
+                    "endOffset": 113329
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16349,10 +16278,10 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 113313,
+                    "startOffset": 113334,
                     "endLine": 1435,
                     "endColumn": 12,
-                    "endOffset": 113472
+                    "endOffset": 113493
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16362,9 +16291,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 113477,
+                    "startOffset": 113498,
                     "endColumn": 129,
-                    "endOffset": 113602
+                    "endOffset": 113623
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16374,10 +16303,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 113607,
+                    "startOffset": 113628,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 113760
+                    "endOffset": 113781
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16387,10 +16316,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 113765,
+                    "startOffset": 113786,
                     "endLine": 1440,
                     "endColumn": 12,
-                    "endOffset": 113910
+                    "endOffset": 113931
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16400,9 +16329,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 113915,
+                    "startOffset": 113936,
                     "endColumn": 140,
-                    "endOffset": 114051
+                    "endOffset": 114072
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16412,10 +16341,10 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 114056,
+                    "startOffset": 114077,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 114195
+                    "endOffset": 114216
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16425,9 +16354,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 114200,
+                    "startOffset": 114221,
                     "endColumn": 134,
-                    "endOffset": 114330
+                    "endOffset": 114351
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16437,9 +16366,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 114335,
+                    "startOffset": 114356,
                     "endColumn": 111,
-                    "endOffset": 114442
+                    "endOffset": 114463
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16449,9 +16378,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 114447,
+                    "startOffset": 114468,
                     "endColumn": 127,
-                    "endOffset": 114570
+                    "endOffset": 114591
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16461,10 +16390,10 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 114575,
+                    "startOffset": 114596,
                     "endLine": 1448,
                     "endColumn": 12,
-                    "endOffset": 114706
+                    "endOffset": 114727
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16474,10 +16403,10 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 114711,
+                    "startOffset": 114732,
                     "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 114848
+                    "endOffset": 114869
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16487,10 +16416,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 114853,
+                    "startOffset": 114874,
                     "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 114990
+                    "endOffset": 115011
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16500,9 +16429,9 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 114995,
+                    "startOffset": 115016,
                     "endColumn": 111,
-                    "endOffset": 115102
+                    "endOffset": 115123
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16512,9 +16441,9 @@
                 "to": {
                     "startLine": 1454,
                     "startColumn": 4,
-                    "startOffset": 115107,
+                    "startOffset": 115128,
                     "endColumn": 139,
-                    "endOffset": 115242
+                    "endOffset": 115263
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16524,10 +16453,10 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 115247,
+                    "startOffset": 115268,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 115443
+                    "endOffset": 115464
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16537,9 +16466,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 115448,
+                    "startOffset": 115469,
                     "endColumn": 91,
-                    "endOffset": 115535
+                    "endOffset": 115556
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16549,10 +16478,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 115540,
+                    "startOffset": 115561,
                     "endLine": 1461,
                     "endColumn": 12,
-                    "endOffset": 115730
+                    "endOffset": 115751
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16562,10 +16491,10 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 115735,
+                    "startOffset": 115756,
                     "endLine": 1464,
                     "endColumn": 12,
-                    "endOffset": 115914
+                    "endOffset": 115935
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16575,10 +16504,10 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 115919,
+                    "startOffset": 115940,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 116089
+                    "endOffset": 116110
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16588,10 +16517,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 116094,
+                    "startOffset": 116115,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 116342
+                    "endOffset": 116363
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16601,10 +16530,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 116347,
+                    "startOffset": 116368,
                     "endLine": 1476,
                     "endColumn": 12,
-                    "endOffset": 116633
+                    "endOffset": 116654
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -16614,9 +16543,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 116638,
+                    "startOffset": 116659,
                     "endColumn": 67,
-                    "endOffset": 116701
+                    "endOffset": 116722
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16626,9 +16555,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 116706,
+                    "startOffset": 116727,
                     "endColumn": 72,
-                    "endOffset": 116774
+                    "endOffset": 116795
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16638,9 +16567,9 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 116779,
+                    "startOffset": 116800,
                     "endColumn": 73,
-                    "endOffset": 116848
+                    "endOffset": 116869
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16650,9 +16579,9 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 116853,
+                    "startOffset": 116874,
                     "endColumn": 72,
-                    "endOffset": 116921
+                    "endOffset": 116942
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16662,9 +16591,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 116926,
+                    "startOffset": 116947,
                     "endColumn": 73,
-                    "endOffset": 116995
+                    "endOffset": 117016
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16674,10 +16603,10 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 117000,
+                    "startOffset": 117021,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 117141
+                    "endOffset": 117162
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16687,10 +16616,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 117146,
+                    "startOffset": 117167,
                     "endLine": 1485,
                     "endColumn": 12,
-                    "endOffset": 117285
+                    "endOffset": 117306
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16700,10 +16629,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 117290,
+                    "startOffset": 117311,
                     "endLine": 1487,
                     "endColumn": 12,
-                    "endOffset": 117423
+                    "endOffset": 117444
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16713,9 +16642,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 117428,
+                    "startOffset": 117449,
                     "endColumn": 65,
-                    "endOffset": 117489
+                    "endOffset": 117510
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16725,9 +16654,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 117494,
+                    "startOffset": 117515,
                     "endColumn": 89,
-                    "endOffset": 117579
+                    "endOffset": 117600
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16737,9 +16666,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 117584,
+                    "startOffset": 117605,
                     "endColumn": 79,
-                    "endOffset": 117659
+                    "endOffset": 117680
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16749,9 +16678,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 117664,
+                    "startOffset": 117685,
                     "endColumn": 91,
-                    "endOffset": 117751
+                    "endOffset": 117772
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16761,9 +16690,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 117756,
+                    "startOffset": 117777,
                     "endColumn": 97,
-                    "endOffset": 117849
+                    "endOffset": 117870
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16773,10 +16702,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 117854,
+                    "startOffset": 117875,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 117959
+                    "endOffset": 117980
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16786,9 +16715,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 117964,
+                    "startOffset": 117985,
                     "endColumn": 77,
-                    "endOffset": 118037
+                    "endOffset": 118058
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16798,9 +16727,9 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 118042,
+                    "startOffset": 118063,
                     "endColumn": 105,
-                    "endOffset": 118143
+                    "endOffset": 118164
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16810,9 +16739,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 118148,
+                    "startOffset": 118169,
                     "endColumn": 91,
-                    "endOffset": 118235
+                    "endOffset": 118256
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16822,9 +16751,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 118240,
+                    "startOffset": 118261,
                     "endColumn": 103,
-                    "endOffset": 118339
+                    "endOffset": 118360
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16834,9 +16763,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 118344,
+                    "startOffset": 118365,
                     "endColumn": 109,
-                    "endOffset": 118449
+                    "endOffset": 118470
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16846,10 +16775,10 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 118454,
+                    "startOffset": 118475,
                     "endLine": 1501,
                     "endColumn": 12,
-                    "endOffset": 118571
+                    "endOffset": 118592
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16859,10 +16788,10 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 118576,
+                    "startOffset": 118597,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 118734
+                    "endOffset": 118755
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16872,10 +16801,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 118739,
+                    "startOffset": 118760,
                     "endLine": 1509,
                     "endColumn": 12,
-                    "endOffset": 118891
+                    "endOffset": 118912
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16885,9 +16814,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 118896,
+                    "startOffset": 118917,
                     "endColumn": 79,
-                    "endOffset": 118971
+                    "endOffset": 118992
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16897,9 +16826,9 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 118976,
+                    "startOffset": 118997,
                     "endColumn": 99,
-                    "endOffset": 119071
+                    "endOffset": 119092
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16909,9 +16838,9 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 119076,
+                    "startOffset": 119097,
                     "endColumn": 89,
-                    "endOffset": 119161
+                    "endOffset": 119182
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16921,9 +16850,9 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 119166,
+                    "startOffset": 119187,
                     "endColumn": 109,
-                    "endOffset": 119271
+                    "endOffset": 119292
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16933,9 +16862,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 119276,
+                    "startOffset": 119297,
                     "endColumn": 91,
-                    "endOffset": 119363
+                    "endOffset": 119384
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16945,10 +16874,10 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 119368,
+                    "startOffset": 119389,
                     "endLine": 1516,
                     "endColumn": 12,
-                    "endOffset": 119463
+                    "endOffset": 119484
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16958,10 +16887,10 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 119468,
+                    "startOffset": 119489,
                     "endLine": 1518,
                     "endColumn": 12,
-                    "endOffset": 119575
+                    "endOffset": 119596
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16971,10 +16900,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 119580,
+                    "startOffset": 119601,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 119689
+                    "endOffset": 119710
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16984,10 +16913,10 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 119694,
+                    "startOffset": 119715,
                     "endLine": 1522,
                     "endColumn": 12,
-                    "endOffset": 119805
+                    "endOffset": 119826
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -16997,10 +16926,10 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 119810,
+                    "startOffset": 119831,
                     "endLine": 1524,
                     "endColumn": 12,
-                    "endOffset": 119921
+                    "endOffset": 119942
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17010,9 +16939,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 119926,
+                    "startOffset": 119947,
                     "endColumn": 93,
-                    "endOffset": 120015
+                    "endOffset": 120036
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17022,9 +16951,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 120020,
+                    "startOffset": 120041,
                     "endColumn": 113,
-                    "endOffset": 120129
+                    "endOffset": 120150
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17034,9 +16963,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 120134,
+                    "startOffset": 120155,
                     "endColumn": 111,
-                    "endOffset": 120241
+                    "endOffset": 120262
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17046,10 +16975,10 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 120246,
+                    "startOffset": 120267,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 120343
+                    "endOffset": 120364
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17059,10 +16988,10 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 120348,
+                    "startOffset": 120369,
                     "endLine": 1531,
                     "endColumn": 12,
-                    "endOffset": 120463
+                    "endOffset": 120484
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17072,10 +17001,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 120468,
+                    "startOffset": 120489,
                     "endLine": 1533,
                     "endColumn": 12,
-                    "endOffset": 120585
+                    "endOffset": 120606
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17085,9 +17014,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 120590,
+                    "startOffset": 120611,
                     "endColumn": 81,
-                    "endOffset": 120667
+                    "endOffset": 120688
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17097,9 +17026,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 120672,
+                    "startOffset": 120693,
                     "endColumn": 103,
-                    "endOffset": 120771
+                    "endOffset": 120792
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17109,9 +17038,9 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 120776,
+                    "startOffset": 120797,
                     "endColumn": 119,
-                    "endOffset": 120891
+                    "endOffset": 120912
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17121,9 +17050,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 120896,
+                    "startOffset": 120917,
                     "endColumn": 125,
-                    "endOffset": 121017
+                    "endOffset": 121038
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17133,9 +17062,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 121022,
+                    "startOffset": 121043,
                     "endColumn": 97,
-                    "endOffset": 121115
+                    "endOffset": 121136
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17145,9 +17074,9 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 121120,
+                    "startOffset": 121141,
                     "endColumn": 93,
-                    "endOffset": 121209
+                    "endOffset": 121230
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17157,9 +17086,9 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 121214,
+                    "startOffset": 121235,
                     "endColumn": 87,
-                    "endOffset": 121297
+                    "endOffset": 121318
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17169,9 +17098,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 121302,
+                    "startOffset": 121323,
                     "endColumn": 111,
-                    "endOffset": 121409
+                    "endOffset": 121430
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17181,9 +17110,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 121414,
+                    "startOffset": 121435,
                     "endColumn": 115,
-                    "endOffset": 121525
+                    "endOffset": 121546
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17193,9 +17122,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 121530,
+                    "startOffset": 121551,
                     "endColumn": 121,
-                    "endOffset": 121647
+                    "endOffset": 121668
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17205,9 +17134,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 121652,
+                    "startOffset": 121673,
                     "endColumn": 111,
-                    "endOffset": 121759
+                    "endOffset": 121780
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17217,10 +17146,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 121764,
+                    "startOffset": 121785,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 121934
+                    "endOffset": 121955
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17230,9 +17159,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 121939,
+                    "startOffset": 121960,
                     "endColumn": 115,
-                    "endOffset": 122050
+                    "endOffset": 122071
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17242,9 +17171,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 122055,
+                    "startOffset": 122076,
                     "endColumn": 85,
-                    "endOffset": 122136
+                    "endOffset": 122157
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17254,9 +17183,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 122141,
+                    "startOffset": 122162,
                     "endColumn": 91,
-                    "endOffset": 122228
+                    "endOffset": 122249
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17266,10 +17195,10 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 122233,
+                    "startOffset": 122254,
                     "endLine": 1552,
                     "endColumn": 12,
-                    "endOffset": 122340
+                    "endOffset": 122361
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17279,10 +17208,10 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 122345,
+                    "startOffset": 122366,
                     "endLine": 1554,
                     "endColumn": 12,
-                    "endOffset": 122464
+                    "endOffset": 122485
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17292,9 +17221,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 122469,
+                    "startOffset": 122490,
                     "endColumn": 66,
-                    "endOffset": 122531
+                    "endOffset": 122552
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17304,10 +17233,10 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 122536,
+                    "startOffset": 122557,
                     "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 122657
+                    "endOffset": 122678
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17317,9 +17246,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 122662,
+                    "startOffset": 122683,
                     "endColumn": 67,
-                    "endOffset": 122725
+                    "endOffset": 122746
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17329,10 +17258,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 122730,
+                    "startOffset": 122751,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 122853
+                    "endOffset": 122874
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17342,10 +17271,10 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 122858,
+                    "startOffset": 122879,
                     "endLine": 1562,
                     "endColumn": 12,
-                    "endOffset": 122997
+                    "endOffset": 123018
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17355,10 +17284,10 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 123002,
+                    "startOffset": 123023,
                     "endLine": 1564,
                     "endColumn": 12,
-                    "endOffset": 123125
+                    "endOffset": 123146
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17368,9 +17297,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 123130,
+                    "startOffset": 123151,
                     "endColumn": 68,
-                    "endOffset": 123194
+                    "endOffset": 123215
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17380,9 +17309,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 123199,
+                    "startOffset": 123220,
                     "endColumn": 94,
-                    "endOffset": 123289
+                    "endOffset": 123310
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17392,9 +17321,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 123294,
+                    "startOffset": 123315,
                     "endColumn": 114,
-                    "endOffset": 123404
+                    "endOffset": 123425
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17404,9 +17333,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 123409,
+                    "startOffset": 123430,
                     "endColumn": 112,
-                    "endOffset": 123517
+                    "endOffset": 123538
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17416,9 +17345,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 123522,
+                    "startOffset": 123543,
                     "endColumn": 98,
-                    "endOffset": 123616
+                    "endOffset": 123637
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17428,9 +17357,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 123621,
+                    "startOffset": 123642,
                     "endColumn": 108,
-                    "endOffset": 123725
+                    "endOffset": 123746
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17440,9 +17369,9 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 123730,
+                    "startOffset": 123751,
                     "endColumn": 110,
-                    "endOffset": 123836
+                    "endOffset": 123857
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17452,9 +17381,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 123841,
+                    "startOffset": 123862,
                     "endColumn": 110,
-                    "endOffset": 123947
+                    "endOffset": 123968
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17464,9 +17393,9 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 123952,
+                    "startOffset": 123973,
                     "endColumn": 100,
-                    "endOffset": 124048
+                    "endOffset": 124069
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17476,9 +17405,9 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 124053,
+                    "startOffset": 124074,
                     "endColumn": 104,
-                    "endOffset": 124153
+                    "endOffset": 124174
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17488,10 +17417,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 124158,
+                    "startOffset": 124179,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 124265
+                    "endOffset": 124286
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17501,10 +17430,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 124270,
+                    "startOffset": 124291,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 124395
+                    "endOffset": 124416
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17514,9 +17443,9 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 124400,
+                    "startOffset": 124421,
                     "endColumn": 90,
-                    "endOffset": 124486
+                    "endOffset": 124507
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17526,9 +17455,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 124491,
+                    "startOffset": 124512,
                     "endColumn": 122,
-                    "endOffset": 124609
+                    "endOffset": 124630
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17538,10 +17467,10 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 124614,
+                    "startOffset": 124635,
                     "endLine": 1582,
                     "endColumn": 12,
-                    "endOffset": 124721
+                    "endOffset": 124742
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17551,9 +17480,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 124726,
+                    "startOffset": 124747,
                     "endColumn": 85,
-                    "endOffset": 124807
+                    "endOffset": 124828
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17563,9 +17492,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 124812,
+                    "startOffset": 124833,
                     "endColumn": 103,
-                    "endOffset": 124911
+                    "endOffset": 124932
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17575,10 +17504,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 124916,
+                    "startOffset": 124937,
                     "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 125019
+                    "endOffset": 125040
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17588,10 +17517,10 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 125024,
+                    "startOffset": 125045,
                     "endLine": 1588,
                     "endColumn": 12,
-                    "endOffset": 125119
+                    "endOffset": 125140
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17601,10 +17530,10 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 125124,
+                    "startOffset": 125145,
                     "endLine": 1590,
                     "endColumn": 12,
-                    "endOffset": 125237
+                    "endOffset": 125258
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17614,10 +17543,10 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 125242,
+                    "startOffset": 125263,
                     "endLine": 1592,
                     "endColumn": 12,
-                    "endOffset": 125341
+                    "endOffset": 125362
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17627,10 +17556,10 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 125346,
+                    "startOffset": 125367,
                     "endLine": 1594,
                     "endColumn": 12,
-                    "endOffset": 125445
+                    "endOffset": 125466
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17640,10 +17569,10 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 125450,
+                    "startOffset": 125471,
                     "endLine": 1596,
                     "endColumn": 12,
-                    "endOffset": 125571
+                    "endOffset": 125592
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17653,9 +17582,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 125576,
+                    "startOffset": 125597,
                     "endColumn": 87,
-                    "endOffset": 125659
+                    "endOffset": 125680
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17665,9 +17594,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 125664,
+                    "startOffset": 125685,
                     "endColumn": 89,
-                    "endOffset": 125749
+                    "endOffset": 125770
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17677,9 +17606,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 125754,
+                    "startOffset": 125775,
                     "endColumn": 109,
-                    "endOffset": 125859
+                    "endOffset": 125880
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17689,9 +17618,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 125864,
+                    "startOffset": 125885,
                     "endColumn": 83,
-                    "endOffset": 125943
+                    "endOffset": 125964
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17701,9 +17630,9 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 125948,
+                    "startOffset": 125969,
                     "endColumn": 83,
-                    "endOffset": 126027
+                    "endOffset": 126048
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17713,9 +17642,9 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 126032,
+                    "startOffset": 126053,
                     "endColumn": 53,
-                    "endOffset": 126081
+                    "endOffset": 126102
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17725,9 +17654,9 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 126086,
+                    "startOffset": 126107,
                     "endColumn": 63,
-                    "endOffset": 126145
+                    "endOffset": 126166
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17737,9 +17666,9 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 126150,
+                    "startOffset": 126171,
                     "endColumn": 105,
-                    "endOffset": 126251
+                    "endOffset": 126272
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17749,9 +17678,9 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 126256,
+                    "startOffset": 126277,
                     "endColumn": 109,
-                    "endOffset": 126361
+                    "endOffset": 126382
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17761,9 +17690,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 126366,
+                    "startOffset": 126387,
                     "endColumn": 83,
-                    "endOffset": 126445
+                    "endOffset": 126466
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17773,9 +17702,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 126450,
+                    "startOffset": 126471,
                     "endColumn": 119,
-                    "endOffset": 126565
+                    "endOffset": 126586
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml"
@@ -17785,10 +17714,10 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 126570,
+                    "startOffset": 126591,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 126783
+                    "endOffset": 126804
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17798,10 +17727,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 126788,
+                    "startOffset": 126809,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 126990
+                    "endOffset": 127011
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17811,10 +17740,10 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 126995,
+                    "startOffset": 127016,
                     "endLine": 1618,
                     "endColumn": 12,
-                    "endOffset": 127149
+                    "endOffset": 127170
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17824,10 +17753,10 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 127154,
+                    "startOffset": 127175,
                     "endLine": 1627,
                     "endColumn": 12,
-                    "endOffset": 127716
+                    "endOffset": 127737
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17837,10 +17766,10 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 127721,
+                    "startOffset": 127742,
                     "endLine": 1633,
                     "endColumn": 12,
-                    "endOffset": 128077
+                    "endOffset": 128098
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17850,10 +17779,10 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 128082,
+                    "startOffset": 128103,
                     "endLine": 1636,
                     "endColumn": 12,
-                    "endOffset": 128206
+                    "endOffset": 128227
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17863,10 +17792,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 128211,
+                    "startOffset": 128232,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 128950
+                    "endOffset": 128971
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17876,10 +17805,10 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 128955,
+                    "startOffset": 128976,
                     "endLine": 1650,
                     "endColumn": 12,
-                    "endOffset": 129130
+                    "endOffset": 129151
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"
@@ -17889,10 +17818,10 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 129135,
+                    "startOffset": 129156,
                     "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 129571
+                    "endOffset": 129592
                 },
                 "from": {
                     "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml"

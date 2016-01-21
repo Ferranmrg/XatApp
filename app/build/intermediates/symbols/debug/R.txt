@@ -12,6 +12,10 @@ int anim design_fab_in 0x7f05000a
 int anim design_fab_out 0x7f05000b
 int anim design_snackbar_in 0x7f05000c
 int anim design_snackbar_out 0x7f05000d
+int anim pull_in_left 0x7f05000e
+int anim pull_in_right 0x7f05000f
+int anim push_out_left 0x7f050010
+int anim push_out_right 0x7f050011
 int attr actionBarDivider 0x7f0100a5
 int attr actionBarItemBackground 0x7f0100a6
 int attr actionBarPopupTheme 0x7f01009f

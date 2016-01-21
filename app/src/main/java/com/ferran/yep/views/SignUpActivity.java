@@ -54,14 +54,8 @@ public class SignUpActivity extends AppCompatActivity {
             }
         });
 
-        backButton = (TextView) findViewById(R.id.back_button);
-        backButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(SignUpActivity.this, LoginActivity.class);
-                startActivity(intent);
-            }
-        });
+
+
 
 
     }
@@ -90,6 +84,7 @@ public class SignUpActivity extends AppCompatActivity {
 
                         Intent intent = new Intent(SignUpActivity.this, LoginActivity.class);
                         startActivity(intent);
+                        overridePendingTransition(R.anim.pull_in_left, R.anim.push_out_right);
                     }
 
                     // Right to left swipe action

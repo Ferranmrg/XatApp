@@ -23,6 +23,10 @@ public final class R {
         public static final int design_fab_out=0x7f05000b;
         public static final int design_snackbar_in=0x7f05000c;
         public static final int design_snackbar_out=0x7f05000d;
+        public static final int pull_in_left=0x7f05000e;
+        public static final int pull_in_right=0x7f05000f;
+        public static final int push_out_left=0x7f050010;
+        public static final int push_out_right=0x7f050011;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
