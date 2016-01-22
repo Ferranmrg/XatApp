@@ -17,6 +17,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.ferran.yep.App;
 import com.ferran.yep.R;
 import com.parse.LogInCallback;
 import com.parse.Parse;
@@ -136,11 +137,16 @@ public class LoginActivity extends AppCompatActivity {
                 if (user != null) {
 
                     progress.hide();
+                    App.installation.put("username", user.getUsername());
+                    App.installation.saveInBackground();
+
+
+
                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                     intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(intent);
-                    Log.d("prueba", "llego hasta aqui :3 ");
+
                 } else {
                     progress.hide();
                     //Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();

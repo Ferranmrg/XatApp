@@ -1,6 +1,7 @@
 package com.ferran.yep.views;
 
 import android.content.Intent;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -8,6 +9,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.ferran.yep.R;
 import com.ferran.yep.models.Message;
@@ -38,24 +40,48 @@ public class AddFriends extends AppCompatActivity {
                 ParseObject friend = new ParseObject("UserFriends");
                 friend.put("user", ParseUser.getCurrentUser().getUsername());
                 friend.put("friend", users.get(position));
-                friend.saveInBackground();
 
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(intent);
 
+                ParseQuery<ParseObject> query = ParseQuery.getQuery("UserFriends");
+
+                query.whereEqualTo("user", ParseUser.getCurrentUser().getUsername());
+                query.whereEqualTo("friend", users.get(position));
+
+                final String friendName = users.get(position);
+                query.findInBackground(new FindCallback<ParseObject>() {
+                    public void done(List<ParseObject> messageList, ParseException e) {
+                        if (e == null) {
+                            if (messageList.size() > 0) {
+                                Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content), "Already Friends :(", Snackbar.LENGTH_LONG);
+                                snackbar.show();
+                            } else {
+                                ParseObject friend = new ParseObject("UserFriends");
+                                friend.put("user", ParseUser.getCurrentUser().getUsername());
+                                friend.put("friend", friendName);
+                                friend.saveInBackground();
+                                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                                startActivity(intent);
+                            }
+                        } else {
+                            Log.d("MESSAGE", "Error: " + e.getMessage());
+                        }
+                    }
+                });
             }
         });
     }
 
     public void loadFriendList() {
         // CONSULTA PARSE
-        ParseQuery<ParseObject> query = ParseQuery.getQuery("User");
+        ParseQuery<ParseUser> query = ParseUser.getQuery();
         query.whereNotEqualTo("username", ParseUser.getCurrentUser().getUsername());
-        query.findInBackground(new FindCallback<ParseObject>() {
-            public void done(List<ParseObject> messageList, ParseException e) {
+
+        query.findInBackground(new FindCallback<ParseUser>() {
+            public void done(List<ParseUser> userList, ParseException e) {
+                Log.d("Amigos: ", String.valueOf(userList.size()));
                 if (e == null) {
-                    for (int i = 0; i < messageList.size(); i++) {
-                        users.add(messageList.get(i).get("username").toString());
+                    for (int i = 0; i < userList.size(); i++) {
+                        users.add(userList.get(i).getUsername());
                         friendList.setAdapter(new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_list_item_1, users));
                     }
                 } else {

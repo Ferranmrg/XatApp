@@ -2,6 +2,7 @@ package com.ferran.yep.controllers;
 
 import android.content.Context;
 import android.content.Intent;
+import android.location.GpsStatus;
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.v4.app.ListFragment;
@@ -10,6 +11,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
@@ -23,6 +25,8 @@ import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParsePush;
+import com.parse.ParsePushBroadcastReceiver;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 
@@ -125,6 +129,12 @@ public class InboxFragment extends ListFragment {
         Intent intent = new Intent(this.getContext(), ReadMessages.class);
         intent.putExtra("Message", messages.get(position));
         this.startActivity(intent);
+
+    }
+
+    public void OnItemLongClickListener(ListView l, View v, int position, long id) {
+        //ParsePushBroadcastReceiver PBR = new ParsePushBroadcastReceiver();
+        //PBR.onReceive();
 
     }
 }
