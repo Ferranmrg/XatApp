@@ -2,6 +2,7 @@ package com.ferran.yep.controllers;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
 import android.support.v4.widget.SwipeRefreshLayout;
@@ -17,6 +18,7 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.ferran.yep.R;
+import com.ferran.yep.views.Chat;
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseObject;
@@ -71,12 +73,12 @@ public class FriendsFragment extends ListFragment  {
     @Override
     public void onListItemClick(ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
-        // Test creation of object
-        ParseObject message = new ParseObject("Messages");
-        message.put("From", ParseUser.getCurrentUser().getUsername());
-        message.put("To", friends.get(position));
-        message.put("mText", "Mensaje entre usuarios");
-        message.saveInBackground();
+
+        Intent intent = new Intent(this.getContext(), Chat.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        intent.putExtra("To", friends.get(position));
+        this.startActivity(intent);
+
     }
 
 

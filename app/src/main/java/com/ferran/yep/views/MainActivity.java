@@ -67,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         // Create the adapter that will return a fragment for each of the three
@@ -81,15 +80,15 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        //FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         // TODO Poner algo molon en este botón, yeah, hu , nigga
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                       .setAction("Action", null).show();
-            }
-        });
+        //fab.setOnClickListener(new View.OnClickListener() {
+        //  @Override
+        //  public void onClick(View view) {
+        //       Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+        //             .setAction("Action", null).show();
+        //  }
+        // });
 
     }
 
@@ -170,12 +169,12 @@ public class MainActivity extends AppCompatActivity {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
             Fragment fragment = null;
-            if(position==0) {
-               fragment = new InboxFragment();
-            }else if(position==1) {
-                fragment =  new FriendsFragment();
+            if (position == 0) {
+                fragment = new InboxFragment();
+            } else if (position == 1) {
+                fragment = new FriendsFragment();
             }
-         return fragment;
+            return fragment;
         }
 
         @Override

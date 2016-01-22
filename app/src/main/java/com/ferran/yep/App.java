@@ -4,6 +4,7 @@ import android.app.Application;
 import android.util.Log;
 
 import com.parse.Parse;
+import com.parse.ParseInstallation;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
@@ -22,6 +23,7 @@ public class App extends Application {
 
         // Add your initialization code here
         Parse.initialize(this, YOUR_APPLICATION_ID, YOUR_CLIENT_KEY);
+        ParseInstallation.getCurrentInstallation().saveInBackground();
 
 
 
