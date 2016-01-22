@@ -50,7 +50,9 @@
             android:name="com.ferran.yep.views.SignUpActivity"
             android:parentActivityName="com.ferran.yep.views.MainActivity"
             android:screenOrientation="portrait" />
-        <activity android:name="com.ferran.yep.views.Chat" />
+        <activity
+            android:name="com.ferran.yep.views.Chat"
+            android:parentActivityName="com.ferran.yep.views.MainActivity" />
 
         <service android:name="com.parse.PushService" />
 
@@ -69,11 +71,17 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
-
-<!--                   IMPORTANT: Change "com.parse.starter" to match your app's package name. -->
+                <!-- IMPORTANT: Change "com.parse.starter" to match your app's package name. -->
                 <category android:name="com.ferran.yep" />
             </intent-filter>
         </receiver>
+
+        <activity
+            android:name="com.ferran.yep.views.ReadMessages"
+            android:parentActivityName="com.ferran.yep.views.MainActivity" />
+        <activity
+            android:name="com.ferran.yep.views.AddFriends"
+            android:parentActivityName="com.ferran.yep.views.MainActivity" />
     </application>
 
 </manifest>

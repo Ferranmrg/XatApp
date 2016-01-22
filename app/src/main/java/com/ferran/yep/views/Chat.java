@@ -29,8 +29,6 @@ public class Chat extends Activity {
             public void onClick(View v) {
                 boolean isMessage = false;
                 ParseObject message = new ParseObject("Messages");
-
-                message.saveInBackground();
                 message.put("From", ParseUser.getCurrentUser().getUsername());
                 message.put("To", toUser);
                 if (!String.valueOf(chatText.getText()).isEmpty()) {

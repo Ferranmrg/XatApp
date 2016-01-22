@@ -35,6 +35,11 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    // Contains the actual Fragment
+    Fragment fragment = null;
+
+    // Inbox Fragment
+    InboxFragment iFrag = new InboxFragment();
     /**
      * The {@link android.support.v4.view.PagerAdapter} that will provide
      * fragments for each of the sections. We use a
@@ -80,15 +85,16 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-        //FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        // TODO Poner algo molon en este botón, yeah, hu , nigga
-        //fab.setOnClickListener(new View.OnClickListener() {
-        //  @Override
-        //  public void onClick(View view) {
-        //       Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-        //             .setAction("Action", null).show();
-        //  }
-        // });
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                iFrag.LoadMessages();
+
+                Snackbar.make(view, "Loaded!", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
+            }
+        });
 
     }
 
@@ -114,6 +120,11 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, LoginActivity.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            startActivity(intent);
+            return true;
+        }
+        if (id == R.id.action_add_friend) {
+            Intent intent = new Intent(this, AddFriends.class);
             startActivity(intent);
             return true;
         }
@@ -168,9 +179,8 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
-            Fragment fragment = null;
             if (position == 0) {
-                fragment = new InboxFragment();
+                fragment = iFrag;
             } else if (position == 1) {
                 fragment = new FriendsFragment();
             }
@@ -179,7 +189,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public int getCount() {
-            // Show 3 total pages.
+
             return 2;
         }
 

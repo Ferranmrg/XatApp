@@ -1,6 +1,7 @@
 package com.ferran.yep.controllers;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.v4.app.ListFragment;
@@ -15,6 +16,9 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.ferran.yep.R;
+import com.ferran.yep.models.Message;
+import com.ferran.yep.views.Chat;
+import com.ferran.yep.views.ReadMessages;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.ParseException;
@@ -31,14 +35,16 @@ import java.util.List;
  */
 public class InboxFragment extends ListFragment {
     Thread t;
+    ProgressBar pb;
+    ArrayList<Message> messages;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_inbox, container, false);
-        ProgressBar spinner = (ProgressBar)
+        pb = (ProgressBar)
                 rootView.findViewById(R.id.progressBar);
-        spinner.setVisibility(View.GONE);
+        messages = new ArrayList<>();
         t = new Thread(new Runnable() {
             @Override
             public void run() {
@@ -47,8 +53,9 @@ public class InboxFragment extends ListFragment {
                         loadMsg();
             }
         });
+        loadMsg();
         if (ParseUser.getCurrentUser() != null) {
-            t.start();
+            //     t.start();
         }
         return rootView;
     }
@@ -57,11 +64,6 @@ public class InboxFragment extends ListFragment {
     public void onResume() {
         super.onResume();
         LoadMessages();
-    }
-
-    @Override
-    public void onListItemClick(ListView l, View v, int position, long id) {
-        super.onListItemClick(l, v, position, id);
     }
 
     public synchronized void loadMsg() {
@@ -75,34 +77,54 @@ public class InboxFragment extends ListFragment {
 
 
     public void LoadMessages() {
-        final ArrayList<String> messages = new ArrayList<>();
 
+        pb.setMax(100);
+        pb.setVisibility(ProgressBar.VISIBLE);
+        pb.setProgress(20);
         // CONSULTA PARSE
+        if (ParseUser.getCurrentUser() != null) {
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Messages");
+            query.orderByDescending("createdAt");
+            query.whereEqualTo("To", ParseUser.getCurrentUser().getUsername());
 
-        query.whereEqualTo("To", ParseUser.getCurrentUser().getUsername());
-
-        query.findInBackground(new FindCallback<ParseObject>() {
-            public void done(List<ParseObject> messageList, ParseException e) {
-                if (e == null) {
-                    Log.d("MESSAGE", "Retrieved " + messageList.size() + " MESSAGES");
-                    for (int i = 0; i < messageList.size(); i++) {
-                        messages.add(messageList.get(i).get("mText").toString());
-                        Log.d("MESSAGE", "done: " + messageList.get(i).getString("From"));
-                        setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, messages));
+            query.findInBackground(new FindCallback<ParseObject>() {
+                public void done(List<ParseObject> messageList, ParseException e) {
+                    if (e == null) {
+                        Log.d("MESSAGE", "Retrieved " + messageList.size() + " MESSAGES");
+                        ArrayList<String> Aux = new ArrayList<String>();
+                        for (int i = 0; i < messageList.size(); i++) {
+                            Message M = new Message(messageList.get(i).get("From").toString(),
+                                    messageList.get(i).get("To").toString(),
+                                    messageList.get(i).get("mText").toString());
+                            messages.add(M);
+                            pb.setProgress(60);
+                            Aux.add(i, "Messsage From: " + M.getFrom());
+                        }
+                        setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, Aux));
+                        pb.setProgress(80);
+                    } else {
+                        Log.d("MESSAGE", "Error: " + e.getMessage());
                     }
-                } else {
-                    Log.d("MESSAGE", "Error: " + e.getMessage());
                 }
-            }
-        });
-
+            });
+        }
+        pb.setProgress(100);
+        pb.setVisibility(ProgressBar.INVISIBLE);
 
     }
 
     @Override
     public void onPause() {
         super.onPause();
-        t.stop();
+        //t.interrupt();
+    }
+
+    public void onListItemClick(ListView l, View v, int position, long id) {
+        super.onListItemClick(l, v, position, id);
+
+        Intent intent = new Intent(this.getContext(), ReadMessages.class);
+        intent.putExtra("Message", messages.get(position));
+        this.startActivity(intent);
+
     }
 }

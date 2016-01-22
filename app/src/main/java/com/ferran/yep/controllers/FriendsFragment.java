@@ -75,7 +75,6 @@ public class FriendsFragment extends ListFragment  {
         super.onListItemClick(l, v, position, id);
 
         Intent intent = new Intent(this.getContext(), Chat.class);
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.putExtra("To", friends.get(position));
         this.startActivity(intent);
 
