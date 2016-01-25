@@ -25,6 +25,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.ferran.yep.App;
 import com.ferran.yep.R;
 import com.ferran.yep.controllers.FriendsFragment;
 import com.ferran.yep.controllers.InboxFragment;
@@ -63,7 +64,8 @@ public class MainActivity extends AppCompatActivity {
 
         ParseUser currentUser = ParseUser.getCurrentUser();
         if (currentUser != null) {
-
+            App.installation.put("username", currentUser.getUsername());
+            App.installation.saveInBackground();
         } else {
             Intent intent = new Intent(this, LoginActivity.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);

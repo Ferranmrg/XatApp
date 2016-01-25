@@ -87,7 +87,7 @@ public class InboxFragment extends ListFragment {
         pb.setProgress(20);
         // CONSULTA PARSE
         if (ParseUser.getCurrentUser() != null) {
-        ParseQuery<ParseObject> query = ParseQuery.getQuery("Messages");
+            ParseQuery<ParseObject> query = ParseQuery.getQuery("Messages");
             query.orderByDescending("createdAt");
             query.whereEqualTo("To", ParseUser.getCurrentUser().getUsername());
 
@@ -104,7 +104,8 @@ public class InboxFragment extends ListFragment {
                             pb.setProgress(60);
                             Aux.add(i, "Messsage From: " + M.getFrom());
                         }
-                        setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, Aux));
+                        if (getActivity() != null)
+                            setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, Aux));
                         pb.setProgress(80);
                     } else {
                         Log.d("MESSAGE", "Error: " + e.getMessage());
@@ -132,9 +133,4 @@ public class InboxFragment extends ListFragment {
 
     }
 
-    public void OnItemLongClickListener(ListView l, View v, int position, long id) {
-        //ParsePushBroadcastReceiver PBR = new ParsePushBroadcastReceiver();
-        //PBR.onReceive();
-
-    }
 }

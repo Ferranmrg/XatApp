@@ -19,7 +19,6 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.d("prueba", "onCreate: ");
 
         // Add your initialization code here
         Parse.initialize(this, YOUR_APPLICATION_ID, YOUR_CLIENT_KEY);

@@ -1,3 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_1237e98089bebc77726ad064d17579516169047a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_38d48f8e15b3e8afdb9d6d12cfaf4650c2277a41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_92007fb4b3d94d68a8ad3a59e28ea1ca1eb4f8a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\parse-android-1.13.0_befaa196d6132df522b0a39a8ad91b8073f4beef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_af63de9c3d6b97e4e228071e88400431c949d4b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_47a66aaede213d24832c6131f78cdc52780be83a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_bc467faa76ef0d3597d60bddafe380e382aa4b05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_fec4a7116744c7c08a384083c6da2f21b183014f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ferra\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_76e602ad0fb4e44263e9557f220db908fcfbba70.jar" />
+    </item>
+
+</items>
