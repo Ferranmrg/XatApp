@@ -15,7 +15,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtInMessage"
         android:textColor="#ffffff"
-        android:text="FFFFFFFFFFF"
         android:textSize="20sp"
         android:layout_below="@+id/txtFromMessage"
         android:layout_alignParentLeft="true"
@@ -27,7 +26,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtFromMessage"
         android:textColor="#ffffff"
-        android:text="FFFFFFF"
         android:textStyle="bold"
         android:textSize="24sp"
         android:layout_alignParentTop="true"
@@ -36,8 +34,7 @@
         android:layout_marginTop="82dp" />
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imgFromMessage"
-        android:layout_alignParentStart="false" />
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imgFromMessage" />
 </RelativeLayout>

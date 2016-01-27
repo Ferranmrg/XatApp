@@ -23,4 +23,15 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/cameraBtn"
+        android:src="@drawable/ic_action_camera"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/sendImg"
+        android:layout_toEndOf="@+id/sendImg"
+        android:layout_marginLeft="51dp"
+        android:layout_marginStart="51dp" />
+
 </RelativeLayout>

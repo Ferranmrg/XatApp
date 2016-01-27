@@ -2,7 +2,9 @@ package com.ferran.yep.views;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -14,12 +16,17 @@ import com.ferran.yep.models.Message;
 import com.parse.FindCallback;
 import com.parse.Parse;
 import com.parse.ParseException;
+import com.parse.ParseFile;
 import com.parse.ParseInstallation;
 import com.parse.ParseObject;
 import com.parse.ParsePush;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -27,6 +34,9 @@ public class Chat extends Activity {
     String toUser;
     EditText chatText;
     ImageView send;
+    ImageView camera;
+    static final int REQUEST_IMAGE_CAPTURE = 1;
+
     @Override
 
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,6 +45,7 @@ public class Chat extends Activity {
         toUser = getIntent().getExtras().getString("To");
         chatText = (EditText) findViewById(R.id.chatEditText);
         send = (ImageView) findViewById(R.id.sendImg);
+        camera = (ImageView) findViewById(R.id.cameraBtn);
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -61,7 +72,16 @@ public class Chat extends Activity {
                                 pushQuery.whereMatches("username", userList.get(0).getUsername());
                                 ParsePush PS = new ParsePush();
                                 PS.setQuery(pushQuery);
-                                PS.setMessage(String.valueOf(chatText.getText()));
+                                //PS.setMessage(String.valueOf(chatText.getText()));
+                                JSONObject fromUsuJson = new JSONObject();
+                                try {
+                                    fromUsuJson.put("From", ParseUser.getCurrentUser().getUsername());
+                                    fromUsuJson.put("Message", String.valueOf(chatText.getText()));
+                                } catch (JSONException ex) {
+
+                                }
+
+                                PS.setData(fromUsuJson);
                                 PS.sendInBackground();
 
                             } else {
@@ -77,7 +97,66 @@ public class Chat extends Activity {
             }
         });
 
+        camera.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+                if (takePictureIntent.resolveActivity(getPackageManager()) != null) {
+                    startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
+                }
+            }
+
+
+        });
+
     }
 
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
+            Bundle extras = data.getExtras();
+            Bitmap imageBitmap = (Bitmap) extras.get("data");
+            ByteArrayOutputStream stream = new ByteArrayOutputStream();
+            imageBitmap.compress(Bitmap.CompressFormat.PNG, 100, stream);
+            byte[] byteArray = stream.toByteArray();
 
+            ParseObject message = new ParseObject("Messages");
+            message.put("From", ParseUser.getCurrentUser().getUsername());
+            message.put("To", toUser);
+            ParseFile file = new ParseFile("foto.png", byteArray);
+            file.saveInBackground();
+            message.put("mIMG", file);
+
+            ParseQuery<ParseUser> query = ParseUser.getQuery();
+            query.whereEqualTo("username", toUser);
+
+            // TODO revisar esto
+
+            query.findInBackground(new FindCallback<ParseUser>() {
+                public void done(List<ParseUser> userList, ParseException e) {
+                    if (e == null) {
+                        ParseQuery<ParseInstallation> pushQuery = ParseInstallation.getQuery();
+                        pushQuery.whereMatches("username", userList.get(0).getUsername());
+                        ParsePush PS = new ParsePush();
+                        PS.setQuery(pushQuery);
+                        JSONObject fromUsuJson = new JSONObject();
+                        try {
+                            fromUsuJson.put("From", ParseUser.getCurrentUser().getUsername());
+                            fromUsuJson.put("Message", "Image");
+                        } catch (JSONException ex) {
+
+                        }
+                        PS.setData(fromUsuJson);
+                        PS.sendInBackground();
+
+                    } else {
+                        Log.d("MESSAGE", "Error: " + e.getMessage());
+                    }
+                }
+            });
+            message.saveInBackground();
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(intent);
+        }
+    }
 }

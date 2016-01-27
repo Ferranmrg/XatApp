@@ -24,6 +24,11 @@
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.ferran.yep.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
 
     <application
         android:name="com.ferran.yep.App"
@@ -57,7 +62,7 @@
         <service android:name="com.parse.PushService" />
 
         <receiver
-            android:name="com.parse.ParsePushBroadcastReceiver"
+            android:name="com.ferran.yep.utils.CustomPushReciver"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.parse.push.intent.RECEIVE" />
