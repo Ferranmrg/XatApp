@@ -3,6 +3,7 @@ package com.ferran.yep.views;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.os.CountDownTimer;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -19,21 +20,34 @@ public class ReadMessages extends AppCompatActivity {
     TextView txtFrom;
     TextView txtMessage;
     ImageView imgMessage;
+    TextView txtCountDown;
     final static int TIME = 5000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_read_messages);
-        Handler handler = new Handler();
+
+
+      /*  Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intent);
             }
-        }, TIME);
+        }, TIME);*/
+        txtCountDown = (TextView) findViewById(R.id.countDownText);
+        new CountDownTimer(TIME, 1000) {
+            public void onTick(long milisToFinish) {
+                txtCountDown.setText(String.valueOf(milisToFinish / 1000));
+            }
 
+            public void onFinish() {
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                startActivity(intent);
+            }
+        }.start();
 
         txtFrom = (TextView) findViewById(R.id.txtFromMessage);
         txtMessage = (TextView) findViewById(R.id.txtInMessage);
