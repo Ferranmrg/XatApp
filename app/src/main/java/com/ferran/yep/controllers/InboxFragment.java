@@ -49,6 +49,7 @@ public class InboxFragment extends ListFragment {
     ProgressBar pb;
     ArrayList<Message> messages;
 
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -145,6 +146,29 @@ public class InboxFragment extends ListFragment {
         Collections.reverse(messages);
         Intent intent = new Intent(this.getContext(), ReadMessages.class);
         intent.putExtra("Message", messages.get(position));
+        //DELETE SELECTED MESSAGE
+        ParseQuery<ParseObject> query = ParseQuery.getQuery("Messages");
+        query.whereEqualTo("To", messages.get(position).getTo());
+        query.whereEqualTo("createdAt", messages.get(position).getFecha());
+        query.getFirstInBackground(new GetCallback<ParseObject>() {
+
+                                       @Override
+                                       public void done(ParseObject object, com.parse.ParseException arg0) {
+                                           // TODO Auto-generated method stub
+
+                                           final ParseObject deleteOb = object;
+
+                                           try {
+                                               deleteOb.delete();
+                                               deleteOb.saveInBackground();
+                                               LoadMessages();
+                                           } catch (ParseException e) {
+
+                                           }
+                                       }
+                                   }
+        );
+
         this.startActivity(intent);
 
     }
