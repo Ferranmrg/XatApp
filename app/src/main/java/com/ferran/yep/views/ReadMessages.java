@@ -46,6 +46,7 @@ public class ReadMessages extends AppCompatActivity {
             public void onFinish() {
                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intent);
+                overridePendingTransition(R.anim.unshade, R.anim.slide_out_right);
             }
         }.start();
 

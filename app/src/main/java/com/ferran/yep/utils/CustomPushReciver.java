@@ -53,7 +53,7 @@ public class CustomPushReciver extends ParsePushBroadcastReceiver {
 
         NotificationCompat.Builder mBuilder =
                 new NotificationCompat.Builder(context)
-                        .setSmallIcon(R.drawable.ic_launcher)
+                        .setSmallIcon(R.drawable.ic_stat_bird)
                         .setContentTitle(title + ":")
                         .setContentText(message)
                         .setNumber(++numMessages);

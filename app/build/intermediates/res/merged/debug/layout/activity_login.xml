@@ -10,13 +10,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imgBackground"
-        android:layout_alignParentBottom="false"
-        android:layout_alignParentRight="false"
         android:scaleType="fitXY"
+        android:src="@drawable/fondoguay"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:src="@drawable/background_spin" />
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

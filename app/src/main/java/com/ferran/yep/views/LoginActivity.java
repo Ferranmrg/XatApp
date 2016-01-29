@@ -25,6 +25,8 @@ import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
+import xyz.hanks.library.SmallBang;
+
 public class LoginActivity extends AppCompatActivity {
 
     protected TextView mSignUpTextView;
@@ -35,6 +37,7 @@ public class LoginActivity extends AppCompatActivity {
     //TEMP de mierda
     private float x1, x2;
     static final int MIN_DISTANCE = 150;
+
     //---------------
 
     @Override
@@ -53,9 +56,11 @@ public class LoginActivity extends AppCompatActivity {
         userField = (EditText) findViewById(R.id.usernameField);
         pwdField = (EditText) findViewById(R.id.passwordField);
         sendBtn = (Button) findViewById(R.id.loginButton);
+        final SmallBang bangAnim = SmallBang.attach2Window(this);
         sendBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                bangAnim.bang(v);
                 clickPerformed();
 
 

@@ -170,6 +170,7 @@ public class InboxFragment extends ListFragment {
         );
 
         this.startActivity(intent);
+        getActivity().overridePendingTransition(R.anim.slide_in_right, R.anim.shade);
 
     }
 

@@ -27,6 +27,10 @@ public final class R {
         public static final int pull_in_right=0x7f05000f;
         public static final int push_out_left=0x7f050010;
         public static final int push_out_right=0x7f050011;
+        public static final int shade=0x7f050012;
+        public static final int slide_in_right=0x7f050013;
+        public static final int slide_out_right=0x7f050014;
+        public static final int unshade=0x7f050015;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -2221,25 +2225,31 @@ containing a value of this type.
         public static final int edittext_login_textfield_disabled_focused_holo_light=0x7f020051;
         public static final int edittext_login_textfield_disabled_holo_light=0x7f020052;
         public static final int edittext_login_textfield_focused_holo_light=0x7f020053;
-        public static final int ic_action_camera=0x7f020054;
-        public static final int ic_action_picture=0x7f020055;
-        public static final int ic_action_play_over_video=0x7f020056;
-        public static final int ic_action_send_now=0x7f020057;
-        public static final int ic_launcher=0x7f020058;
-        public static final int ic_menu_camera=0x7f020059;
-        public static final int ic_menu_overflow=0x7f02005a;
-        public static final int ic_menu_send=0x7f02005b;
-        public static final int ic_picture=0x7f02005c;
-        public static final int ic_tab_friends=0x7f02005d;
-        public static final int ic_tab_inbox=0x7f02005e;
-        public static final int ic_video=0x7f02005f;
-        public static final int myyep_edit_text_holo_light=0x7f020060;
-        public static final int myyep_textfield_activated_holo_light=0x7f020061;
-        public static final int myyep_textfield_default_holo_light=0x7f020062;
-        public static final int myyep_textfield_disabled_focused_holo_light=0x7f020063;
-        public static final int myyep_textfield_disabled_holo_light=0x7f020064;
-        public static final int myyep_textfield_focused_holo_light=0x7f020065;
-        public static final int notification_template_icon_bg=0x7f020066;
+        public static final int fondoguay=0x7f020054;
+        public static final int fondoguay_spin=0x7f020055;
+        public static final int ic_action_camera=0x7f020056;
+        public static final int ic_action_picture=0x7f020057;
+        public static final int ic_action_play_over_video=0x7f020058;
+        public static final int ic_action_send_now=0x7f020059;
+        public static final int ic_archive_24dp=0x7f02005a;
+        public static final int ic_launcher=0x7f02005b;
+        public static final int ic_menu_camera=0x7f02005c;
+        public static final int ic_menu_overflow=0x7f02005d;
+        public static final int ic_menu_send=0x7f02005e;
+        public static final int ic_people_24dp=0x7f02005f;
+        public static final int ic_picture=0x7f020060;
+        public static final int ic_stat_bird=0x7f020061;
+        public static final int ic_sync_24dp=0x7f020062;
+        public static final int ic_tab_friends=0x7f020063;
+        public static final int ic_tab_inbox=0x7f020064;
+        public static final int ic_video=0x7f020065;
+        public static final int myyep_edit_text_holo_light=0x7f020066;
+        public static final int myyep_textfield_activated_holo_light=0x7f020067;
+        public static final int myyep_textfield_default_holo_light=0x7f020068;
+        public static final int myyep_textfield_disabled_focused_holo_light=0x7f020069;
+        public static final int myyep_textfield_disabled_holo_light=0x7f02006a;
+        public static final int myyep_textfield_focused_holo_light=0x7f02006b;
+        public static final int notification_template_icon_bg=0x7f02006c;
     }
     public static final class id {
         public static final int SubTitle=0x7f0c006f;
@@ -2470,6 +2480,7 @@ containing a value of this type.
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
+        public static final int ic_launcher_clean=0x7f030001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f060000;
