@@ -70,10 +70,13 @@ public class MainActivity extends AppCompatActivity {
             App.installation.put("username", currentUser.getUsername());
             App.installation.saveInBackground();
         } else {
-            Intent intent = new Intent(this, LoginActivity.class);
-            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-            startActivity(intent);
+//            Intent intent = new Intent(this, LoginActivity.class);
+//            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+//            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+//            startActivity(intent);
+
+            Intent i = new Intent(this, SplashScreen.class);
+            startActivity(i);
         }
 
 

@@ -15,4 +15,14 @@
     <string name="empty_inbox_label">No new messages</string>
     <string name="empty_friends_label">Add some friends to start</string>
     <string name="action_add_friend">Add Friend</string>
+
+    <!-- draw thing and stuff -->
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
 </resources>

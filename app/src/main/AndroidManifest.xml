@@ -77,10 +77,16 @@
 
         <activity
             android:name=".views.ReadMessages"
-            android:parentActivityName=".views.MainActivity"></activity>
+            android:parentActivityName=".views.MainActivity" />
+
+        <activity android:name=".views.DrawActivity" />
+
         <activity
             android:name=".views.AddFriends"
-            android:parentActivityName=".views.MainActivity"></activity>
+            android:parentActivityName=".views.MainActivity" />
+
+        <activity android:name=".views.SplashScreen"></activity>
+
     </application>
 
 </manifest>

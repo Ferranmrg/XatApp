@@ -84,9 +84,11 @@
         <activity
             android:name="com.ferran.yep.views.ReadMessages"
             android:parentActivityName="com.ferran.yep.views.MainActivity" />
+        <activity android:name="com.ferran.yep.views.DrawActivity" />
         <activity
             android:name="com.ferran.yep.views.AddFriends"
             android:parentActivityName="com.ferran.yep.views.MainActivity" />
+        <activity android:name="com.ferran.yep.views.SplashScreen" />
     </application>
 
 </manifest>

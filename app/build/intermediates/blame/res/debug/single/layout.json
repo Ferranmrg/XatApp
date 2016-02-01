@@ -8,12 +8,12 @@
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/fragment_inbox.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/layout/fragment_inbox.xml"
-    },
-    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/fragment_inbox.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/layout/fragment_inbox.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -22,6 +22,10 @@
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/activity_draw.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/layout/activity_draw.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
@@ -92,12 +96,12 @@
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/activity_read_messages.xml",
@@ -288,6 +292,10 @@
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/brush_chooser.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/layout/brush_chooser.xml"
+    },
+    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
     },
@@ -426,6 +434,10 @@
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout/fragment_friends.xml",

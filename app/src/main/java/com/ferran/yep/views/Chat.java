@@ -35,7 +35,9 @@ public class Chat extends Activity {
     EditText chatText;
     ImageView send;
     ImageView camera;
+    ImageView draw;
     static final int REQUEST_IMAGE_CAPTURE = 1;
+    static final int REQUEST_DRAW = 2;
 
     @Override
 
@@ -45,6 +47,7 @@ public class Chat extends Activity {
         toUser = getIntent().getExtras().getString("To");
         chatText = (EditText) findViewById(R.id.chatEditText);
         send = (ImageView) findViewById(R.id.sendImg);
+        draw = (ImageView) findViewById(R.id.drawBtn);
         camera = (ImageView) findViewById(R.id.cameraBtn);
         send.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -110,10 +113,26 @@ public class Chat extends Activity {
 
         });
 
+
+        draw.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+
+                // INTENT PARA IR A DIBUJAR
+                Intent drawIntent = new Intent(getApplicationContext(), DrawActivity.class);
+                startActivityForResult(drawIntent, REQUEST_DRAW);
+
+
+            }
+        });
+
+
     }
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
+            Log.d("vuelvo", "onActivityResult: ------- ");
             Bundle extras = data.getExtras();
             Bitmap imageBitmap = (Bitmap) extras.get("data");
             ByteArrayOutputStream stream = new ByteArrayOutputStream();
@@ -157,6 +176,62 @@ public class Chat extends Activity {
             message.saveInBackground();
             Intent intent = new Intent(getApplicationContext(), MainActivity.class);
             startActivity(intent);
+
+
+        } else
+
+
+            //DRAW RESULT ACTIVITY
+
+
+            if (requestCode == REQUEST_DRAW && resultCode == RESULT_OK) {
+
+
+                Bundle extras = data.getExtras();
+                Bitmap imageBitmap = (Bitmap) extras.get("data");
+                ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                imageBitmap.compress(Bitmap.CompressFormat.PNG, 100, stream);
+                byte[] byteArray = stream.toByteArray();
+
+                ParseObject message = new ParseObject("Messages");
+                message.put("From", ParseUser.getCurrentUser().getUsername());
+                message.put("To", toUser);
+                ParseFile file = new ParseFile("foto.png", byteArray);
+                file.saveInBackground();
+                message.put("mIMG", file);
+
+                ParseQuery<ParseUser> query = ParseUser.getQuery();
+                query.whereEqualTo("username", toUser);
+
+                // TODO revisar esto
+
+                query.findInBackground(new FindCallback<ParseUser>() {
+                    public void done(List<ParseUser> userList, ParseException e) {
+                        if (e == null) {
+                            ParseQuery<ParseInstallation> pushQuery = ParseInstallation.getQuery();
+                            pushQuery.whereMatches("username", userList.get(0).getUsername());
+                            ParsePush PS = new ParsePush();
+                            PS.setQuery(pushQuery);
+                            JSONObject fromUsuJson = new JSONObject();
+                            try {
+                                fromUsuJson.put("From", ParseUser.getCurrentUser().getUsername());
+                                fromUsuJson.put("Message", "Draw");
+                            } catch (JSONException ex) {
+
+                            }
+                            PS.setData(fromUsuJson);
+                            PS.sendInBackground();
+
+                        } else {
+                            Log.d("MESSAGE", "Error: " + e.getMessage());
+                        }
+                    }
+                });
+                message.saveInBackground();
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                startActivity(intent);
+
+
         }
     }
 }
