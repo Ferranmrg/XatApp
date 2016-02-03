@@ -202,7 +202,7 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
 
                     Intent intent = getIntent();
 
-                    Bitmap dibujo = scaleDownBitmap(drawView.getDrawingCache(), 250, view.getContext());
+                    Bitmap dibujo = scaleDownBitmap(drawView.getDrawingCache(), 130, view.getContext());
 
                     intent.putExtra("data", dibujo);
                     setResult(RESULT_OK, intent);

@@ -3,6 +3,8 @@ package com.ferran.yep.views;
 
 import android.content.Intent;
 import android.content.res.Resources;
+import android.graphics.Color;
+import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -58,6 +60,8 @@ public class MainActivity extends AppCompatActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
+    Drawable icon1;
+    Drawable icon2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -100,6 +104,30 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.getTabAt(0).setIcon(R.drawable.ic_archive_24dp);
         tabLayout.getTabAt(1).setIcon(R.drawable.ic_people_24dp);
 
+     /*   tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+            @Override
+            public void onTabSelected(TabLayout.Tab tab) {
+                if (tab.getPosition() == 0)
+                    icon1.setColorFilter(Color.rgb(0, 150, 136), PorterDuff.Mode.MULTIPLY);
+                if (tab.getPosition() == 1) {
+                    icon2.setColorFilter(Color.rgb(0, 150, 136), PorterDuff.Mode.MULTIPLY);
+                }
+                Log.d("tabPressed", "onTabSelected: " + tab.getText().toString());
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+                if (tab.getPosition() == 0)
+                    icon1.setColorFilter(Color.rgb(250, 250, 250), PorterDuff.Mode.MULTIPLY);
+                if (tab.getPosition() == 1)
+                    icon2.setColorFilter(Color.rgb(250, 250, 250), PorterDuff.Mode.MULTIPLY);
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+
+            }
+        });*/
 
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -198,6 +226,7 @@ public class MainActivity extends AppCompatActivity {
             // Return a PlaceholderFragment (defined as a static inner class below).
             if (position == 0) {
                 fragment = iFrag;
+
             } else if (position == 1) {
                 fragment = new FriendsFragment();
             }

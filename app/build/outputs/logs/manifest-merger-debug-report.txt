@@ -1,204 +1,204 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:2:1-93:12
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:2:1-92:12
 	package
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:3:5-29
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:7:5-68
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:7:5-68
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:7:22-65
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:7:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:8:22-63
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:8:22-63
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:9:5-71
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:9:22-68
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:9:22-68
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:10:5-82
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:10:5-82
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:10:22-79
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:10:22-79
 permission#com.ferran.yep.permission.C2D_MESSAGE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:16:5-18:47
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:16:5-18:47
 	android:protectionLevel
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:18:9-44
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:18:9-44
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:17:9-61
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:17:9-61
 uses-permission#com.ferran.yep.permission.C2D_MESSAGE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:20:5-77
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:20:5-77
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:20:22-74
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:20:22-74
 uses-feature#android.hardware.camera
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:23:5-25:35
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:23:5-25:35
 	android:required
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:25:9-32
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:25:9-32
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:24:9-47
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:24:9-47
 application
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:27:5-91:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [hanks.xyz:smallbang-library:0.1.2] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/hanks.xyz/smallbang-library/0.1.2/AndroidManifest.xml:11:5-15:19
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:27:5-90:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [hanks.xyz:smallbang-library:0.1.2] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\hanks.xyz\smallbang-library\0.1.2\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:31:9-41
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:31:9-41
 	android:supportsRtl
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:32:9-35
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:32:9-35
 	android:allowBackup
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:29:9-35
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:29:9-35
 	android:icon
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:30:9-43
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:30:9-43
 	android:theme
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:33:9-40
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:33:9-40
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:28:9-28
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:28:9-28
 activity#com.ferran.yep.views.MainActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:34:9-44:20
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:34:9-44:20
 	android:screenOrientation
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:37:13-49
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:37:13-49
 	android:label
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:36:13-45
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:36:13-45
 	android:theme
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:38:13-56
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:38:13-56
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:35:13-47
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:35:13-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:39:13-43:29
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:40:17-69
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:40:25-66
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:42:17-77
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:42:27-74
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.ferran.yep.views.LoginActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:45:9-47:52
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:45:9-47:52
 	android:screenOrientation
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:47:13-49
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:47:13-49
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:46:13-48
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:46:13-48
 activity#com.ferran.yep.views.SignUpActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:48:9-51:52
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:48:9-51:52
 	android:screenOrientation
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:51:13-49
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:51:13-49
 	android:parentActivityName
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:50:13-61
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:50:13-61
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:49:13-49
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:49:13-49
 activity#com.ferran.yep.views.Chat
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:52:9-54:64
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:52:9-54:64
 	android:parentActivityName
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:54:13-61
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:54:13-61
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:53:13-39
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:53:13-39
 service#com.parse.PushService
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:56:9-57
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:56:9-57
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:56:18-54
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:56:18-54
 receiver#com.ferran.yep.utils.CustomPushReciver
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:58:9-66:20
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:58:9-66:20
 	android:exported
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:60:13-37
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:60:13-37
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:59:13-52
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:59:13-52
 intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:61:13-65:29
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:61:13-65:29
 action#com.parse.push.intent.RECEIVE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:62:17-72
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:62:17-72
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:62:25-69
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:62:25-69
 action#com.parse.push.intent.DELETE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:63:17-71
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:63:17-71
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:63:25-68
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:63:25-68
 action#com.parse.push.intent.OPEN
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:64:17-69
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:64:25-66
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:64:25-66
 receiver#com.parse.GcmBroadcastReceiver
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:67:9-76:20
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:67:9-76:20
 	android:permission
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:69:13-73
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:69:13-73
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:68:13-58
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:68:13-58
 intent-filter#com.ferran.yep+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:70:13-75:29
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:70:13-75:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:71:17-81
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:71:17-81
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:71:25-78
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:71:25-78
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:72:17-86
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:72:17-86
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:72:25-83
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:72:25-83
 category#com.ferran.yep
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:74:17-59
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:74:17-59
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:74:27-56
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:74:27-56
 activity#com.ferran.yep.views.ReadMessages
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:78:9-80:64
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:78:9-80:64
 	android:parentActivityName
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:80:13-61
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:80:13-61
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:79:13-47
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:79:13-47
 activity#com.ferran.yep.views.DrawActivity
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:82:9-83:50
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:82:9-56
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:83:13-47
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:82:19-53
 activity#com.ferran.yep.views.AddFriends
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:85:9-87:64
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:84:9-86:64
 	android:parentActivityName
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:87:13-61
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:86:13-61
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:86:13-45
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:85:13-45
 activity#com.ferran.yep.views.SplashScreen
-ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:89:9-65
+ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:88:9-65
 	android:name
-		ADDED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml:89:19-53
+		ADDED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml:88:19-53
 uses-sdk
-INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [hanks.xyz:smallbang-library:0.1.2] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/hanks.xyz/smallbang-library/0.1.2/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.daimajia.easing:library:1.0.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/AndroidManifest.xml:8:5-10:41
-MERGED from [com.daimajia.androidanimations:library:1.1.3] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:design:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.1.1] /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [hanks.xyz:smallbang-library:0.1.2] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\hanks.xyz\smallbang-library\0.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Ferra\Documents\XatAppPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ferra\Documents\XatAppPlus\app\src\main\AndroidManifest.xml

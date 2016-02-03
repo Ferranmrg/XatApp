@@ -2,6 +2,7 @@ package com.ferran.yep.views;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.provider.MediaStore;
@@ -130,6 +131,8 @@ public class Chat extends Activity {
 
     }
 
+
+    //PROCESS RESULTS
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == REQUEST_IMAGE_CAPTURE && resultCode == RESULT_OK) {
             Log.d("vuelvo", "onActivityResult: ------- ");

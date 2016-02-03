@@ -10,7 +10,9 @@ import android.os.SystemClock;
 import android.support.v4.app.ListFragment;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.view.ContextMenu;
 import android.view.LayoutInflater;
+import android.view.MenuInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
@@ -57,6 +59,7 @@ public class InboxFragment extends ListFragment {
         pb = (ProgressBar)
                 rootView.findViewById(R.id.progressBar);
         messages = new ArrayList<>();
+
         LoadMessages();
         return rootView;
     }
