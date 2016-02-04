@@ -7,7 +7,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".views.MainActivity$PlaceholderFragment"
-    android:background="@drawable/background_spin">
+    android:background="@drawable/fondoguay">
 
     <ListView
         android:id="@android:id/list"

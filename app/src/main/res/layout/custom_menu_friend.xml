@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:orientation="vertical"><![CDATA[
+    android:orientation="vertical"
+    android:background="#9b27af"><![CDATA[
 
     />
 
@@ -14,26 +15,34 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Send Text"
-        android:id="@+id/TextBtn" />
+        android:id="@+id/TextBtn"
+        android:background="#009688"
+        android:textColor="#ffffff" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SEND IMAGE"
         android:id="@+id/imgBtn"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:background="#26a69a"
+        android:textColor="#ffffff" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SEND DRAW"
         android:id="@+id/drawBtn"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:background="#4db6ac"
+        android:textColor="#ffffff" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="DELETE FRIEND"
         android:id="@+id/deleteBtn"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:background="#80cbc4"
+        android:textColor="#ffffff" />
 </LinearLayout>
