@@ -31,6 +31,15 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="SEND VIDEO"
+        android:id="@+id/videBtn"
+        android:layout_gravity="center_horizontal"
+        android:background="#26a69a"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="SEND DRAW"
         android:id="@+id/drawBtn"
         android:layout_gravity="center_horizontal"

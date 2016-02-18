@@ -17,10 +17,10 @@ public class Message implements Serializable {
     String to;
     String message;
     byte[] image;
-    ParseFile video;
+    byte[] video;
     Date fecha;
 
-    public Message(String from, String to, String message, byte[] image, ParseFile video) {
+    public Message(String from, String to, String message, byte[] image, byte[] video) {
         this.from = from;
         this.to = to;
         this.message = message;
@@ -89,11 +89,11 @@ public class Message implements Serializable {
         this.image = image;
     }
 
-    public ParseFile getVideo() {
+    public byte[] getVideo() {
         return video;
     }
 
-    public void setVideo(ParseFile video) {
+    public void setVideo(byte[] video) {
         this.video = video;
     }
 

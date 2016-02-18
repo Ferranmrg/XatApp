@@ -53,4 +53,12 @@
         android:layout_toRightOf="@+id/txtInMessage"
         android:layout_toEndOf="@+id/txtInMessage" />
 
+    <VideoView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
 </RelativeLayout>

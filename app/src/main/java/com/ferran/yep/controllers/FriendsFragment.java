@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.support.v4.app.ListFragment;
@@ -47,6 +48,10 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.ByteArrayOutputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -59,6 +64,7 @@ public class FriendsFragment extends ListFragment {
     Chat chatRes = new Chat();
     static final int REQUEST_IMAGE_CAPTURE = 1;
     static final int REQUEST_DRAW = 2;
+    static final int REQUEST_VIDEO_CAPTURE = 3;
     String toUser = "";
 
     @Override
@@ -181,6 +187,20 @@ public class FriendsFragment extends ListFragment {
             }
         });
 
+        //VIDEO
+        Button video = (Button) dialog.findViewById(R.id.videBtn);
+        video.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent takeVideoIntent = new Intent(MediaStore.ACTION_VIDEO_CAPTURE);
+                if (takeVideoIntent.resolveActivity(getActivity().getPackageManager()) != null) {
+                    startActivityForResult(takeVideoIntent, REQUEST_VIDEO_CAPTURE);
+                }
+                toUser = friends.get(position);
+                dialog.dismiss();
+            }
+        });
+
         //DRAW
         Button draw = (Button) dialog.findViewById(R.id.drawBtn);
         draw.setOnClickListener(new View.OnClickListener() {
@@ -241,8 +261,6 @@ public class FriendsFragment extends ListFragment {
             ParseQuery<ParseUser> query = ParseUser.getQuery();
             query.whereEqualTo("username", toUser);
 
-            // TODO revisar esto
-
             query.findInBackground(new FindCallback<ParseUser>() {
                 public void done(List<ParseUser> userList, ParseException e) {
                     if (e == null) {
@@ -288,7 +306,7 @@ public class FriendsFragment extends ListFragment {
                 message.put("To", toUser);
                 ParseFile file = new ParseFile("foto.png", byteArray);
                 file.saveInBackground();
-                message.put("mIMG", file);
+                message.put("mDRAW", file);
 
                 ParseQuery<ParseUser> query = ParseUser.getQuery();
                 query.whereEqualTo("username", toUser);
@@ -321,6 +339,75 @@ public class FriendsFragment extends ListFragment {
 
 
             }
+
+        //VIDEO RESULT ACTIVITY
+
+
+        if (requestCode == REQUEST_VIDEO_CAPTURE && resultCode == Activity.RESULT_OK) {
+
+            Intent intent = getActivity().getIntent();
+            Uri videoUri = data.getData();
+            InputStream iStream;
+            byte[] inputData = null;
+
+            try {
+                iStream = getActivity().getContentResolver().openInputStream(videoUri);
+                inputData = getBytes(iStream);
+            }catch (FileNotFoundException e){
+
+            }catch (IOException e){
+
+            }
+
+            ParseObject message = new ParseObject("Messages");
+            message.put("From", ParseUser.getCurrentUser().getUsername());
+            message.put("To", toUser);
+            ParseFile file = new ParseFile("video.mp4", inputData);
+            file.saveInBackground();
+            message.put("mVID", file);
+
+            ParseQuery<ParseUser> query = ParseUser.getQuery();
+            query.whereEqualTo("username", toUser);
+
+            // TODO revisar esto
+
+            query.findInBackground(new FindCallback<ParseUser>() {
+                public void done(List<ParseUser> userList, ParseException e) {
+                    if (e == null) {
+                        ParseQuery<ParseInstallation> pushQuery = ParseInstallation.getQuery();
+                        pushQuery.whereMatches("username", toUser);
+                        ParsePush PS = new ParsePush();
+                        PS.setQuery(pushQuery);
+                        JSONObject fromUsuJson = new JSONObject();
+                        try {
+                            fromUsuJson.put("From", ParseUser.getCurrentUser().getUsername());
+                            fromUsuJson.put("Message", "Video");
+                        } catch (JSONException ex) {
+
+                        }
+                        PS.setData(fromUsuJson);
+                        PS.sendInBackground();
+
+                    } else {
+                        Log.d("MESSAGE", "Error: " + e.getMessage());
+                    }
+                }
+            });
+            message.saveInBackground();
+
+
+        }
+    }
+    public byte[] getBytes(InputStream inputStream) throws IOException {
+        ByteArrayOutputStream byteBuffer = new ByteArrayOutputStream();
+        int bufferSize = 1024*1024;
+        byte[] buffer = new byte[bufferSize];
+
+        int len = 0;
+        while ((len = inputStream.read(buffer)) != -1) {
+            byteBuffer.write(buffer, 0, len);
+        }
+        return byteBuffer.toByteArray();
     }
 
 }

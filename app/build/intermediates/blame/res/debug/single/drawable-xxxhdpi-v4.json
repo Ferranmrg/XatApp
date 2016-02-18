@@ -1,470 +1,638 @@
 [
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_highlight_remove_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_highlight_remove_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_archive_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_archive_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_sync_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sync_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/avatar_empty.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/avatar_empty.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_sync_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sync_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_camera.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_menu_camera.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_highlight_remove_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_highlight_remove_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_sync_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sync_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_exit_to_app_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_exit_to_app_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_sync_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sync_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_brush_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_people_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_create_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_create_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_people_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_highlight_remove_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_highlight_remove_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_tab_friends.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_tab_friends.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_brush_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_archive_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_archive_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_highlight_remove_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_highlight_remove_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_brush_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_people_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_people_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_create_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_create_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_format_color_reset_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_format_color_reset_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_content_paste_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_content_paste_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_sync_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sync_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_people_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_format_color_reset_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_format_color_reset_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_exit_to_app_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/avatar_selected.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/avatar_selected.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_format_color_reset_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_format_color_reset_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_overflow.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_menu_overflow.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_content_paste_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_content_paste_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_format_color_reset_24dp.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_format_color_reset_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_archive_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_archive_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_tab_inbox.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_tab_inbox.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_create_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_create_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_selected.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_selected.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/background_fill.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/background_fill.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_create_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_create_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_exit_to_app_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_archive_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_archive_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_content_paste_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_content_paste_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_overflow.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_overflow.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_send.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_send.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/background.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/background.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_format_color_reset_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_format_color_reset_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_spin.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_spin.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_exit_to_app_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_exit_to_app_24dp.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_people_24dp.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_people_24dp.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_brush_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_brush_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_send.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_menu_send.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\avatar_empty.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\avatar_empty.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_archive_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_archive_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_picture.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_picture.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_inbox.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_inbox.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background_fill.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\background_fill.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/background_spin.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/background_spin.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_content_paste_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_content_paste_24dp.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_video.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_create_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_create_24dp.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_video.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/src/main/res/drawable-xxxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_content_paste_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_content_paste_24dp.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_menu_camera.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_highlight_remove_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_highlight_remove_24dp.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_picture.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\background.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_brush_24dp.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_brush_24dp.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_tab_friends.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_tab_friends.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     }
 ]

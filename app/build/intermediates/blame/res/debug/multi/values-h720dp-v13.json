@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "/home/ferran/StudioProjects/XatApp/C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,31 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
+                    "file": "/home/ferran/StudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 66,
+                        "endOffset": 294
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/home/ferran/StudioProjects/XatApp/C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

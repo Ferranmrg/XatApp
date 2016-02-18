@@ -93,8 +93,8 @@ public class InboxFragment extends ListFragment {
                             final Message M = new Message(messageList.get(i).get("From").toString(),
                                     messageList.get(i).get("To").toString(), inMsg, fecha);
 
-                            final int auxNum = i;
                             ParseFile fileObject = (ParseFile) messageList.get(i).get("mIMG");
+                            ParseFile videoObject = (ParseFile) messageList.get(i).get("mVID");
                             if (fileObject != null) {
                                 fileObject.getDataInBackground(new GetDataCallback() {
                                     public void done(byte[] data, ParseException e) {
@@ -115,7 +115,27 @@ public class InboxFragment extends ListFragment {
 
                                 });
                                 Aux.add(i, "Image From:" + M.getFrom());
-                            } else {
+                            } else if(videoObject != null) {
+                                videoObject.getDataInBackground(new GetDataCallback() {
+                                    public void done(byte[] data, ParseException e) {
+                                        if (e == null) {
+                                            Log.d("test",
+                                                    "We've got data in data.");
+                                            // Decode the Byte[] into
+                                            // Bitmap
+                                            M.setVideo(data);
+                                            messages.add(M);
+                                            pb.setProgress(60);
+
+                                        } else {
+
+                                        }
+
+                                    }
+
+                                });
+                                Aux.add(i, "Video From:" + M.getFrom());
+                            }else{
                                 messages.add(M);
                                 Aux.add(i, "Message From:" + M.getFrom());
 
