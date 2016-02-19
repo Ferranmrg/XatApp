@@ -8,13 +8,19 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".views.MainActivity$PlaceholderFragment"
     android:background="@drawable/fondoguay">
-
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/SwipeRefreshLayout">
     <ListView
         android:id="@android:id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true" />
+    </android.support.v4.widget.SwipeRefreshLayout>
 
     <ProgressBar
         android:layout_width="wrap_content"

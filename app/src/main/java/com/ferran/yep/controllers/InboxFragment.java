@@ -8,6 +8,7 @@ import android.location.GpsStatus;
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.support.v4.app.ListFragment;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.ContextMenu;
@@ -52,12 +53,18 @@ public class InboxFragment extends ListFragment {
     Thread t;
     ProgressBar pb;
     ArrayList<Message> messages;
+    protected SwipeRefreshLayout mSwipeRefleshLayout;
 
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_inbox, container, false);
+
+        mSwipeRefleshLayout = (SwipeRefreshLayout)rootView.findViewById(R.id.SwipeRefreshLayout);
+
+        mSwipeRefleshLayout.setOnRefreshListener(mOnRefreshListener);
+
         pb = (ProgressBar)
                 rootView.findViewById(R.id.progressBar);
         messages = new ArrayList<>();
@@ -143,6 +150,10 @@ public class InboxFragment extends ListFragment {
                 }
             });
         }
+        //PARA EL SIMBOLO DEL SWIPE REFRESH
+        if(mSwipeRefleshLayout.isRefreshing()){
+            mSwipeRefleshLayout.setRefreshing(false);
+        }
 
         pb.setProgress(100);
         pb.setVisibility(ProgressBar.INVISIBLE);
@@ -188,6 +199,17 @@ public class InboxFragment extends ListFragment {
         getActivity().overridePendingTransition(R.anim.slide_in_right, R.anim.shade);
 
     }
+
+    protected SwipeRefreshLayout.OnRefreshListener mOnRefreshListener = new SwipeRefreshLayout.OnRefreshListener() {
+        @Override
+        public void onRefresh() {
+            LoadMessages();
+
+        }
+    };
+
+
+
 
 }
 

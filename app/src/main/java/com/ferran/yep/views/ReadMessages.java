@@ -11,6 +11,7 @@ import android.os.Handler;
 import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.VideoView;
@@ -78,6 +79,7 @@ public class ReadMessages extends AppCompatActivity {
         }
         if (message.getVideo() != null) {
             Uri uri = Uri.fromFile(message.getVideo());
+            videoView.setVisibility(View.VISIBLE);
             videoView.setVideoURI(uri);
             videoView.resume();
         }
