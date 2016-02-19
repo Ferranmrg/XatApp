@@ -6,6 +6,7 @@ import com.parse.Parse;
 import com.parse.ParseFile;
 import com.parse.ParseObject;
 
+import java.io.File;
 import java.io.Serializable;
 import java.util.Date;
 
@@ -17,10 +18,10 @@ public class Message implements Serializable {
     String to;
     String message;
     byte[] image;
-    byte[] video;
+    File video;
     Date fecha;
 
-    public Message(String from, String to, String message, byte[] image, byte[] video) {
+    public Message(String from, String to, String message, byte[] image, File video) {
         this.from = from;
         this.to = to;
         this.message = message;
@@ -89,11 +90,11 @@ public class Message implements Serializable {
         this.image = image;
     }
 
-    public byte[] getVideo() {
+    public File getVideo() {
         return video;
     }
 
-    public void setVideo(byte[] video) {
+    public void setVideo(File video) {
         this.video = video;
     }
 

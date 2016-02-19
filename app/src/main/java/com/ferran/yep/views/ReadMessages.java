@@ -3,7 +3,9 @@ package com.ferran.yep.views;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
 import android.graphics.Movie;
+import android.net.Uri;
 import android.os.CountDownTimer;
 import android.os.Handler;
 import android.provider.MediaStore;
@@ -19,13 +21,16 @@ import com.parse.GetDataCallback;
 import com.parse.ParseException;
 import com.parse.ParseFile;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URI;
+
 public class ReadMessages extends AppCompatActivity {
     TextView txtFrom;
     TextView txtMessage;
     ImageView imgMessage;
     TextView txtCountDown;
     VideoView videoView;
-    final static int TIME = 5000;
+    final static int TIME = 12000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -72,8 +77,9 @@ public class ReadMessages extends AppCompatActivity {
             imgMessage.setImageBitmap(bmp);
         }
         if (message.getVideo() != null) {
-           Movie movie = Movie.decodeByteArray(message.getVideo(),0,1024*1024);
-            videoView.setVideoURI(movie);
+            Uri uri = Uri.fromFile(message.getVideo());
+            videoView.setVideoURI(uri);
+            videoView.resume();
         }
 
     }

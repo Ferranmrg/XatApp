@@ -28,6 +28,7 @@ import com.ferran.yep.views.ReadMessages;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.GetDataCallback;
+import com.parse.GetFileCallback;
 import com.parse.ParseException;
 import com.parse.ParseFile;
 import com.parse.ParseObject;
@@ -36,6 +37,7 @@ import com.parse.ParsePushBroadcastReceiver;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -115,27 +117,17 @@ public class InboxFragment extends ListFragment {
 
                                 });
                                 Aux.add(i, "Image From:" + M.getFrom());
-                            } else if(videoObject != null) {
-                                videoObject.getDataInBackground(new GetDataCallback() {
-                                    public void done(byte[] data, ParseException e) {
-                                        if (e == null) {
-                                            Log.d("test",
-                                                    "We've got data in data.");
-                                            // Decode the Byte[] into
-                                            // Bitmap
-                                            M.setVideo(data);
-                                            messages.add(M);
-                                            pb.setProgress(60);
+                            } else if (videoObject != null) {
 
-                                        } else {
-
-                                        }
-
+                                videoObject.getFileInBackground(new GetFileCallback() {
+                                    @Override
+                                    public void done(File file, ParseException e) {
+                                        M.setVideo(file);
+                                        messages.add(M);
                                     }
-
                                 });
                                 Aux.add(i, "Video From:" + M.getFrom());
-                            }else{
+                            } else {
                                 messages.add(M);
                                 Aux.add(i, "Message From:" + M.getFrom());
 
