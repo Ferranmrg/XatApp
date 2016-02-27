@@ -6,6 +6,7 @@ import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
+import android.support.design.internal.NavigationMenu;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -36,6 +37,9 @@ import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 import java.util.ArrayList;
+
+import io.github.yavski.fabspeeddial.FabSpeedDial;
+import io.github.yavski.fabspeeddial.SimpleMenuListenerAdapter;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -74,21 +78,54 @@ public class MainActivity extends AppCompatActivity {
             App.installation.put("username", currentUser.getUsername());
             App.installation.saveInBackground();
         } else {
-//            Intent intent = new Intent(this, LoginActivity.class);
-//            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-//            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-//            startActivity(intent);
 
             Intent i = new Intent(this, SplashScreen.class);
             startActivity(i);
         }
+        //BOTON FLOTANTE
+
+        FabSpeedDial fabSpeedDial = (FabSpeedDial) findViewById(R.id.flotatin_button);
+        fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
+            @Override
+            public boolean onPrepareMenu(NavigationMenu navigationMenu) {
+                // Do something with yout menu items, or return false if you don't want to show them
+                return true;
+            }
+        });
+
+        //FabSpeedDial fabSpeedDial = (FabSpeedDial) findViewById(R.id.fab_speed_dial);
+        fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
+            @Override
+            public boolean onMenuItemSelected(MenuItem menuItem) {
+                // Start some activity
+                Log.d("menu", "onMenuItemSelected: "+menuItem.getTitle());
+                //Add Friend
+                //Log Out
+                if(menuItem.getTitle().equals("Log Out")){
+                    ParseUser.logOut();
+                    ParseUser currentUser = ParseUser.getCurrentUser();
+                    Intent intent = new Intent(getApplication(), LoginActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                    startActivity(intent);
+                    return true;
+
+                }
+
+                if(menuItem.getTitle().equals("Add Friend")){
+                    Intent intent = new Intent(getApplication(), AddFriends.class);
+                    startActivity(intent);
+                    return true;
+                }
+
+                return false;
+            }
+        });
 
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
 
-        //QUITAR NOMBRE DEL ACTION BAR 
-        getSupportActionBar().setTitle(null);
+        //---------------
+
 
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
@@ -132,40 +169,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    }
-
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_logOut) {
-            ParseUser.logOut();
-            ParseUser currentUser = ParseUser.getCurrentUser();
-            Intent intent = new Intent(this, LoginActivity.class);
-            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-            startActivity(intent);
-            return true;
-        }
-        if (id == R.id.action_add_friend) {
-            Intent intent = new Intent(this, AddFriends.class);
-            startActivity(intent);
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
     }
 
     /**
