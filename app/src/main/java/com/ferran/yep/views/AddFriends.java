@@ -109,6 +109,7 @@ public class AddFriends extends AppCompatActivity {
 
                         ParseQuery<ParseUser> query = ParseUser.getQuery();
                         query.whereEqualTo("username", userList.get(i).getUsername());
+                        query.orderByAscending("username");
                         query.getFirstInBackground(new GetCallback<ParseUser>() {
                             @Override
                             public void done(ParseUser object, ParseException e) {

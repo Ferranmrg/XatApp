@@ -8,50 +8,21 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.ferran.yep.views.ReadMessages"
-    android:background="@drawable/background">
+    android:background="#000000"
+    android:id="@+id/rl">
 
-    <TextView
+
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Large Text"
-        android:id="@+id/countDownText"
-        android:layout_alignBottom="@+id/imgFromMessage"
-        android:layout_toRightOf="@+id/txtInMessage"
-        android:layout_toEndOf="@+id/txtInMessage"
-        android:layout_marginLeft="219dp"
-        android:layout_marginStart="219dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtInMessage"
-        android:textColor="#ffffff"
-        android:textSize="20sp"
-        android:layout_below="@+id/txtFromMessage"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="68dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtFromMessage"
-        android:textColor="#ffffff"
-        android:textStyle="bold"
-        android:textSize="24sp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="82dp" />
+        android:id="@+id/darkbg"
+        android:background="#da000000" />
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/imgFromMessage"
-        android:layout_alignParentBottom="true"
-        android:layout_toRightOf="@+id/txtInMessage"
-        android:layout_toEndOf="@+id/txtInMessage" />
+        android:layout_alignParentBottom="true" />
 
     <VideoView
         android:layout_width="wrap_content"
@@ -61,5 +32,47 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:visibility="invisible" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabTiempo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:layout_alignEnd="@+id/parallaxListView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+
+        android:layout_alignParentBottom="true"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:layout_marginBottom="120dp"
+        android:id="@+id/textBox"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtFromMessage"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtInMessage"
+            android:textSize="20sp"
+            android:layout_below="@+id/txtFromMessage"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="50dp" />
+    </RelativeLayout>
 
 </RelativeLayout>
