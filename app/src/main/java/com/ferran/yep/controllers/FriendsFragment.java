@@ -33,6 +33,7 @@ import android.widget.Toast;
 import com.ferran.yep.R;
 import com.ferran.yep.views.Chat;
 import com.ferran.yep.views.DrawActivity;
+import com.ferran.yep.views.FriendsAdapter;
 import com.ferran.yep.views.MainActivity;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
@@ -43,6 +44,7 @@ import com.parse.ParseObject;
 import com.parse.ParsePush;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
+import com.yayandroid.parallaxlistview.ParallaxListView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -53,6 +55,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 
@@ -61,24 +64,38 @@ import java.util.List;
  */
 public class FriendsFragment extends ListFragment {
     final ArrayList<String> friends = new ArrayList<>();
+     ArrayList<String> friendEmailName = new ArrayList<String>();
+      ArrayList<String> friendEmail = new ArrayList<String>();
     Chat chatRes = new Chat();
     static final int REQUEST_IMAGE_CAPTURE = 1;
     static final int REQUEST_DRAW = 2;
     static final int REQUEST_VIDEO_CAPTURE = 3;
     String toUser = "";
+    static ParallaxListView parallaxListView = null;
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         View rootView = inflater.inflate(R.layout.fragment_friends, container, false);
-        ProgressBar spinner = (ProgressBar)
-                rootView.findViewById(R.id.progressBar);
-        spinner.setVisibility(View.GONE);
+
+        parallaxListView = (ParallaxListView) rootView.findViewById(R.id.parallaxListView);
+        parallaxListView.setDividerHeight(5);
+        parallaxListView.setBackgroundColor(rootView.getResources().getColor(R.color.white));
+
+
+
+
+       // ProgressBar spinner = (ProgressBar)
+       //         rootView.findViewById(R.id.progressBar);
+       //     spinner.setVisibility(View.GONE);
         if (ParseUser.getCurrentUser() != null) {
             getFriendList();
         }
         return rootView;
     }
+
 
 
     private void getFriendList() {
@@ -94,14 +111,38 @@ public class FriendsFragment extends ListFragment {
                     Log.d("Friends", "Retrieved " + messageList.size() + " Friends");
                     for (int i = 0; i < messageList.size(); i++) {
                         friends.add(messageList.get(i).get("friend").toString());
+
+
+                        ParseQuery<ParseUser> query = ParseUser.getQuery();
+                        query.whereEqualTo("username", messageList.get(i).get("friend").toString());
+                        query.getFirstInBackground(new GetCallback<ParseUser>() {
+                            @Override
+                            public void done(ParseUser object, ParseException e) {
+                                friendEmail.add(object.getEmail());
+                                friendEmailName.add(object.getUsername());
+
+
+                                parallaxListView.setAdapter(
+                                        new FriendsAdapter(getActivity(), friendEmailName, friendEmailName.size(), friendEmail));
+                               // Log.d("email", "done: " + object.getEmail() + "---------------" + object.getUsername());
+
+                            }
+                        });
+
                         Log.d("MESSAGE", "done: " + messageList.get(i).getString("friend"));
-                        setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, friends));
+
+
+
                     }
+
+
+
                 } else {
                     Log.d("MESSAGE", "Error: " + e.getMessage());
                 }
             }
         });
+
     }
 
     private String m_Text = "";
@@ -234,6 +275,9 @@ public class FriendsFragment extends ListFragment {
                     }
                 });
                 dialog.dismiss();
+                friends.remove(position);
+                parallaxListView.setAdapter(new FriendsAdapter(getActivity(), new ArrayList<String>(), 0, new ArrayList<String>()));
+                parallaxListView.setAdapter(new FriendsAdapter(getActivity(),friends , friends.size(),null));
             }
         });
         dialog.show();

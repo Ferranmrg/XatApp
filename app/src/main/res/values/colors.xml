@@ -8,6 +8,7 @@
     <color name="focused_teal_button">#009688</color>
     <color name="white">#FFFFFF</color>
     <color name="grey">#BDBDBD</color>
+    <color name="light_grey">#E6E6E6</color>
 
     <color name="orange">#D46A1C</color>
     <color name="light_orange">#E38A48</color>

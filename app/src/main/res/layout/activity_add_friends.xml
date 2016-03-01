@@ -1,15 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    tools:context="com.ferran.yep.views.AddFriends"
-    android:background="@drawable/background_spin">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.MainActivity$PlaceholderFragment"
+    android:background="@drawable/fondoguay_spin">
 
-    <ListView
+    <com.yayandroid.parallaxlistview.ParallaxListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/parallaxListView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/friendList"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp" />
-</LinearLayout>
+        android:cacheColorHint="@android:color/transparent"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:src="@drawable/ic_reply_24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/parallaxListView"
+        android:layout_alignEnd="@+id/parallaxListView"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp" />
+
+
+</RelativeLayout>
