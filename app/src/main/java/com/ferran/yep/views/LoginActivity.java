@@ -151,7 +151,7 @@ public class LoginActivity extends AppCompatActivity {
                 } else {
                     progress.hide();
                     //Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
-                    Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content),"Login Failed :)",Snackbar.LENGTH_LONG);
+                    Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content),"Login Failed :(",Snackbar.LENGTH_LONG);
                     snackbar.show();
                     InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
                     imm.hideSoftInputFromWindow(pwdField.getWindowToken(),InputMethodManager.HIDE_NOT_ALWAYS);

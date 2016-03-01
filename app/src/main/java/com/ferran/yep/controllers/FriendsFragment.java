@@ -161,7 +161,7 @@ public class FriendsFragment extends ListFragment {
             @Override
             public void onClick(View v) {
                 final Dialog textDiag = new Dialog(getActivity());
-                textDiag.setTitle("Your Message to " + friends.get(position));
+                textDiag.setTitle("Your Message to " + friendEmailName.get(position));
                 textDiag.setContentView(R.layout.custom_text_float_menu);
                 final EditText textContent = (EditText) textDiag.findViewById(R.id.editText);
                 Button send = (Button) textDiag.findViewById(R.id.sendtxtMenuBtn);
@@ -169,7 +169,7 @@ public class FriendsFragment extends ListFragment {
                     @Override
                     public void onClick(View v) {
                         ParseObject message = new ParseObject("Messages");
-                        toUser = friends.get(position);
+                        toUser = friendEmailName.get(position);
                         message.put("From", ParseUser.getCurrentUser().getUsername());
                         message.put("To", toUser);
                         if (!String.valueOf(textContent.getText()).isEmpty()) {
@@ -223,7 +223,7 @@ public class FriendsFragment extends ListFragment {
                 if (takePictureIntent.resolveActivity(getActivity().getPackageManager()) != null) {
                     startActivityForResult(takePictureIntent, REQUEST_IMAGE_CAPTURE);
                 }
-                toUser = friends.get(position);
+                toUser = friendEmailName.get(position);
                 dialog.dismiss();
             }
         });
@@ -237,7 +237,7 @@ public class FriendsFragment extends ListFragment {
                 if (takeVideoIntent.resolveActivity(getActivity().getPackageManager()) != null) {
                     startActivityForResult(takeVideoIntent, REQUEST_VIDEO_CAPTURE);
                 }
-                toUser = friends.get(position);
+                toUser = friendEmailName.get(position);
                 dialog.dismiss();
             }
         });
@@ -262,7 +262,7 @@ public class FriendsFragment extends ListFragment {
                 //"objectId" the column name in parse.com
                 //objectID is the content ID in the table objectId
                 query.whereEqualTo("user", ParseUser.getCurrentUser().getUsername());
-                query.whereEqualTo("friend", friends.get(position));
+                query.whereEqualTo("friend", friendEmailName.get(position));
                 query.getFirstInBackground(new GetCallback<ParseObject>() {
                     @Override
                     public void done(ParseObject friend, ParseException e) {
@@ -275,9 +275,9 @@ public class FriendsFragment extends ListFragment {
                     }
                 });
                 dialog.dismiss();
-                friends.remove(position);
+                friendEmailName.remove(position);
                 parallaxListView.setAdapter(new FriendsAdapter(getActivity(), new ArrayList<String>(), 0, new ArrayList<String>()));
-                parallaxListView.setAdapter(new FriendsAdapter(getActivity(),friends , friends.size(),null));
+                parallaxListView.setAdapter(new FriendsAdapter(getActivity(),friendEmailName , friendEmail.size(),null));
             }
         });
         dialog.show();

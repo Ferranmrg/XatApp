@@ -63,15 +63,15 @@ public class AddFriends extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 ParseObject friend = new ParseObject("UserFriends");
                 friend.put("user", ParseUser.getCurrentUser().getUsername());
-                friend.put("friend", users.get(position));
+                friend.put("friend", userEmailName.get(position));
 
 
                 ParseQuery<ParseObject> query = ParseQuery.getQuery("UserFriends");
 
                 query.whereEqualTo("user", ParseUser.getCurrentUser().getUsername());
-                query.whereEqualTo("friend", users.get(position));
+                query.whereEqualTo("friend", userEmailName.get(position));
 
-                final String friendName = users.get(position);
+                final String friendName = userEmailName.get(position);
                 query.findInBackground(new FindCallback<ParseObject>() {
                     public void done(List<ParseObject> messageList, ParseException e) {
                         if (e == null) {
