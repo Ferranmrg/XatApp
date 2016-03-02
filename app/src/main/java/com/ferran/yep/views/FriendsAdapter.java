@@ -3,12 +3,16 @@ package com.ferran.yep.views;
 /**
  * Created by pedrovelasco on 29/2/16.
  */
+import android.app.Application;
 import android.content.Context;
 import android.content.res.Configuration;
+import android.graphics.Point;
 import android.util.Log;
+import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
@@ -63,31 +67,26 @@ public class FriendsAdapter extends BaseAdapter {
         }
 
 
-
-
-        int screenSize = convertView.getResources().getConfiguration().screenLayout &
-                Configuration.SCREENLAYOUT_SIZE_MASK;
-
-        int tam = 0;
-        switch(screenSize) {
-            case Configuration.SCREENLAYOUT_SIZE_LARGE:
-                tam = 1000;
-                break;
-            case Configuration.SCREENLAYOUT_SIZE_NORMAL:
-                tam = 500;
-                break;
-            case Configuration.SCREENLAYOUT_SIZE_SMALL:
-                tam = Gravatar.MIN_IMAGE_SIZE_PIXEL;
-                break;
-            default:
-                tam = Gravatar.MIN_IMAGE_SIZE_PIXEL;
+        WindowManager wm = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
+        Display display = wm.getDefaultDisplay();
+        Point size = new Point();
+        display.getSize(size);
+        Log.d("screenSize", "getView: "+size);
+        String gravatarUrl;
+        if(size.x > 600 && size.y > 600 ) {
+            gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(1200).build();
+        }
+        else{
+            gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(500).build();
         }
 
 
 
 
+
         //500 en guay
-         String gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(tam).build();
+        //1200 es guay grande
+        //String gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(1200).build();
         //Log.d("foto", "getView: "+gravatarUrl);
 
 

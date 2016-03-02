@@ -82,8 +82,6 @@ public class InboxFragment extends ListFragment {
     public void onResume() {
         super.onResume();
         LoadMessages();
-        customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
-        setListAdapter(customAdapter);
     }
 
 
@@ -128,7 +126,8 @@ public class InboxFragment extends ListFragment {
                                             M.setImage(data);
                                             messages.add(M);
                                             pb.setProgress(60);
-
+                                            customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                            setListAdapter(customAdapter);
                                         } else {
 
                                         }
@@ -145,6 +144,8 @@ public class InboxFragment extends ListFragment {
 
                                         M.setVideo(file);
                                         messages.add(M);
+                                        customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                        setListAdapter(customAdapter);
                                     }
                                 });
                                 Aux.add(i, "Video From:" + M.getFrom());
@@ -154,7 +155,7 @@ public class InboxFragment extends ListFragment {
 
                             }
                             if (getActivity() != null) {
-
+                                customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
                                 setListAdapter(customAdapter);
                             }
                         }
@@ -220,8 +221,6 @@ public class InboxFragment extends ListFragment {
         @Override
         public void onRefresh() {
             LoadMessages();
-            //setListAdapter(new InboxAdapter(getActivity(), R.layout.custom_inbox_row, new ArrayList<Message>()));
-            setListAdapter(customAdapter);
         }
     };
 

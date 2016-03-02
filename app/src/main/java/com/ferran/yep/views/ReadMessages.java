@@ -131,9 +131,10 @@ public class ReadMessages extends AppCompatActivity {
         }
         if (message.getVideo() != null) {
             Uri uri = Uri.fromFile(message.getVideo());
-            videoView.setVisibility(View.VISIBLE);
             videoView.setVideoURI(uri);
-            videoView.resume();
+            Log.d("Video", "onCreate: "+uri.toString());
+            videoView.setVisibility(View.VISIBLE);
+            videoView.start();
         }
 
     }
