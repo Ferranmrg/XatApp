@@ -18,6 +18,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -25,6 +26,7 @@ import android.widget.Toast;
 import com.ferran.yep.R;
 import com.ferran.yep.models.Message;
 import com.ferran.yep.views.Chat;
+import com.ferran.yep.views.InboxAdapter;
 import com.ferran.yep.views.ReadMessages;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
@@ -54,20 +56,24 @@ public class InboxFragment extends ListFragment {
     ProgressBar pb;
     ArrayList<Message> messages;
     protected SwipeRefreshLayout mSwipeRefleshLayout;
-
+    ListAdapter customAdapter;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_inbox, container, false);
 
-        mSwipeRefleshLayout = (SwipeRefreshLayout)rootView.findViewById(R.id.SwipeRefreshLayout);
+        mSwipeRefleshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.SwipeRefreshLayout);
 
         mSwipeRefleshLayout.setOnRefreshListener(mOnRefreshListener);
 
+        messages = new ArrayList<>();
+
+
+
         pb = (ProgressBar)
                 rootView.findViewById(R.id.progressBar);
-        messages = new ArrayList<>();
+
 
         LoadMessages();
         return rootView;
@@ -139,8 +145,10 @@ public class InboxFragment extends ListFragment {
                                 Aux.add(i, "Message From:" + M.getFrom());
 
                             }
-                            if (getActivity() != null)
-                                setListAdapter(new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, Aux));
+                            if (getActivity() != null) {
+                                customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                setListAdapter(customAdapter);
+                            }
                         }
                         pb.setProgress(80);
                     } else {
@@ -151,7 +159,7 @@ public class InboxFragment extends ListFragment {
             });
         }
         //PARA EL SIMBOLO DEL SWIPE REFRESH
-        if(mSwipeRefleshLayout.isRefreshing()){
+        if (mSwipeRefleshLayout.isRefreshing()){
             mSwipeRefleshLayout.setRefreshing(false);
         }
 
@@ -212,5 +220,4 @@ public class InboxFragment extends ListFragment {
 
 
 }
-
 
