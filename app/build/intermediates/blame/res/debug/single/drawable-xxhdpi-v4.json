@@ -284,6 +284,10 @@
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_bird.png"
     },
     {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_videomsg.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_videomsg.png"
+    },
+    {
         "merged": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\myyep_textfield_disabled_focused_holo_light.9.png",
         "source": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxhdpi\\myyep_textfield_disabled_focused_holo_light.9.png"
     },
@@ -350,6 +354,10 @@
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_content_paste_24dp.png",
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_content_paste_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_imgmsg.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_imgmsg.png"
     },
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edittext_login_textfield_disabled_focused_holo_light.9.png",
@@ -750,6 +758,10 @@
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_menu_overflow.png",
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawmsg.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_drawmsg.png"
     },
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background.png",
@@ -2006,6 +2018,10 @@
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\myyep_textfield_disabled_focused_holo_light.9.png",
         "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\drawable-xxhdpi\\myyep_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_txtmsg.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_txtmsg.png"
     },
     {
         "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\home\\ferran\\StudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",

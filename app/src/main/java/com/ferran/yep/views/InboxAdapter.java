@@ -1,8 +1,8 @@
 package com.ferran.yep.views;
 
-import android.content.ClipData;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
+import android.graphics.drawable.Icon;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -13,6 +13,10 @@ import android.widget.TextView;
 import com.ferran.yep.R;
 import com.ferran.yep.models.Message;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class InboxAdapter extends ArrayAdapter<Message> {
@@ -28,6 +32,14 @@ public class InboxAdapter extends ArrayAdapter<Message> {
         super(context, resource, items);
         messages = items;
         this.context = context;
+        // Sorting
+        Collections.sort(messages, new Comparator<Message>() {
+            @Override
+            public int compare(Message fruit2, Message fruit1) {
+
+                return fruit1.getFecha().compareTo(fruit2.getFecha());
+            }
+        });
     }
 
     @Override
@@ -53,7 +65,22 @@ public class InboxAdapter extends ArrayAdapter<Message> {
             }
 
             if (timeTxt != null) {
-               // timeTxt.setText(p.getFecha().toString());
+                 timeTxt.setText(new SimpleDateFormat("hh:mm:ss").format(p.getFecha()));
+
+            }
+
+            if (icon != null) {
+                Icon icono;
+                if (p.getVideo() != null) {
+                    Drawable myIcon = context.getResources().getDrawable(R.drawable.ic_videomsg);
+                    icon.setImageDrawable(myIcon);
+                } else if (p.getImage() != null) {
+                    Drawable myIcon = context.getResources().getDrawable(R.drawable.ic_imgmsg);
+                    icon.setImageDrawable(myIcon);
+                } else {
+                    Drawable myIcon = context.getResources().getDrawable(R.drawable.ic_txtmsg);
+                    icon.setImageDrawable(myIcon);
+                }
             }
 
 
