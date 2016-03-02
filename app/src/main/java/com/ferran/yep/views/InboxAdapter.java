@@ -53,7 +53,7 @@ public class InboxAdapter extends ArrayAdapter<Message> {
             }
 
             if (timeTxt != null) {
-                timeTxt.setText(p.getFecha().toString());
+               // timeTxt.setText(p.getFecha().toString());
             }
 
 
@@ -62,4 +62,8 @@ public class InboxAdapter extends ArrayAdapter<Message> {
         return v;
     }
 
+    @Override
+    public void notifyDataSetChanged() {
+        super.notifyDataSetChanged();
+    }
 }

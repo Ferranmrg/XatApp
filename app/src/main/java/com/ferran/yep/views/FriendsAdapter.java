@@ -4,6 +4,7 @@ package com.ferran.yep.views;
  * Created by pedrovelasco on 29/2/16.
  */
 import android.content.Context;
+import android.content.res.Configuration;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,6 +35,7 @@ public class FriendsAdapter extends BaseAdapter {
 
 
 
+
     public FriendsAdapter(Context context, ArrayList<String> friendsNames,int totalFriends, ArrayList<String> friendsEmails) {
         this.context = context;
         this.inflater = LayoutInflater.from(context);
@@ -61,7 +63,31 @@ public class FriendsAdapter extends BaseAdapter {
         }
 
 
-         String gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(500).build();
+
+
+        int screenSize = convertView.getResources().getConfiguration().screenLayout &
+                Configuration.SCREENLAYOUT_SIZE_MASK;
+
+        int tam = 0;
+        switch(screenSize) {
+            case Configuration.SCREENLAYOUT_SIZE_LARGE:
+                tam = 1000;
+                break;
+            case Configuration.SCREENLAYOUT_SIZE_NORMAL:
+                tam = 500;
+                break;
+            case Configuration.SCREENLAYOUT_SIZE_SMALL:
+                tam = Gravatar.MIN_IMAGE_SIZE_PIXEL;
+                break;
+            default:
+                tam = Gravatar.MIN_IMAGE_SIZE_PIXEL;
+        }
+
+
+
+
+        //500 en guay
+         String gravatarUrl = Gravatar.init().with(friendsEmails.get(position)).defaultImage("retro").size(tam).build();
         //Log.d("foto", "getView: "+gravatarUrl);
 
 

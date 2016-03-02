@@ -52,7 +52,6 @@ import java.util.List;
  * Created by Ferra on 20/01/2016.
  */
 public class InboxFragment extends ListFragment {
-    Thread t;
     ProgressBar pb;
     ArrayList<Message> messages;
     protected SwipeRefreshLayout mSwipeRefleshLayout;
@@ -69,18 +68,26 @@ public class InboxFragment extends ListFragment {
 
         messages = new ArrayList<>();
 
-
-
         pb = (ProgressBar)
                 rootView.findViewById(R.id.progressBar);
 
 
-        LoadMessages();
+
+        Log.d("content in msg", "done: " + messages.size());
+
         return rootView;
     }
 
+    @Override
+    public void onResume() {
+        super.onResume();
+        LoadMessages();
+        customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+        setListAdapter(customAdapter);
+    }
 
-    public void LoadMessages() {
+
+    public synchronized void LoadMessages() {
         messages = new ArrayList<>();
         pb.setMax(100);
         pb.setVisibility(ProgressBar.VISIBLE);
@@ -135,6 +142,7 @@ public class InboxFragment extends ListFragment {
                                 videoObject.getFileInBackground(new GetFileCallback() {
                                     @Override
                                     public void done(File file, ParseException e) {
+
                                         M.setVideo(file);
                                         messages.add(M);
                                     }
@@ -146,7 +154,7 @@ public class InboxFragment extends ListFragment {
 
                             }
                             if (getActivity() != null) {
-                                customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+
                                 setListAdapter(customAdapter);
                             }
                         }
@@ -212,7 +220,8 @@ public class InboxFragment extends ListFragment {
         @Override
         public void onRefresh() {
             LoadMessages();
-
+            //setListAdapter(new InboxAdapter(getActivity(), R.layout.custom_inbox_row, new ArrayList<Message>()));
+            setListAdapter(customAdapter);
         }
     };
 
