@@ -33,7 +33,7 @@ dependencies {
     compile 'com.parse:parse-android:1.+'
     compile 'com.yayandroid:ParallaxListView:1.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile files('src/main/res/libs/gravatar-android-1.0.jar')
+    compile files('libs/gravatar-android-1.0.jar')
 }
 
 
