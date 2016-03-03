@@ -97,75 +97,93 @@ public class InboxFragment extends ListFragment {
             query.whereEqualTo("To", ParseUser.getCurrentUser().getUsername());
 
             query.findInBackground(new FindCallback<ParseObject>() {
-                public void done(List<ParseObject> messageList, ParseException e) {
-                    if (e == null) {
-                        final ArrayList<String> Aux = new ArrayList<String>();
-                        Log.d("MESSAGE", "Retrieved " + messageList.size() + " MESSAGES");
-                        for (int i = 0; i < messageList.size(); i++) {
-                            String inMsg;
-                            Object text = messageList.get(i).get("mText");
-                            if (text != null) {
-                                inMsg = text.toString();
-                            } else {
-                                inMsg = null;
-                            }
-                            Date fecha = messageList.get(i).getCreatedAt();
-                            final Message M = new Message(messageList.get(i).get("From").toString(),
-                                    messageList.get(i).get("To").toString(), inMsg, fecha);
+                                       public void done(List<ParseObject> messageList, ParseException e) {
+                                           if (e == null) {
+                                               final ArrayList<String> Aux = new ArrayList<String>();
+                                               Log.d("MESSAGE", "Retrieved " + messageList.size() + " MESSAGES");
+                                               for (int i = 0; i < messageList.size(); i++) {
+                                                   String inMsg;
+                                                   Object text = messageList.get(i).get("mText");
+                                                   if (text != null) {
+                                                       inMsg = text.toString();
+                                                   } else {
+                                                       inMsg = null;
+                                                   }
+                                                   Date fecha = messageList.get(i).getCreatedAt();
+                                                   final Message M = new Message(messageList.get(i).get("From").toString(),
+                                                           messageList.get(i).get("To").toString(), inMsg, fecha);
 
-                            ParseFile fileObject = (ParseFile) messageList.get(i).get("mIMG");
-                            ParseFile videoObject = (ParseFile) messageList.get(i).get("mVID");
-                            if (fileObject != null) {
-                                fileObject.getDataInBackground(new GetDataCallback() {
-                                    public void done(byte[] data, ParseException e) {
-                                        if (e == null) {
-                                            Log.d("test",
-                                                    "We've got data in data.");
-                                            // Decode the Byte[] into
-                                            // Bitmap
-                                            M.setImage(data);
-                                            messages.add(M);
-                                            pb.setProgress(60);
-                                            customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
-                                            setListAdapter(customAdapter);
-                                        } else {
+                                                   ParseFile fileObject = (ParseFile) messageList.get(i).get("mIMG");
+                                                   ParseFile drawObject = (ParseFile) messageList.get(i).get("mDRAW");
+                                                   ParseFile videoObject = (ParseFile) messageList.get(i).get("mVID");
+                                                   if (fileObject != null) {
+                                                       fileObject.getDataInBackground(new GetDataCallback() {
+                                                           public void done(byte[] data, ParseException e) {
+                                                               if (e == null) {
+                                                                   Log.d("test",
+                                                                           "We've got data in data.");
+                                                                   // Decode the Byte[] into
+                                                                   // Bitmap
+                                                                   M.setImage(data);
+                                                                   messages.add(M);
+                                                                   pb.setProgress(60);
+                                                                   customAdapter = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                                                   setListAdapter(customAdapter);
+                                                               }
+                                                           }
 
-                                        }
+                                                       });
+                                                       Aux.add(i, "Image From:" + M.getFrom());
+                                                   } else if (drawObject != null) {
+                                                       drawObject.getDataInBackground(new GetDataCallback() {
+                                                           public void done(byte[] data, ParseException e) {
+                                                               if (e == null) {
+                                                                   Log.d("test",
+                                                                           "We've got data in data.");
+                                                                   // Decode the Byte[] into
+                                                                   // Bitmap
+                                                                   M.setImage(data);
+                                                                   messages.add(M);
+                                                                   pb.setProgress(60);
+                                                                   customAdapter = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                                                   setListAdapter(customAdapter);
+                                                               }
+                                                           }
+                                                       });
+                                                   } else if (videoObject != null) {
 
-                                    }
+                                                       videoObject.getFileInBackground(new GetFileCallback() {
+                                                           @Override
+                                                           public void done(File file, ParseException e) {
 
-                                });
-                                Aux.add(i, "Image From:" + M.getFrom());
-                            } else if (videoObject != null) {
+                                                               M.setVideo(file);
+                                                               messages.add(M);
+                                                               customAdapter = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                                               setListAdapter(customAdapter);
+                                                           }
+                                                       });
+                                                       Aux.add(i, "Video From:" + M.getFrom());
+                                                   } else {
+                                                       messages.add(M);
+                                                       Aux.add(i, "Message From:" + M.getFrom());
 
-                                videoObject.getFileInBackground(new GetFileCallback() {
-                                    @Override
-                                    public void done(File file, ParseException e) {
+                                                   }
+                                                   if (getActivity() != null) {
+                                                       customAdapter = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
+                                                       setListAdapter(customAdapter);
+                                                   }
+                                               }
+                                               pb.setProgress(80);
+                                           } else
 
-                                        M.setVideo(file);
-                                        messages.add(M);
-                                        customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
-                                        setListAdapter(customAdapter);
-                                    }
-                                });
-                                Aux.add(i, "Video From:" + M.getFrom());
-                            } else {
-                                messages.add(M);
-                                Aux.add(i, "Message From:" + M.getFrom());
+                                           {
+                                               Log.d("MESSAGE", "Error: " + e.getMessage());
+                                           }
 
-                            }
-                            if (getActivity() != null) {
-                                customAdapter  = new InboxAdapter(getActivity(), R.layout.custom_inbox_row, messages);
-                                setListAdapter(customAdapter);
-                            }
-                        }
-                        pb.setProgress(80);
-                    } else {
-                        Log.d("MESSAGE", "Error: " + e.getMessage());
-                    }
+                                       }
+                                   }
 
-                }
-            });
+            );
         }
         //PARA EL SIMBOLO DEL SWIPE REFRESH
         if (mSwipeRefleshLayout.isRefreshing()){
