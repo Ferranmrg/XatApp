@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //FabSpeedDial fabSpeedDial = (FabSpeedDial) findViewById(R.id.fab_speed_dial);
+
         fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
             @Override
             public boolean onMenuItemSelected(MenuItem menuItem) {
@@ -101,7 +101,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("menu", "onMenuItemSelected: "+menuItem.getTitle());
                 //Add Friend
                 //Log Out
-                if(menuItem.getTitle().equals("Log Out")){
+                if(menuItem.getTitle().equals(getString(R.string.action_logOut))){
                     ParseUser.logOut();
                     ParseUser currentUser = ParseUser.getCurrentUser();
                     Intent intent = new Intent(getApplication(), LoginActivity.class);
@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
 
                 }
 
-                if(menuItem.getTitle().equals("Add Friend")){
+                if(menuItem.getTitle().equals(getString(R.string.action_add_friend))){
                     Intent intent = new Intent(getApplication(), AddFriends.class);
                     startActivity(intent);
                     return true;
@@ -140,32 +140,6 @@ public class MainActivity extends AppCompatActivity {
 
         tabLayout.getTabAt(0).setIcon(R.drawable.ic_archive_24dp);
         tabLayout.getTabAt(1).setIcon(R.drawable.ic_people_24dp);
-
-     /*   tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
-            @Override
-            public void onTabSelected(TabLayout.Tab tab) {
-                if (tab.getPosition() == 0)
-                    icon1.setColorFilter(Color.rgb(0, 150, 136), PorterDuff.Mode.MULTIPLY);
-                if (tab.getPosition() == 1) {
-                    icon2.setColorFilter(Color.rgb(0, 150, 136), PorterDuff.Mode.MULTIPLY);
-                }
-                Log.d("tabPressed", "onTabSelected: " + tab.getText().toString());
-            }
-
-            @Override
-            public void onTabUnselected(TabLayout.Tab tab) {
-                if (tab.getPosition() == 0)
-                    icon1.setColorFilter(Color.rgb(250, 250, 250), PorterDuff.Mode.MULTIPLY);
-                if (tab.getPosition() == 1)
-                    icon2.setColorFilter(Color.rgb(250, 250, 250), PorterDuff.Mode.MULTIPLY);
-            }
-
-            @Override
-            public void onTabReselected(TabLayout.Tab tab) {
-
-            }
-        });*/
-
 
 
 

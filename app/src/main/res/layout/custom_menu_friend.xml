@@ -14,7 +14,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Send Text"
+        android:text="@string/sendtext"
         android:id="@+id/TextBtn"
         android:background="#009688"
         android:textColor="#ffffff" />
@@ -22,7 +22,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SEND IMAGE"
+        android:text="@string/sendimage"
         android:id="@+id/imgBtn"
         android:layout_gravity="center_horizontal"
         android:background="#26a69a"
@@ -31,7 +31,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SEND VIDEO"
+        android:text="@string/sendvideo"
         android:id="@+id/videBtn"
         android:layout_gravity="center_horizontal"
         android:background="#26a69a"
@@ -40,7 +40,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SEND DRAW"
+        android:text="@string/sendraw"
         android:id="@+id/drawBtn"
         android:layout_gravity="center_horizontal"
         android:background="#4db6ac"
@@ -49,7 +49,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="DELETE FRIEND"
+        android:text="@string/deletefriend"
         android:id="@+id/deleteBtn"
         android:layout_gravity="center_horizontal"
         android:background="#80cbc4"

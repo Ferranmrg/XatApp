@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Incense</string>
+    <string name="action_logOut">Cerrar sesión</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="userhint">Usuario</string>
+    <string name="passwordhint">Contraseña</string>
+    <string name="loginButton">Iniciar sesión</string>
+    <string name="signup">¿Sin cuenta? Desliza a la izquierda para registrarte</string>
+    <string name="emailHint">Correo</string>
+    <string name="signupButton">Registrarte</string>
+    <string name="subtitle">Annoying people</string>
+    <string name="back_button">Desliza a la derecha para iniciar sesión</string>
+    <string name="tab1">Bandeja</string>
+    <string name="tab2">Amigos</string>
+    <string name="empty_inbox_label">No hay correos nuevos</string>
+    <string name="empty_friends_label">Añade amigos para empezar</string>
+    <string name="action_add_friend">Añade amigos</string>
+
+    <!-- dialogs -->
+    <string name="pickone">Elige una</string>
+    <string name="sendtext">Enviar texto</string>
+    <string name="sendimage">Enviar imagen</string>
+    <string name="sendvideo">Eviar video</string>
+    <string name="sendraw">Enviar dibujo</string>
+    <string name="deletefriend">Borrar amigo</string>
+
+    <string name="yourmessageto">Tu mensaje para </string>
+    <string name="says"> dice:</string>
+
+    <!--draw dialogs -->
+    <string name="brushsize">Tamaño brocha:</string>
+    <string name="erasersize">Tamaño borrador:</string>
+
+    <string name="newdraw">Nuevo dibujo</string>
+    <string name="doyouwantnewdraw">¿Quieres empezar un nuevo dibujo?</string>
+
+    <string name="doyouwantsenddraw">¿Quieres enviar este dibujo?</string>
+
+
+    <string name="yes">Si</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- snackbar messages -->
+
+
+
+
+    <!-- draw thing and stuff -->
+    <string name="start_new">Nuevo</string>
+    <string name="brush">Brocha</string>
+    <string name="erase">Borrar</string>
+    <string name="save">Guardar</string>
+    <string name="paint">Pintura</string>
+    <string name="sml">Pequeño</string>
+    <string name="med">Mediano</string>
+    <string name="lrg">Grande</string>
+</resources>

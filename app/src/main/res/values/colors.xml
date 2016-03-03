@@ -18,4 +18,6 @@
     <color name="light_orange">#E38A48</color>
     <color name ="pressed_orange_button">#AF510B</color>
 
+    <color name="inbox_row">#D1C4E9</color>
+
 </resources>

@@ -154,7 +154,7 @@ public class FriendsFragment extends ListFragment {
 
         final Dialog dialog = new Dialog(getContext());
         dialog.setContentView(R.layout.custom_menu_friend);
-        dialog.setTitle("Pick One");
+        dialog.setTitle(getString(R.string.pickone));
 
         //TEXT
         Button text = (Button) dialog.findViewById(R.id.TextBtn);
@@ -162,7 +162,7 @@ public class FriendsFragment extends ListFragment {
             @Override
             public void onClick(View v) {
                 final Dialog textDiag = new Dialog(getActivity());
-                textDiag.setTitle("Your Message to " + friendEmailName.get(position));
+                textDiag.setTitle(getString(R.string.yourmessageto) + friendEmailName.get(position));
                 textDiag.setContentView(R.layout.custom_text_float_menu);
                 final EditText textContent = (EditText) textDiag.findViewById(R.id.editText);
                 Button send = (Button) textDiag.findViewById(R.id.sendtxtMenuBtn);

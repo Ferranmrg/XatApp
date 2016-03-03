@@ -93,7 +93,7 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
         if (view.getId() == R.id.draw_btn) {
             //draw button clicked
             final Dialog brushDialog = new Dialog(this);
-            brushDialog.setTitle("Brush size:");
+            brushDialog.setTitle(getString(R.string.brushsize));
             brushDialog.setContentView(R.layout.brush_chooser);
 
             ImageButton smallBtn = (ImageButton) brushDialog.findViewById(R.id.small_brush);
@@ -135,7 +135,7 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
         } else if (view.getId() == R.id.erase_btn) {
             //switch to erase - choose size
             final Dialog brushDialog = new Dialog(this);
-            brushDialog.setTitle("Eraser size:");
+            brushDialog.setTitle(getString(R.string.erasersize));
             brushDialog.setContentView(R.layout.brush_chooser);
 
             ImageButton smallBtn = (ImageButton) brushDialog.findViewById(R.id.small_brush);
@@ -173,15 +173,15 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
         } else if (view.getId() == R.id.new_btn) {
             //new button
             AlertDialog.Builder newDialog = new AlertDialog.Builder(this);
-            newDialog.setTitle("Empezar dibujo");
-            newDialog.setMessage("Empezar un nuevo dibujo (Se borrara todo lo que tengas dibujado)?");
-            newDialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+            newDialog.setTitle(getString(R.string.newdraw));
+            newDialog.setMessage(getString(R.string.doyouwantnewdraw));
+            newDialog.setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
                 public void onClick(DialogInterface dialog, int which) {
                     drawView.startNew();
                     dialog.dismiss();
                 }
             });
-            newDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            newDialog.setNegativeButton(getString(R.string.cancel), new DialogInterface.OnClickListener() {
                 public void onClick(DialogInterface dialog, int which) {
                     dialog.cancel();
                 }
@@ -190,9 +190,9 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
         } else if (view.getId() == R.id.save_btn) {
             //save drawing
             AlertDialog.Builder saveDialog = new AlertDialog.Builder(this);
-            saveDialog.setTitle("Enviar Dibujo");
-            saveDialog.setMessage("¿Quieres enviar tu dibujo?");
-            saveDialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+            saveDialog.setTitle(getString(R.string.sendraw));
+            saveDialog.setMessage(getString(R.string.doyouwantsenddraw));
+            saveDialog.setPositiveButton(getString(R.string.yes), new DialogInterface.OnClickListener() {
                 public void onClick(DialogInterface dialog, int which) {
                     //save drawing
                     drawView.setDrawingCacheEnabled(true);
@@ -211,7 +211,7 @@ public class DrawActivity extends AppCompatActivity implements OnClickListener {
 
                 }
             });
-            saveDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            saveDialog.setNegativeButton(getString(R.string.cancel), new DialogInterface.OnClickListener() {
                 public void onClick(DialogInterface dialog, int which) {
                     dialog.cancel();
                 }

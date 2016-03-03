@@ -5,7 +5,7 @@
     <string name="userhint">User</string>
     <string name="passwordhint">Password</string>
     <string name="loginButton">Login</string>
-    <string name="signup">No account? Slide to Sign up ></string>
+    <string name="signup">No account? Slide left to Sign up</string>
     <string name="emailHint">Email</string>
     <string name="signupButton">Sign Up!</string>
     <string name="subtitle">Annoying people</string>
@@ -15,6 +15,35 @@
     <string name="empty_inbox_label">No new messages</string>
     <string name="empty_friends_label">Add some friends to start</string>
     <string name="action_add_friend">Add Friend</string>
+
+    <!-- dialogs -->
+    <string name="pickone">Pick One</string>
+    <string name="sendtext">Send Text</string>
+    <string name="sendimage">Send Image</string>
+    <string name="sendvideo">Send Video</string>
+    <string name="sendraw">Send Draw</string>
+    <string name="deletefriend">Delete Friend</string>
+
+    <string name="yourmessageto">Your Message to</string>
+    <string name="says">Says:</string>
+
+    <!--draw dialogs -->
+    <string name="brushsize">Brush size:</string>
+    <string name="erasersize">Eraser size:</string>
+
+    <string name="newdraw">New Draw</string>
+    <string name="doyouwantnewdraw">Do you want to start a new draw?</string>
+
+    <string name="doyouwantsenddraw">Do you want to send this draw?</string>
+
+
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- snackbar messages -->
+
+
+
 
     <!-- draw thing and stuff -->
     <string name="start_new">New</string>
