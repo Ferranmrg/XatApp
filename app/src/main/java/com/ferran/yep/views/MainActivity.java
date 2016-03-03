@@ -10,6 +10,7 @@ import android.support.design.internal.NavigationMenu;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -27,12 +28,15 @@ import android.view.ViewGroup;
 
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ferran.yep.App;
 import com.ferran.yep.R;
 import com.ferran.yep.controllers.FriendsFragment;
 import com.ferran.yep.controllers.InboxFragment;
+import com.github.fafaldo.fabtoolbar.widget.FABToolbarLayout;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
@@ -41,7 +45,10 @@ import java.util.ArrayList;
 import io.github.yavski.fabspeeddial.FabSpeedDial;
 import io.github.yavski.fabspeeddial.SimpleMenuListenerAdapter;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+    private FABToolbarLayout layout;
+    private View one, two,three;
+    private View fab;
 
     // Contains the actual Fragment
     Fragment fragment = null;
@@ -84,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
         }
         //BOTON FLOTANTE
 
+        /*
         FabSpeedDial fabSpeedDial = (FabSpeedDial) findViewById(R.id.flotatin_button);
         fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
             @Override
@@ -120,7 +128,26 @@ public class MainActivity extends AppCompatActivity {
 
                 return false;
             }
+        }); */
+
+        layout = (FABToolbarLayout) findViewById(R.id.fabtoolbar);
+        one = findViewById(R.id.one);
+        two = findViewById(R.id.two);
+        three = findViewById(R.id.three);
+        fab = findViewById(R.id.fabtoolbar_fab);
+
+        one.setOnClickListener(this);
+        two.setOnClickListener(this);
+        three.setOnClickListener(this);
+
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                layout.show();
+            }
         });
+
+
 
 
 
@@ -142,6 +169,34 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.getTabAt(1).setIcon(R.drawable.ic_people_24dp);
 
 
+
+
+
+    }
+    //LISTENER FAB
+    @Override
+    public void onClick(View v) {
+
+       //Toast.makeText(this, "Element clicked" + v.getContentDescription().toString(), Toast.LENGTH_SHORT).show();
+        if(v.getContentDescription().toString().equals("2")){
+            ParseUser.logOut();
+            ParseUser currentUser = ParseUser.getCurrentUser();
+            Intent intent = new Intent(getApplication(), LoginActivity.class);
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            startActivity(intent);
+
+
+        }
+
+        if(v.getContentDescription().toString().equals("1")){
+            Intent intent = new Intent(getApplication(), AddFriends.class);
+            startActivity(intent);
+        }
+
+        if(v.getContentDescription().toString().equals("3")){
+            layout.hide();
+        }
 
     }
 
@@ -206,6 +261,9 @@ public class MainActivity extends AppCompatActivity {
 
             return 2;
         }
+
+
+
 
         @Override
         public CharSequence getPageTitle(int position) {

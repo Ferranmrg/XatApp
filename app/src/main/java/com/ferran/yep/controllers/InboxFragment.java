@@ -28,6 +28,7 @@ import com.ferran.yep.models.Message;
 import com.ferran.yep.views.Chat;
 import com.ferran.yep.views.InboxAdapter;
 import com.ferran.yep.views.ReadMessages;
+import com.github.fafaldo.fabtoolbar.widget.FABToolbarLayout;
 import com.parse.FindCallback;
 import com.parse.GetCallback;
 import com.parse.GetDataCallback;
@@ -56,15 +57,22 @@ public class InboxFragment extends ListFragment {
     ArrayList<Message> messages;
     protected SwipeRefreshLayout mSwipeRefleshLayout;
     ListAdapter customAdapter;
+    private FABToolbarLayout fablayout;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_inbox, container, false);
+        Log.d("prueba", "onCreateView: oli");
+        fablayout = (FABToolbarLayout) getActivity().findViewById(R.id.fabtoolbar);
+
+
 
         mSwipeRefleshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.SwipeRefreshLayout);
 
         mSwipeRefleshLayout.setOnRefreshListener(mOnRefreshListener);
+
+
 
         messages = new ArrayList<>();
 
@@ -81,6 +89,7 @@ public class InboxFragment extends ListFragment {
     @Override
     public void onResume() {
         super.onResume();
+
         LoadMessages();
     }
 
@@ -197,6 +206,7 @@ public class InboxFragment extends ListFragment {
 
     public void onListItemClick(ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
+        fablayout.hide();
         Collections.sort(messages, new Comparator<Message>() {
             @Override
             public int compare(Message m1, Message m2) {
@@ -238,9 +248,13 @@ public class InboxFragment extends ListFragment {
     protected SwipeRefreshLayout.OnRefreshListener mOnRefreshListener = new SwipeRefreshLayout.OnRefreshListener() {
         @Override
         public void onRefresh() {
+            fablayout.hide();
             LoadMessages();
+
         }
     };
+
+
 
 
 
