@@ -34,7 +34,11 @@
         android:id="@android:id/empty"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/empty_inbox_label" />
+        android:text="@string/empty_inbox_label"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="15dp"
+        android:textColor="@color/white"
+        android:textStyle="italic" />
 
 
 </RelativeLayout>
