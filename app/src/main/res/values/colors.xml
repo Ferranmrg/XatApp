@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
     <color name="colorAccent">#009688</color>
     <color name="light_teal">#B2DFDB</color>
     <color name="pressed_purple_button">#00796B</color>
     <color name="focused_teal_button">#009688</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#BDBDBD</color>
+    <color name="light_grey">#E6E6E6</color>
+
+    <color name="yellow_cd">#FFA000</color>
+    <color name="orange_cd">#D32F2F</color>
 
     <color name="orange">#D46A1C</color>
     <color name="light_orange">#E38A48</color>
     <color name ="pressed_orange_button">#AF510B</color>
+
+    <color name="inbox_row">#D1C4E9</color>
 
 </resources>

@@ -3,17 +3,25 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".views.MainActivity$PlaceholderFragment">
-
+    tools:context=".views.MainActivity$PlaceholderFragment"
+    android:background="@drawable/fondoguay"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp">
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/SwipeRefreshLayout">
     <ListView
         android:id="@android:id/list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true" />
+        android:layout_alignParentLeft="true"
+        android:dividerHeight="10.0sp"/>/>
+    </android.support.v4.widget.SwipeRefreshLayout>
 
     <ProgressBar
         android:layout_width="wrap_content"

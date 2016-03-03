@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 291,
                         "endColumn": 57,
-                        "endOffset": 348
+                        "endOffset": 344
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 63,
+                        "startOffset": 61,
                         "endColumn": 49,
-                        "endOffset": 108
+                        "endOffset": 106
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
-                        "startOffset": 17,
+                        "startOffset": 16,
                         "endColumn": 44,
-                        "endOffset": 57
+                        "endOffset": 56
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 540,
+                        "startOffset": 529,
                         "endColumn": 58,
-                        "endOffset": 594
+                        "endOffset": 583
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 297
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 390,
+                        "startOffset": 382,
                         "endColumn": 43,
-                        "endOffset": 429
+                        "endOffset": 421
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 371
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 745,
+                        "startOffset": 730,
                         "endColumn": 73,
-                        "endOffset": 814
+                        "endOffset": 799
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 433
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 682,
+                        "startOffset": 668,
                         "endColumn": 61,
-                        "endOffset": 739
+                        "endOffset": 725
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 479
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 283,
+                        "startOffset": 277,
                         "endColumn": 45,
-                        "endOffset": 324
+                        "endOffset": 318
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 529
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 232,
+                        "startOffset": 227,
                         "endColumn": 49,
-                        "endOffset": 277
+                        "endOffset": 272
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 603
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 114,
+                        "startOffset": 111,
                         "endColumn": 73,
-                        "endOffset": 183
+                        "endOffset": 180
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 662
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 330,
+                        "startOffset": 323,
                         "endColumn": 58,
-                        "endOffset": 384
+                        "endOffset": 377
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 712
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 435,
+                        "startOffset": 426,
                         "endColumn": 49,
-                        "endOffset": 480
+                        "endOffset": 471
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 765
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 486,
+                        "startOffset": 476,
                         "endColumn": 52,
-                        "endOffset": 534
+                        "endOffset": 524
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 804
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 600,
+                        "startOffset": 588,
                         "endColumn": 38,
-                        "endOffset": 634
+                        "endOffset": 622
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 845
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 640,
+                        "startOffset": 627,
                         "endColumn": 40,
-                        "endOffset": 676
+                        "endOffset": 663
                     }
                 }
             },
@@ -296,61 +296,13 @@
                     "endOffset": 887
                 },
                 "from": {
-                    "file": "C:\\Users\\Ferra\\Documents\\XatAppPlus\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "file": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/values-w820dp/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 189,
+                        "startOffset": 185,
                         "endColumn": 41,
-                        "endOffset": 226
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\Yep\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\C:\\Users\\Ferra\\Documents\\Yep\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 57,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 222
                     }
                 }
             }

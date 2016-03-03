@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':gravatar-android-1.0'

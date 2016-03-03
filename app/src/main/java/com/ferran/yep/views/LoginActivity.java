@@ -17,12 +17,15 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.ferran.yep.App;
 import com.ferran.yep.R;
 import com.parse.LogInCallback;
 import com.parse.Parse;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
+
+import xyz.hanks.library.SmallBang;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -34,6 +37,7 @@ public class LoginActivity extends AppCompatActivity {
     //TEMP de mierda
     private float x1, x2;
     static final int MIN_DISTANCE = 150;
+
     //---------------
 
     @Override
@@ -52,9 +56,11 @@ public class LoginActivity extends AppCompatActivity {
         userField = (EditText) findViewById(R.id.usernameField);
         pwdField = (EditText) findViewById(R.id.passwordField);
         sendBtn = (Button) findViewById(R.id.loginButton);
+        final SmallBang bangAnim = SmallBang.attach2Window(this);
         sendBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                bangAnim.bang(v);
                 clickPerformed();
 
 
@@ -136,15 +142,16 @@ public class LoginActivity extends AppCompatActivity {
                 if (user != null) {
 
                     progress.hide();
+
                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                     intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(intent);
-                    Log.d("prueba", "llego hasta aqui :3 ");
+
                 } else {
                     progress.hide();
                     //Toast.makeText(getApplicationContext(), "Login Failed", Toast.LENGTH_LONG).show();
-                    Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content),"Login Failed :)",Snackbar.LENGTH_LONG);
+                    Snackbar snackbar = Snackbar.make(findViewById(android.R.id.content),"Login Failed :(",Snackbar.LENGTH_LONG);
                     snackbar.show();
                     InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
                     imm.hideSoftInputFromWindow(pwdField.getWindowToken(),InputMethodManager.HIDE_NOT_ALWAYS);

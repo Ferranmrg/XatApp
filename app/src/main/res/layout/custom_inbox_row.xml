@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:padding="7dp"
+    android:background="@color/inbox_row">
+
+    ​
+    ​
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/iconMsg"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="00/00/0000"
+        android:id="@+id/timeMsg"
+        android:textStyle="italic"
+        android:layout_marginRight="22dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/senderMsg"
+        android:text="Usuario"
+        android:textStyle="bold"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/iconMsg"
+        android:layout_toEndOf="@+id/iconMsg" />
+
+</RelativeLayout>

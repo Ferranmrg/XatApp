@@ -22,6 +22,7 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
+    <color name="black">#000000</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -30,9 +31,13 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardview_dark_background">#FF202020</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
     <color name="colorAccent">#009688</color>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -46,13 +51,18 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="fab_background_tint">#FFEEEEEE</color>
+    <color name="fab_drawable_tint">@android:color/white</color>
     <color name="focused_teal_button">#009688</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
+    <color name="grey">#BDBDBD</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="inbox_row">#D1C4E9</color>
+    <color name="light_grey">#E6E6E6</color>
     <color name="light_orange">#E38A48</color>
     <color name="light_teal">#B2DFDB</color>
     <color name="material_blue_grey_800">#ff37474f</color>
@@ -67,7 +77,10 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="mini_fab_drawable_tint">@android:color/black</color>
+    <color name="mini_fab_title_background_tint">@android:color/white</color>
     <color name="orange">#D46A1C</color>
+    <color name="orange_cd">#D32F2F</color>
     <color name="pressed_orange_button">#AF510B</color>
     <color name="pressed_purple_button">#00796B</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
@@ -88,6 +101,9 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="title_text_color">@android:color/black</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_cd">#FFA000</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -99,12 +115,14 @@
     <declare-styleable name="AppBarLayout_LayoutParams"><attr name="layout_scrollFlags"><flag name="scroll" value="0x1"/><flag name="exitUntilCollapsed" value="0x2"/><flag name="enterAlways" value="0x4"/><flag name="enterAlwaysCollapsed" value="0x8"/><flag name="snap" value="0x10"/></attr><attr format="reference" name="layout_scrollInterpolator"/></declare-styleable>
     <declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/></declare-styleable>
     <declare-styleable name="ButtonBarLayout"><attr format="boolean" name="allowStacking"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
     <declare-styleable name="CollapsingAppBarLayout_LayoutParams"><attr name="layout_collapseMode"><enum name="none" value="0"/><enum name="pin" value="1"/><enum name="parallax" value="2"/></attr><attr format="float" name="layout_collapseParallaxMultiplier"/></declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout"><attr format="dimension" name="expandedTitleMargin"/><attr format="dimension" name="expandedTitleMarginStart"/><attr format="dimension" name="expandedTitleMarginTop"/><attr format="dimension" name="expandedTitleMarginEnd"/><attr format="dimension" name="expandedTitleMarginBottom"/><attr format="reference" name="expandedTitleTextAppearance"/><attr format="reference" name="collapsedTitleTextAppearance"/><attr format="color" name="contentScrim"/><attr format="color" name="statusBarScrim"/><attr format="reference" name="toolbarId"/><attr name="collapsedTitleGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="center" value="0x11"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr name="expandedTitleGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="center" value="0x11"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr><attr format="boolean" name="titleEnabled"/><attr name="title"/></declare-styleable>
     <declare-styleable name="CompoundButton"><attr name="android:button"/><attr format="color" name="buttonTint"/><attr name="buttonTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="CoordinatorLayout"><attr format="reference" name="keylines"/><attr format="reference" name="statusBarBackground"/></declare-styleable>
     <declare-styleable name="CoordinatorLayout_LayoutParams"><attr name="android:layout_gravity"/><attr format="string" name="layout_behavior"/><attr format="reference" name="layout_anchor"/><attr format="integer" name="layout_keyline"/><attr name="layout_anchorGravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="arrowHeadLength"/><attr format="dimension" name="arrowShaftLength"/><attr format="dimension" name="barLength"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="FabSpeedDial"><attr format="reference" name="fabMenu"/><attr name="fabGravity"><flag name="bottom_end" value="0x00"/><flag name="bottom_start" value="0x01"/><flag name="top_end" value="0x02"/><flag name="top_start" value="0x03"/></attr><attr format="color|reference" name="fabDrawable"/><attr format="color|reference" name="fabDrawableTint"/><attr format="color|reference" name="fabBackgroundTint"/><attr format="color|reference" name="miniFabBackgroundTint"/><attr format="color|reference" name="miniFabDrawableTint"/><attr format="color|reference" name="miniFabTitleTextColor"/><attr format="color|reference" name="miniFabTitleBackgroundTint"/><attr format="boolean" name="miniFabTitlesEnabled"/></declare-styleable>
     <declare-styleable name="FloatingActionButton"><attr name="backgroundTint"/><attr name="backgroundTintMode"/><attr format="color" name="rippleColor"/><attr name="fabSize"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr><attr name="elevation"/><attr format="dimension" name="pressedTranslationZ"/><attr format="dimension" name="borderWidth"/></declare-styleable>
     <declare-styleable name="ForegroundLinearLayout"><attr name="android:foreground"/><attr name="android:foregroundGravity"/><attr format="boolean" name="foregroundInsidePadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
@@ -114,6 +132,7 @@
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
     <declare-styleable name="NavigationView"><attr name="android:background"/><attr name="android:fitsSystemWindows"/><attr name="android:maxWidth"/><attr name="elevation"/><attr format="reference" name="menu"/><attr format="color" name="itemIconTint"/><attr format="color" name="itemTextColor"/><attr format="reference" name="itemBackground"/><attr format="reference" name="itemTextAppearance"/><attr format="reference" name="headerLayout"/></declare-styleable>
+    <declare-styleable name="ParallaxImageView"><attr format="float" name="parallax_ratio"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
@@ -202,6 +221,10 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbar_padding_horizontal">10dp</dimen>
     <dimen name="appbar_padding_top">10dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
+    <dimen name="coordinator_layout_offset">12dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_fab_border_width">0.5dp</dimen>
     <dimen name="design_fab_content_size">24dp</dimen>
@@ -233,13 +256,23 @@
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_menu_item_margin_top">-16dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="keyline_1">16dp</dimen>
+    <dimen name="keyline_1_minus_8dp">8dp</dimen>
+    <dimen name="large_brush">25dp</dimen>
+    <dimen name="medium_brush">15dp</dimen>
+    <dimen name="mini_fab_margin_bottom">0dp</dimen>
+    <dimen name="mini_fab_margin_left">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_right">@dimen/keyline_1_minus_8dp</dimen>
+    <dimen name="mini_fab_margin_top">0dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <dimen name="small_brush">5dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -257,6 +290,9 @@
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="large_size">25</integer>
+    <integer name="medium_size">15</integer>
+    <integer name="small_size">5</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -277,24 +313,48 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_add_friend">Add Friend</string>
     <string name="action_logOut">Log Out</string>
     <string name="app_name">Incense</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="back_button">Slide right for Log in </string>
+    <string name="brush">Brush</string>
+    <string name="brushsize">Brush size:</string>
+    <string name="cancel">Cancel</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="deletefriend">Delete Friend</string>
+    <string name="doyouwantnewdraw">Do you want to start a new draw?</string>
+    <string name="doyouwantsenddraw">Do you want to send this draw?</string>
     <string name="emailHint">Email</string>
     <string name="empty_friends_label">Add some friends to start</string>
     <string name="empty_inbox_label">No new messages</string>
+    <string name="erase">Erase</string>
+    <string name="erasersize">Eraser size:</string>
     <string name="loginButton">Login</string>
+    <string name="lrg">Large</string>
+    <string name="med">Medium</string>
+    <string name="newdraw">New Draw</string>
+    <string name="paint">Paint</string>
     <string name="passwordhint">Password</string>
+    <string name="pickone">Pick One</string>
+    <string name="save">Save</string>
+    <string name="says">Says:</string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <string name="signup">No account? Slide to Sign up ></string>
+    <string name="sendimage">Send Image</string>
+    <string name="sendraw">Send Draw</string>
+    <string name="sendtext">Send Text</string>
+    <string name="sendvideo">Send Video</string>
+    <string name="signup">No account? Slide left to Sign up</string>
     <string name="signupButton">Sign Up!</string>
+    <string name="sml">Small</string>
+    <string name="start_new">New</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="subtitle">Annoying people</string>
     <string name="tab1">Inbox</string>
     <string name="tab2">Friends</string>
     <string name="userhint">User</string>
+    <string name="yes">Yes</string>
+    <string name="yourmessageto">Your Message to</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1259,6 +1319,49 @@
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="MiniFab">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/mini_fab_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/mini_fab_margin_left</item>
+        <item name="android:layout_marginRight">@dimen/mini_fab_margin_right</item>
+        <item name="android:layout_marginTop">@dimen/mini_fab_margin_top</item>
+        <item name="fabSize">mini</item>
+        <item name="paddingEnd">0dp</item>
+        <item name="paddingStart">0dp</item>
+    </style>
+    <style name="MiniFabLayout">
+        <item name="android:layout_gravity">end</item>
+        <item name="android:layout_marginTop">@dimen/fab_menu_item_margin_top</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/colorAccent</item>
+        <item name="tabIndicatorHeight">3dp</item>
+        <item name="tabPaddingStart">12dp</item>
+        <item name="tabPaddingEnd">12dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+    </style>
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="textAllCaps">false</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1519,6 +1622,23 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="TitleCardView">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="cardBackgroundColor">@android:color/white</item>
+        <item name="cardCornerRadius">8dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="contentPaddingBottom">4dp</item>
+        <item name="contentPaddingLeft">8dp</item>
+        <item name="contentPaddingRight">8dp</item>
+        <item name="contentPaddingTop">4dp</item>
+    </style>
+    <style name="TitleView">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
@@ -1660,5 +1780,9 @@
         <item name="errorTextAppearance">@style/TextAppearance.Design.Error</item>
         <item name="counterTextAppearance">@style/TextAppearance.Design.Counter</item>
         <item name="counterOverflowTextAppearance">@style/TextAppearance.Design.Counter.Overflow</item>
+    </style>
+    <style name="customListView" parent="Widget.AppCompat.ListView">
+        <item name="android:textColor">@color/white</item>
+
     </style>
 </resources>

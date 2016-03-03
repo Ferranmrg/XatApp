@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('gravatar-android-1.0.jar'))

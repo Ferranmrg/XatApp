@@ -3,9 +3,14 @@ package com.ferran.yep.views;
 
 import android.content.Intent;
 import android.content.res.Resources;
+import android.graphics.Color;
+import android.graphics.PorterDuff;
+import android.graphics.drawable.Drawable;
+import android.support.design.internal.NavigationMenu;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -23,17 +28,34 @@ import android.view.ViewGroup;
 
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.ferran.yep.App;
 import com.ferran.yep.R;
 import com.ferran.yep.controllers.FriendsFragment;
 import com.ferran.yep.controllers.InboxFragment;
+import com.github.fafaldo.fabtoolbar.widget.FABToolbarLayout;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+import io.github.yavski.fabspeeddial.FabSpeedDial;
+import io.github.yavski.fabspeeddial.SimpleMenuListenerAdapter;
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+    private FABToolbarLayout layout;
+    private View one, two,three;
+    private View fab;
+
+    // Contains the actual Fragment
+    Fragment fragment = null;
+
+    // Inbox Fragment
+    InboxFragment iFrag = new InboxFragment();
+
 
     /**
      * The {@link android.support.v4.view.PagerAdapter} that will provide
@@ -49,6 +71,8 @@ public class MainActivity extends AppCompatActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
+    Drawable icon1;
+    Drawable icon2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,18 +82,78 @@ public class MainActivity extends AppCompatActivity {
 
         ParseUser currentUser = ParseUser.getCurrentUser();
         if (currentUser != null) {
-
+            App.installation.put("username", currentUser.getUsername());
+            App.installation.saveInBackground();
         } else {
-            Intent intent = new Intent(this, LoginActivity.class);
-            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
-            startActivity(intent);
+
+            Intent i = new Intent(this, SplashScreen.class);
+            startActivity(i);
         }
+        //BOTON FLOTANTE
+
+        /*
+        FabSpeedDial fabSpeedDial = (FabSpeedDial) findViewById(R.id.flotatin_button);
+        fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
+            @Override
+            public boolean onPrepareMenu(NavigationMenu navigationMenu) {
+                // Do something with yout menu items, or return false if you don't want to show them
+                return true;
+            }
+        });
+
+
+        fabSpeedDial.setMenuListener(new SimpleMenuListenerAdapter() {
+            @Override
+            public boolean onMenuItemSelected(MenuItem menuItem) {
+                // Start some activity
+                Log.d("menu", "onMenuItemSelected: "+menuItem.getTitle());
+                //Add Friend
+                //Log Out
+                if(menuItem.getTitle().equals(getString(R.string.action_logOut))){
+                    ParseUser.logOut();
+                    ParseUser currentUser = ParseUser.getCurrentUser();
+                    Intent intent = new Intent(getApplication(), LoginActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                    startActivity(intent);
+                    return true;
+
+                }
+
+                if(menuItem.getTitle().equals(getString(R.string.action_add_friend))){
+                    Intent intent = new Intent(getApplication(), AddFriends.class);
+                    startActivity(intent);
+                    return true;
+                }
+
+                return false;
+            }
+        }); */
+
+        layout = (FABToolbarLayout) findViewById(R.id.fabtoolbar);
+        one = findViewById(R.id.one);
+        two = findViewById(R.id.two);
+        three = findViewById(R.id.three);
+        fab = findViewById(R.id.fabtoolbar_fab);
+
+        one.setOnClickListener(this);
+        two.setOnClickListener(this);
+        three.setOnClickListener(this);
+
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                layout.show();
+            }
+        });
 
 
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+
+
+        //---------------
+
+
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -81,45 +165,39 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        // TODO Poner algo molon en este botón, yeah, hu , nigga
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                       .setAction("Action", null).show();
-            }
-        });
+        tabLayout.getTabAt(0).setIcon(R.drawable.ic_archive_24dp);
+        tabLayout.getTabAt(1).setIcon(R.drawable.ic_people_24dp);
+
+
+
+
 
     }
-
-
+    //LISTENER FAB
     @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
+    public void onClick(View v) {
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_logOut) {
+       //Toast.makeText(this, "Element clicked" + v.getContentDescription().toString(), Toast.LENGTH_SHORT).show();
+        if(v.getContentDescription().toString().equals("2")){
             ParseUser.logOut();
             ParseUser currentUser = ParseUser.getCurrentUser();
-            Intent intent = new Intent(this, LoginActivity.class);
+            Intent intent = new Intent(getApplication(), LoginActivity.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(intent);
-            return true;
+
+
         }
 
-        return super.onOptionsItemSelected(item);
+        if(v.getContentDescription().toString().equals("1")){
+            Intent intent = new Intent(getApplication(), AddFriends.class);
+            startActivity(intent);
+        }
+
+        if(v.getContentDescription().toString().equals("3")){
+            layout.hide();
+        }
+
     }
 
     /**
@@ -169,20 +247,23 @@ public class MainActivity extends AppCompatActivity {
         public Fragment getItem(int position) {
             // getItem is called to instantiate the fragment for the given page.
             // Return a PlaceholderFragment (defined as a static inner class below).
-            Fragment fragment = null;
-            if(position==0) {
-               fragment = new InboxFragment();
-            }else if(position==1) {
-                fragment =  new FriendsFragment();
+            if (position == 0) {
+                fragment = iFrag;
+
+            } else if (position == 1) {
+                fragment = new FriendsFragment();
             }
-         return fragment;
+            return fragment;
         }
 
         @Override
         public int getCount() {
-            // Show 3 total pages.
+
             return 2;
         }
+
+
+
 
         @Override
         public CharSequence getPageTitle(int position) {

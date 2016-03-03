@@ -3,6 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".views.MainActivity">
     <item
+        android:id="@+id/action_add_friend"
+        android:orderInCategory="100"
+        android:title="@string/action_add_friend"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/action_logOut"
         android:orderInCategory="100"
         android:title="@string/action_logOut"

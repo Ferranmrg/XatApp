@@ -1,10 +1,25 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.yayandroid.parallaxlistview.ParallaxListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parallaxListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:cacheColorHint="@android:color/transparent"
+    />
+
+
+
+
+
+
+
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".views.MainActivity$PlaceholderFragment">
+    tools:context=".views.MainActivity$PlaceholderFragment"
+    android:background="@drawable/fondoguay_spin">
 
     <ListView android:id="@android:id/list" android:layout_width="match_parent"
         android:layout_height="match_parent" android:layout_alignParentTop="true"
@@ -18,4 +33,4 @@
         android:layout_height="wrap_content" android:text="@string/empty_friends_label" />
 
 
-</RelativeLayout>
+</RelativeLayout> -->

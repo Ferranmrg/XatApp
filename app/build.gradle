@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.ferran.yep"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -20,10 +20,23 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.android.support:design:23.0.1'
+    compile 'hanks.xyz:smallbang-library:0.1.2'
+    compile 'io.github.yavski:fab-speed-dial:1.0.3'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.easing:library:1.0.1@aar'
+    compile 'com.daimajia.androidanimations:library:1.1.3@aar'
     compile 'com.android.support:design:23.1.1'
     compile 'com.parse.bolts:bolts-android:1.+'
     compile 'com.parse:parse-android:1.+'
+    compile 'com.yayandroid:ParallaxListView:1.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.github.fafaldo:fab-toolbar:1.2.0'
+    compile files('libs/gravatar-android-1.0.jar')
+    compile 'com.android.support:design:23.2.0'
 }
+
+
