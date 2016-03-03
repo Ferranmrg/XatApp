@@ -103,7 +103,7 @@ public class ReadMessages extends AppCompatActivity {
 
         Message message = (Message) getIntent().getExtras().getSerializable("Message");
         if (message.getMessage() != null)
-            txtFrom.setText(message.getFrom() + getString(R.string.says));
+            txtFrom.setText(message.getFrom() +" "+ getString(R.string.says));
         if (message.getMessage() != null) {
             txtMessage.setText(message.getMessage());
             textBox.setBackgroundColor(getResources().getColor(R.color.white));

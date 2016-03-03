@@ -162,7 +162,7 @@ public class FriendsFragment extends ListFragment {
             @Override
             public void onClick(View v) {
                 final Dialog textDiag = new Dialog(getActivity());
-                textDiag.setTitle(getString(R.string.yourmessageto) + friendEmailName.get(position));
+                textDiag.setTitle(getString(R.string.yourmessageto) +" "+ friendEmailName.get(position));
                 textDiag.setContentView(R.layout.custom_text_float_menu);
                 final EditText textContent = (EditText) textDiag.findViewById(R.id.editText);
                 Button send = (Button) textDiag.findViewById(R.id.sendtxtMenuBtn);
