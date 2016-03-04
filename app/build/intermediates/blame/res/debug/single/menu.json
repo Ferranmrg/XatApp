@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fbutton.xml",
-        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\menu\\menu_fbutton.xml"
-    },
-    {
         "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fbutton.xml",
         "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\src\\main\\res\\menu\\menu_fbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fbutton.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\menu\\menu_fbutton.xml"
     },
     {
         "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",

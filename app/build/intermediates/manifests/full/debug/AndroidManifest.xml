@@ -90,6 +90,9 @@
             android:name="com.ferran.yep.views.AddFriends"
             android:parentActivityName="com.ferran.yep.views.MainActivity" />
         <activity android:name="com.ferran.yep.views.SplashScreen" />
+        <activity
+            android:name="za.co.riggaroo.materialhelptutorial.tutorial.MaterialTutorialActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
     </application>
 
 </manifest>

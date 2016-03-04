@@ -242,16 +242,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return tutorialItems;
     }
 
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        //    super.onActivityResult(requestCode, resultCode, data);
-        if (resultCode == RESULT_OK && requestCode == REQUEST_CODE){
-            //Toast.makeText(this, "Tutorial finished", Toast.LENGTH_LONG).show();
-            Log.d("tutorial", "onActivityResult: Tutorial terminado");
-
-        }
-    }
-
 
     /**
      * A placeholder fragment containing a simple view.

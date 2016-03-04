@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:2:1-93:12
+ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:2:1-96:12
 	xmlns:android
 		ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -58,7 +58,7 @@ ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManife
 	android:name
 		ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:25:9-47
 application
-ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:28:5-91:19
+ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:28:5-94:19
 MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
@@ -113,6 +113,16 @@ MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [za.co.riggaroo:materialhelptutorial:1.0.3] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\za.co.riggaroo\materialhelptutorial\1.0.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:percent:23.1.1] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.github.fafaldo\fab-toolbar\1.2.0\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:25:5-20
@@ -248,6 +258,12 @@ activity#com.ferran.yep.views.SplashScreen
 ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:89:9-65
 	android:name
 		ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:89:19-53
+activity#za.co.riggaroo.materialhelptutorial.tutorial.MaterialTutorialActivity
+ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:91:9-92:71
+	android:theme
+		ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:92:13-69
+	android:name
+		ADDED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml:91:19-103
 uses-sdk
 INJECTED from C:\Users\Ferran\StudioProjects\XatAppFinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
@@ -309,6 +325,16 @@ MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [za.co.riggaroo:materialhelptutorial:1.0.3] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\za.co.riggaroo\materialhelptutorial\1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:percent:23.1.1] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\percent\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\AndroidManifest.xml:20:5-43
 MERGED from [com.yayandroid:ParallaxListView:1.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.yayandroid\ParallaxListView\1.0\AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.fafaldo:fab-toolbar:1.2.0] C:\Users\Ferran\StudioProjects\XatAppFinal\app\build\intermediates\exploded-aar\com.github.fafaldo\fab-toolbar\1.2.0\AndroidManifest.xml:7:5-9:41
