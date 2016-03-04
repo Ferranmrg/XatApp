@@ -44,6 +44,15 @@
     <string name="loginFail">Inicio de sesion fallido :(</string>
     <string name="alreadyFriends">Ya sois amigos :)</string>
 
+    <!-- tutorial text -->
+    <string name="tutorial1t">Incense</string>
+    <string name="tutorial1s">Incense te permite enviar mensajes, fotos, videos y dibujos entre tus amigos y solo tienen 10 segundos para verlo! Awesome!</string>
+    <string name="tutorial2t">El comienzo</string>
+    <string name="tutorial2s">Empieza añadiendo a tus amigos dando al boton + y al primer icono y pulsale</string>
+    <string name="tutorial3t">Hello world</string>
+    <string name="tutorial3s">Ve a la pestaña de amigos y vuelve a pulsar a tu amigo y elige que quieres enviarles</string>
+    <string name="tutorial4t">Estas listo padawan</string>
+    <string name="tutorial4s">Ya sabes todo lo que tienes que saber para usar Incense. Diviertete!</string>
 
 
     <!-- draw thing and stuff -->
@@ -53,6 +62,6 @@
     <string name="save">Guardar</string>
     <string name="paint">Pintura</string>
     <string name="sml">Pequeño</string>
-    <string name="med">Mediano</string>
+ 3   <string name="med">Mediano</string>
     <string name="lrg">Grande</string>
 </resources>

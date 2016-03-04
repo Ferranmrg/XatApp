@@ -21,6 +21,7 @@
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
     <string name="action_add_friend">Añade amigos</string>
     <string name="action_logOut">Cerrar sesión</string>
+    <string name="alreadyFriends">Ya sois amigos :)</string>
     <string name="app_name">Incense</string>
     <string name="back_button">Desliza a la derecha para iniciar sesión</string>
     <string name="brush">Brocha</string>
@@ -35,6 +36,7 @@
     <string name="erase">Borrar</string>
     <string name="erasersize">Tamaño borrador:</string>
     <string name="loginButton">Iniciar sesión</string>
+    <string name="loginFail">Inicio de sesion fallido :(</string>
     <string name="lrg">Grande</string>
     <string name="med">Mediano</string>
     <string name="newdraw">Nuevo dibujo</string>
@@ -56,6 +58,14 @@
     <string name="subtitle">Annoying people</string>
     <string name="tab1">Bandeja</string>
     <string name="tab2">Amigos</string>
+    <string name="tutorial1s">Incense te permite enviar mensajes, fotos, videos y dibujos entre tus amigos y solo tienen 10 segundos para verlo! Awesome!</string>
+    <string name="tutorial1t">Incense</string>
+    <string name="tutorial2s">Empieza añadiendo a tus amigos dando al boton + y al primer icono y pulsale</string>
+    <string name="tutorial2t">El comienzo</string>
+    <string name="tutorial3s">Ve a la pestaña de amigos y vuelve a pulsar a tu amigo y elige que quieres enviarles</string>
+    <string name="tutorial3t">Hello world</string>
+    <string name="tutorial4s">Ya sabes todo lo que tienes que saber para usar Incense. Diviertete!</string>
+    <string name="tutorial4t">Estas listo padawan</string>
     <string name="userhint">Usuario</string>
     <string name="yes">Si</string>
     <string name="yourmessageto">Tu mensaje para </string>

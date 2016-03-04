@@ -94,6 +94,15 @@
                 android:src="@drawable/ic_log_out"/>
 
             <ImageView
+                android:id="@+id/four"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="centerInside"
+                android:contentDescription="4"
+                android:src="@drawable/ic_help_24dp"/>
+
+            <ImageView
                 android:id="@+id/three"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"

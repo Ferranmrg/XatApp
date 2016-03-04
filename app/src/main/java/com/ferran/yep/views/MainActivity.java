@@ -1,6 +1,7 @@
 package com.ferran.yep.views;
 
 
+import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Color;
@@ -44,12 +45,14 @@ import java.util.ArrayList;
 
 import io.github.yavski.fabspeeddial.FabSpeedDial;
 import io.github.yavski.fabspeeddial.SimpleMenuListenerAdapter;
+import za.co.riggaroo.materialhelptutorial.TutorialItem;
+import za.co.riggaroo.materialhelptutorial.tutorial.MaterialTutorialActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     private FABToolbarLayout layout;
-    private View one, two,three;
+    private View one, two,three, four;
     private View fab;
-
+    private static final int REQUEST_CODE = 1234;
     // Contains the actual Fragment
     Fragment fragment = null;
 
@@ -89,6 +92,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Intent i = new Intent(this, SplashScreen.class);
             startActivity(i);
         }
+
+
+
         //BOTON FLOTANTE
 
         /*
@@ -134,11 +140,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         one = findViewById(R.id.one);
         two = findViewById(R.id.two);
         three = findViewById(R.id.three);
+        four = findViewById(R.id.four);
         fab = findViewById(R.id.fabtoolbar_fab);
 
         one.setOnClickListener(this);
         two.setOnClickListener(this);
         three.setOnClickListener(this);
+        four.setOnClickListener(this);
 
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -198,7 +206,52 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             layout.hide();
         }
 
+        if(v.getContentDescription().toString().equals("4")){
+            loadTutorial();
+        }
+
     }
+
+
+    public void loadTutorial() {
+        Intent mainAct = new Intent(this, MaterialTutorialActivity.class);
+        mainAct.putParcelableArrayListExtra(MaterialTutorialActivity.MATERIAL_TUTORIAL_ARG_TUTORIAL_ITEMS, getTutorialItems(this));
+        startActivityForResult(mainAct, REQUEST_CODE);
+
+    }
+
+    private ArrayList<TutorialItem> getTutorialItems(Context context) {
+        TutorialItem tutorialItem1 = new TutorialItem(R.string.tutorial1t, R.string.tutorial1s,
+                R.color.colorAccent, R.drawable.ic_pajarot, R.drawable.ic_pajarot);
+
+        TutorialItem tutorialItem2 = new TutorialItem(R.string.tutorial2t, R.string.tutorial2s,
+                R.color.orange,  R.drawable.t1t,R.drawable.t1t);
+
+        TutorialItem tutorialItem3 = new TutorialItem(R.string.tutorial3t, R.string.tutorial3s,
+                R.color.colorPrimary,  R.drawable.t3t,R.drawable.t3t);
+
+        TutorialItem tutorialItem4 = new TutorialItem(R.string.tutorial4t, R.string.tutorial4s,
+                R.color.colorPrimaryDark,  R.drawable.pajarot2png,  R.drawable.pajarot2png);
+
+        ArrayList<TutorialItem> tutorialItems = new ArrayList<>();
+        tutorialItems.add(tutorialItem1);
+        tutorialItems.add(tutorialItem2);
+        tutorialItems.add(tutorialItem3);
+        tutorialItems.add(tutorialItem4);
+
+        return tutorialItems;
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        //    super.onActivityResult(requestCode, resultCode, data);
+        if (resultCode == RESULT_OK && requestCode == REQUEST_CODE){
+            //Toast.makeText(this, "Tutorial finished", Toast.LENGTH_LONG).show();
+            Log.d("tutorial", "onActivityResult: Tutorial terminado");
+
+        }
+    }
+
 
     /**
      * A placeholder fragment containing a simple view.

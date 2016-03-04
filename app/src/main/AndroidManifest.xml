@@ -88,6 +88,9 @@
 
         <activity android:name=".views.SplashScreen"></activity>
 
+        <activity android:name="za.co.riggaroo.materialhelptutorial.tutorial.MaterialTutorialActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
     </application>
 
 </manifest>
