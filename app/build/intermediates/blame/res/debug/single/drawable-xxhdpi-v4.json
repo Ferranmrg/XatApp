@@ -1,39 +1,251 @@
 [
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_copy_material.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_format_color_reset_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_format_color_reset_24dp.png"
     },
     {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_off_mtrl.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_btn_radio_off_mtrl.png"
+    },
+    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_exit_to_app_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_overflow_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_txtmsg.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_txtmsg.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edittext_login_textfield_disabled_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/edittext_login_textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_overflow.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_overflow.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/avatar_selected.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/avatar_selected.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_on_mtrl.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_tab_friends.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_tab_friends.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_create_24dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_create_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_camera.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_spin.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background_spin.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_add_24dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_imgmsg.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_imgmsg.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_person_add_24dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person_add_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_send.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_send.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_highlight_remove_24dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_highlight_remove_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edittext_login_textfield_disabled_focused_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/edittext_login_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_activated_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_focused_holo_light.9.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_video.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_fill.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background_fill.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_log_out.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_log_out.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_clear_24dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_clear_24dp.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_paste_material.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_content_paste_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_content_paste_24dp.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_people_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_people_24dp.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_disabled_focused_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_disabled_focused_holo_light.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
@@ -45,27 +257,15 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edittext_login_textfield_activated_holo_light.9.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/edittext_login_textfield_activated_holo_light.9.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_txtmsg.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_txtmsg.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
@@ -81,19 +281,11 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_videomsg.png",
@@ -105,67 +297,35 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edittext_login_textfield_disabled_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/edittext_login_textfield_disabled_holo_light.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_default_holo_light.9.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_default_holo_light.9.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_overflow.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_overflow.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/avatar_selected.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/avatar_selected.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_tab_friends.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_tab_friends.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_ab_back_material.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/avatar_empty.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/avatar_empty.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_create_24dp.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_create_24dp.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_checkbox_checked_mtrl.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_btn_checkbox_checked_mtrl.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
@@ -177,15 +337,7 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_camera.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_camera.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_picture.png",
@@ -193,7 +345,7 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -205,11 +357,7 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
@@ -217,107 +365,43 @@
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_spin.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background_spin.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_tab_inbox.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_tab_inbox.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_sync_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sync_24dp.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_imgmsg.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_imgmsg.png"
-    },
-    {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_person_add_24dp.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person_add_24dp.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_menu_send.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_menu_send.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_highlight_remove_24dp.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_highlight_remove_24dp.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edittext_login_textfield_disabled_focused_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/edittext_login_textfield_disabled_focused_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_activated_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_activated_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/myyep_textfield_focused_holo_light.9.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/myyep_textfield_focused_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_video.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/ic_video.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_material.png",
+        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/abc_ic_clear_material.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_undo_24dp.png",
         "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_undo_24dp.png"
-    },
-    {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_fill.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/drawable-xxhdpi/background_fill.png"
     },
     {
         "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_brush_24dp.png",
