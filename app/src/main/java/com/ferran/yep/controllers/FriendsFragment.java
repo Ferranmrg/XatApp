@@ -105,6 +105,8 @@ public class FriendsFragment extends ListFragment {
 
         query.whereEqualTo("user", ParseUser.getCurrentUser().getUsername());
 
+        query.orderByAscending("friend");
+
         query.findInBackground(new FindCallback<ParseObject>() {
             public void done(List<ParseObject> messageList, ParseException e) {
                 if (e == null) {

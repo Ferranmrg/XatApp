@@ -142,7 +142,7 @@ public class InboxFragment extends ListFragment {
                                                            }
 
                                                        });
-                                                       Aux.add(i, "Image From:" + M.getFrom());
+                                                       Aux.add("Image From:" + M.getFrom());
                                                    } else if (drawObject != null) {
                                                        drawObject.getDataInBackground(new GetDataCallback() {
                                                            public void done(byte[] data, ParseException e) {
@@ -171,10 +171,10 @@ public class InboxFragment extends ListFragment {
                                                                setListAdapter(customAdapter);
                                                            }
                                                        });
-                                                       Aux.add(i, "Video From:" + M.getFrom());
+                                                       Aux.add("Video From:" + M.getFrom());
                                                    } else {
                                                        messages.add(M);
-                                                       Aux.add(i, "Message From:" + M.getFrom());
+                                                       Aux.add("Message From:" + M.getFrom());
 
                                                    }
                                                    if (getActivity() != null) {

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-v21/fab_add_clear_selector.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/io.github.yavski/fab-speed-dial/1.0.3/res/drawable-v21/fab_add_clear_selector.xml"
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fab_add_clear_selector.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.3\\res\\drawable-v21\\fab_add_clear_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\fab_add_clear_selector.xml",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\exploded-aar\\io.github.yavski\\fab-speed-dial\\1.0.3\\res\\drawable-v21\\fab_add_clear_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

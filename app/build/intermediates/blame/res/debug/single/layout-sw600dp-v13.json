@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

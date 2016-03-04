@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher_clean.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_clean.png"
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/pedrovelasco/AndroidStudioProjects/XatApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_clean.png",
+        "source": "C:\\Users\\Ferran\\StudioProjects\\XatAppFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_clean.png"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_clean.png",
+        "source": "C:\\Users\\pedrovelasco\\AndroidStudioProjects\\XatApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_clean.png"
     }
 ]
