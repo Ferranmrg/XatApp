@@ -105,7 +105,7 @@ public class FriendsFragment extends ListFragment {
 
         query.whereEqualTo("user", ParseUser.getCurrentUser().getUsername());
 
-        query.orderByAscending("friend");
+        //query.orderByAscending("friend");
 
         query.findInBackground(new FindCallback<ParseObject>() {
             public void done(List<ParseObject> messageList, ParseException e) {
@@ -117,7 +117,7 @@ public class FriendsFragment extends ListFragment {
 
                         ParseQuery<ParseUser> query = ParseUser.getQuery();
                         query.whereEqualTo("username", messageList.get(i).get("friend").toString());
-                        query.orderByAscending("username");
+                        //query.orderByAscending("username");
                         query.getFirstInBackground(new GetCallback<ParseUser>() {
                             @Override
                             public void done(ParseUser object, ParseException e) {
@@ -126,7 +126,7 @@ public class FriendsFragment extends ListFragment {
 
 
                                 parallaxListView.setAdapter(
-                                        new FriendsAdapter(getActivity(), friendEmailName, friendEmailName.size(), friendEmail));
+                                        new FriendsAdapter(getContext(), friendEmailName, friendEmailName.size(), friendEmail));
                                // Log.d("email", "done: " + object.getEmail() + "---------------" + object.getUsername());
 
                             }
@@ -312,7 +312,7 @@ public class FriendsFragment extends ListFragment {
                 public void done(List<ParseUser> userList, ParseException e) {
                     if (e == null) {
                         ParseQuery<ParseInstallation> pushQuery = ParseInstallation.getQuery();
-                        pushQuery.whereMatches("username", userList.get(0).getUsername());
+                        pushQuery.whereMatches("username", toUser);
                         ParsePush PS = new ParsePush();
                         PS.setQuery(pushQuery);
                         JSONObject fromUsuJson = new JSONObject();
