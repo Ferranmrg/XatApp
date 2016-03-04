@@ -41,7 +41,8 @@
     <string name="cancel">Cancel</string>
 
     <!-- snackbar messages -->
-
+    <string name="loginFail">Login Failed :(</string>
+    <string name="alreadyFriends">Already Friends :)</string>
 
 
 
